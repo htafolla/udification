@@ -14,6 +14,8 @@
 - π: order ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV)) 
 - ☥: life ([John 3:16](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV))
 
+**Note on Symbols**: Proof of God’s existence in mathematics, based on His Word ([John 1:1](https://www.biblegateway.com/passage/?search=John%201%3A1&version=NIV)). αω: Eternal ([Rev. 22:13](https://www.biblegateway.com/passage/?search=Revelation%2022%3A13&version=NIV)). λ: Reason ([John 1:1](https://www.biblegateway.com/passage/?search=John%201%3A1&version=NIV), [Mal. 3:6](https://www.biblegateway.com/passage/?search=Malachi%203%3A6&version=NIV)). ∞: Limitless ([Ps. 90:2](https://www.biblegateway.com/passage/?search=Psalm%2090%3A2&version=NIV)). ∑⊤: Truth’s sum ([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NIV), [Col. 2:3](https://www.biblegateway.com/passage/?search=Colossians%202%3A3&version=NIV)). π: Order ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV)). ☥: Life ([John 3:16](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV)). A designed universe ([Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians%201%3A17&version=NIV)), not chance.
+
 ## Theological Basis
 
 ### Yah (Father)
@@ -94,7 +96,7 @@ Sinner ([Rom. 3:23](https://www.biblegateway.com/passage/?search=Romans%203%3A23
 Framework by Human Blaze, disciple of Yeshua, to unveil His Word for this generation.
 
 ## Addendum 2
-Symbols reflect vastness.
+Symbols reflect vastness. They are not an inscription or representation of God as that cannot be known ([Ex. 33:20](https://www.biblegateway.com/passage/?search=Exodus%2033%3A20&version=NIV)).
 
 ## Addendum 3
 Sacrifice suffices ([Heb. 10:10](https://www.biblegateway.com/passage/?search=Hebrews%2010%3A10&version=NIV)); avoid willful sin ([Rom. 6:1](https://www.biblegateway.com/passage/?search=Romans%206%3A1&version=NIV)). 
