@@ -1,18 +1,26 @@
 # Trinitarian Model of Cosmic Manifestation Through Divine Transfer (TMCMDT)
 
+**Overview**: This model unveils the cosmos as a manifestation of Yah’s authority transferred to Yeshua, sustained by the Holy Spirit, symbolized as αω λ ∞ ∑⊤ π ☥—a proof of God’s design in mathematics ([John 1:1](https://www.biblegateway.com/passage/?search=John%201%3A1&version=NIV)).  
+- αω: Eternal ([Rev. 22:13](https://www.biblegateway.com/passage/?search=Revelation%2022%3A13&version=NIV))  
+- λ: Reason ([John 1:1](https://www.biblegateway.com/passage/?search=John%201%3A1&version=NIV), [Mal. 3:6](https://www.biblegateway.com/passage/?search=Malachi%203%3A6&version=NIV))  
+- ∞: Limitless ([Ps. 90:2](https://www.biblegateway.com/passage/?search=Psalm%2090%3A2&version=NIV))  
+- ∑⊤: Truth’s sum ([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NIV), [Col. 2:3](https://www.biblegateway.com/passage/?search=Colossians%202%3A3&version=NIV))  
+- π: Order ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV))  
+- ☥: Life ([John 3:16](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV))  
+
 ## Fundamentals
 
-### Yah's Word (YW) - The Source of All Authority
-- **The Divine Decree**: Yah's word represents the initial act of transferring power, glory, and dominion to Yeshua ([John 1:1-3](https://www.biblegateway.com/passage/?search=John%201%3A1-3&version=NIV)). It's the foundation upon which all creation and authority rest, setting the stage for Yeshua's role in the cosmos ([Matt. 28:18](https://www.biblegateway.com/passage/?search=Matthew%2028%3A18&version=NIV)).
+### Yah's Word (YW, αω λ) - The Source of All Authority
+- **The Divine Decree**: Yah's word, eternal and reasoned (αω λ), transfers power, glory, and dominion to Yeshua ([John 1:1-3](https://www.biblegateway.com/passage/?search=John%201%3A1-3&version=NIV)). It’s the foundation of all creation and authority, setting Yeshua’s cosmic role ([Matt. 28:18](https://www.biblegateway.com/passage/?search=Matthew%2028%3A18&version=NIV)).
 
-### Light (L) - Yeshua, The Embodiment of Dominion
-- **The Manifestation of Authority**: Light is not just the agent of creation but also embodies the dominion, power, and glory transferred from Yah ([Col. 1:16](https://www.biblegateway.com/passage/?search=Colossians%201%3A16&version=NIV)). Yeshua, through His word (light), acts upon the void, creating and sustaining the universe ([John 1:3](https://www.biblegateway.com/passage/?search=John%201%3A3&version=NIV)). His light is a direct expression of the authority bestowed upon Him ([John 8:12](https://www.biblegateway.com/passage/?search=John%208%3A12&version=NIV)).
+### Light (L, π ∑⊤) - Yeshua, The Embodiment of Dominion
+- **The Manifestation of Authority**: Light, ordered and true (π ∑⊤), embodies Yah’s transferred dominion ([Col. 1:16](https://www.biblegateway.com/passage/?search=Colossians%201%3A16&version=NIV)). Yeshua, as light, acts on the void, creating and sustaining all ([John 1:3](https://www.biblegateway.com/passage/?search=John%201%3A3&version=NIV), [John 8:12](https://www.biblegateway.com/passage/?search=John%208%3A12&version=NIV)).
 
-### Holy Spirit (HS) - The Sustainer of Divine Unity
-- **The Unifying Force**: The Holy Spirit ensures that the authority and dominion given to Yeshua by Yah's word are effectively manifested and sustained throughout creation ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis%201%3A2&version=NIV)). It’s the spirit that permeates and binds all things, making the transfer of power not just an event but an ongoing reality ([John 16:13](https://www.biblegateway.com/passage/?search=John%2016%3A13&version=NIV)).
+### Holy Spirit (HS, ∞) - The Sustainer of Divine Unity
+- **The Unifying Force**: The Holy Spirit, limitless (∞), ensures Yah’s authority in Yeshua manifests and endures across creation ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis%201%3A2&version=NIV), [John 16:13](https://www.biblegateway.com/passage/?search=John%2016%3A13&version=NIV)).
 
-### Water (W) - The Medium of Manifestation
-- **The Environment for Dominion**: Water symbolizes the medium where divine dominion is made tangible ([John 3:5](https://www.biblegateway.com/passage/?search=John%203%3A5&version=NIV)). It’s where the Holy Spirit and Yeshua’s light interact to bring forth and nurture life, reflecting the dominion’s practical application in creation ([Gen. 1:9-10](https://www.biblegateway.com/passage/?search=Genesis%201%3A9-10&version=NIV)).
+### Water (W, H₂O, ☥) - The Medium of Manifestation
+- **The Environment for Dominion**: Water (W), scientifically H₂O and symbolically life (☥), is the tangible medium of divine dominion ([John 3:5](https://www.biblegateway.com/passage/?search=John%203%3A5&version=NIV)). Here, the Holy Spirit and Yeshua’s light nurture existence, reflecting ordered creation ([Gen. 1:9-10](https://www.biblegateway.com/passage/?search=Genesis%201%3A9-10&version=NIV), [Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians%201%3A17&version=NIV)).
 
 ## Principles
 
