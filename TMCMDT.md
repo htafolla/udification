@@ -54,26 +54,30 @@
 - This model encourages viewing the cosmos not just as a physical system but as a manifestation of divine authority and love, where each scientific discovery is a step closer to understanding the breadth of Yeshua’s dominion ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV)).
 
 ## Scientific Proofs
-## Proof 1: Order of the Cosmos (π)
+
+### Proof 1: Order of the Cosmos (π)
 **Claim**: The universe’s mathematical order reflects Yeshua’s dominion as the Logos ([John 1:1-3](https://www.biblegateway.com/passage/?search=John%201%3A1-3&version=NIV)).  
 **Symbol**: π—order ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV)).  
-**Science**: Pi (π ≈ 3.14159) governs circles—planetary orbits, star cycles, even atomic structures. Earth’s orbit around the sun, a near-perfect ellipse, relies on π for its stability, measurable via Kepler’s laws.  
-**His Word**: "The heavens declare the glory of God; the skies proclaim the work of his hands" ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV)). Yeshua holds all together ([Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians%201%3A17&version=NIV)).  
-**Proof**: π’s universal presence isn’t chance—it’s Yeshua’s ordered design, sustaining creation from void ([Gen. 1:2-3](https://www.biblegateway.com/passage/?search=Genesis%201%3A2-3&version=NIV)) to eternity—αω π.
+**Science**: Pi (π ≈ 3.14159) governs circles—planetary orbits, star cycles, atomic structures. Earth’s orbit, a near-perfect ellipse, relies on π for stability, measurable via Kepler’s laws.  
+**Formula**: Circumference, C = 2πr (r = radius). Earth’s orbit: C ≈ 2 × 3.14159 × 149.6 million km ≈ 940 million km—consistent since creation’s order was set ([Gen. 1:14-16](https://www.biblegateway.com/passage/?search=Genesis%201%3A14-16&version=NIV)).  
+**His Word**: "The heavens declare the glory of God" ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm%2019%3A1&version=NIV)). Yeshua holds all together ([Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians%201%3A17&version=NIV)).  
+**Proof**: π’s universal precision proves Yeshua’s ordered design—αω π.
 
-## Proof 2: Life Through Water (H₂O, ☥)
+### Proof 2: Life Through Water (H₂O, ☥)
 **Claim**: Water, as H₂O, is the medium of life, ordained by Yah through Yeshua and the Spirit ([John 3:5](https://www.biblegateway.com/passage/?search=John%203%3A5&version=NIV)).  
 **Symbol**: ☥—life ([John 3:16](https://www.biblegateway.com/passage/?search=John%203%3A16&version=NIV)).  
-**Science**: H₂O’s unique properties—hydrogen bonds create surface tension, high specific heat, and solvent capacity—make life possible. Earth’s 71% water coverage sustains all biology, from cells to ecosystems.  
-**His Word**: "The Spirit of God was hovering over the waters" ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis%201%3A2&version=NIV)); "born of water and the Spirit" ([John 3:5](https://www.biblegateway.com/passage/?search=John%203%3A5&version=NIV)). Yeshua gives living water ([John 4:14](https://www.biblegateway.com/passage/?search=John%204%3A14&version=NIV)).  
-**Proof**: H₂O’s life-giving design, set at creation ([Gen. 1:9-10](https://www.biblegateway.com/passage/?search=Genesis%201%3A9-10&version=NIV)), proves Yah’s intent through Yeshua’s dominion—☥ manifest.
+**Science**: H₂O’s unique properties—hydrogen bonds create high specific heat, enabling life. Earth’s 71% water coverage sustains biology.  
+**Formula**: Specific heat, Q = mcΔT (m = mass, c = specific heat ≈ 4.18 J/g°C for H₂O, ΔT = temp change). Example: 1 kg H₂O absorbs 4180 J to rise 1°C—stabilizing Earth’s climate ([Gen. 1:9-10](https://www.biblegateway.com/passage/?search=Genesis%201%3A9-10&version=NIV)).  
+**His Word**: "The Spirit hovered over the waters" ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis%201%3A2&version=NIV)); Yeshua gives living water ([John 4:14](https://www.biblegateway.com/passage/?search=John%204%3A14&version=NIV)).  
+**Proof**: H₂O’s design proves Yah’s life-giving intent through Yeshua—☥ manifest.
 
-## Proof 3: Eternity in Light (∞)
+### Proof 3: Eternity in Light (∞)
 **Claim**: Light’s infinite reach mirrors Yah’s eternal nature, enacted by Yeshua ([Rev. 21:23](https://www.biblegateway.com/passage/?search=Revelation%2021%3A23&version=NIV)).  
 **Symbol**: ∞—limitless ([Ps. 90:2](https://www.biblegateway.com/passage/?search=Psalm%2090%3A2&version=NIV)).  
-**Science**: Light travels at 299,792 km/s, crossing vast distances—e.g., from stars billions of years old, visible today. Its electromagnetic spectrum (visible, UV, infrared) sustains life and reveals cosmic history.  
-**His Word**: "God said, ‘Let there be light,’ and there was light" ([Gen. 1:3](https://www.biblegateway.com/passage/?search=Genesis%201%3A3&version=NIV)). Yeshua is "the light of the world" ([John 8:12](https://www.biblegateway.com/passage/?search=John%208%3A12&version=NIV)); new heaven needs no sun, for God’s glory shines ([Rev. 21:23](https://www.biblegateway.com/passage/?search=Revelation%2021%3A23&version=NIV)).  
-**Proof**: Light’s boundless reach—from creation to eternity—echoes Yah’s timeless reign through Yeshua—αω ∞.
+**Science**: Light travels at c = 299,792 km/s, crossing vast distances—e.g., from stars 13 billion years old.  
+**Formula**: Distance, d = ct (c = speed of light, t = time). Example: Light from a 13 billion-year-old star travels d = 299,792 × 4.1 × 10¹⁷ s ≈ 1.23 × 10²³ km—visible today ([Gen. 1:3](https://www.biblegateway.com/passage/?search=Genesis%201%3A3&version=NIV)).  
+**His Word**: "Let there be light" ([Gen. 1:3](https://www.biblegateway.com/passage/?search=Genesis%201%3A3&version=NIV)); Yeshua is light ([John 8:12](https://www.biblegateway.com/passage/?search=John%208%3A12&version=NIV)), God’s glory eternal ([Rev. 21:23](https://www.biblegateway.com/passage/?search=Revelation%2021%3A23&version=NIV)).  
+**Proof**: Light’s reach proves Yah’s timeless reign through Yeshua—αω ∞.
 
 ---
 *Last Updated*: March 05, 2025, 7:30 PM EST
