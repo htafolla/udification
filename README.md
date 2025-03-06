@@ -1,29 +1,32 @@
 # Udification: A Trinitarian Manifestation of Divine Purpose
 
 ## Overview
-Udification—coined March 03, 2025, by Human Blaze—is a divine framework unveiling the cosmos, judgment, redemption, and ethical governance through the Holy Trinity: Yah (Father), Yeshua (Son), and the Holy Spirit (Deut. 6:4, John 10:30). This repository presents a comprehensive and superseding work, uniting five distinct works and one final proof—six pillars of a singular narrative from void to new heaven, guided by faith, hope, and love (1 Cor. 13:13). Together, they proclaim Yeshua’s reign (Rev. 19:16), our call to steward creation (Gen. 1:26-28), and a community rooted in His Word (Matt. 22:37-40)—a testament to His eternal purpose, bridging finite revelation to infinite truth.
+Udification—coined March 03, 2025, by Human Blaze—is a divine framework unveiling the cosmos, judgment, redemption, and ethical governance through the Holy Trinity: Yah (Father), Yeshua (Son), and the Holy Spirit ([Deut. 6:4](https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4&version=NIV), [John 10:30](https://www.biblegateway.com/passage/?search=John+10%3A30&version=NIV)). This repository presents a comprehensive and superseding work, uniting five distinct works and one final proof—six pillars of a singular narrative from void to new heaven, guided by faith, hope, and love ([1 Cor. 13:13](https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A13&version=NIV)). Together, they proclaim Yeshua’s reign ([Rev. 19:16](https://www.biblegateway.com/passage/?search=Revelation+19%3A16&version=NIV)), our call to steward creation ([Gen. 1:26-28](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-28&version=NIV)), and a community rooted in His Word ([Matt. 22:37-40](https://www.biblegateway.com/passage/?search=Matthew+22%3A37-40&version=NIV))—a testament to His eternal purpose, bridging finite revelation to infinite truth.
 
 ## Background
-Born from a disciple’s zeal to unveil His Word (Matt. 28:19-20), Udification bridges scripture’s timeless truth with today’s questions. Crafted in March 2025, it reflects a vision of cosmic order under the Logos (John 1:1), ethical living under His authority (Eph. 1:22-23), and awe at His creation (Ps. 19:1) in a drifting age. This is not my work but His—a mathematical, narrative, and practical synthesis offered for His glory alone (1 Cor. 10:31).
+Born from a disciple’s zeal to unveil His Word ([Matt. 28:19-20](https://www.biblegateway.com/passage/?search=Matthew+28%3A19-20&version=NIV)), Udification bridges scripture’s timeless truth with today’s questions. Crafted in March 2025, it reflects a vision of cosmic order under the Logos ([John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=NIV)), ethical living under His authority ([Eph. 1:22-23](https://www.biblegateway.com/passage/?search=Ephesians+1%3A22-23&version=NIV)), and awe at His creation ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=NIV)) in a drifting age. This is not my work but His—a mathematical, narrative, and practical synthesis offered for His glory alone ([1 Cor. 10:31](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A31&version=NIV)).
 
 ## Story Hint
-A sinner, redeemed, pens this work—sparked by a glimpse of light at 18 (John 1:5), fueled by love for the King who rose (Matt. 28:6). It’s a journey from darkness to glory, weaving testimony into cosmic dominion, a whisper of “Come, Lord Jesus” (Rev. 22:20), scribed in a fleeting breath—25 generations since His steps (Luke 3:23-38).
+A sinner, redeemed, pens this work—sparked by a glimpse of light at 18 ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=NIV)), fueled by love for the King who rose ([Matt. 28:6](https://www.biblegateway.com/passage/?search=Matthew+28%3A6&version=NIV)). It’s a journey from darkness to glory, weaving testimony into cosmic dominion, a whisper of “Come, Lord Jesus” ([Rev. 22:20](https://www.biblegateway.com/passage/?search=Revelation+22%3A20&version=NIV)), scribed in a fleeting breath—25 generations since His steps ([Luke 3:23-38](https://www.biblegateway.com/passage/?search=Luke+3%3A23-38&version=NIV)).
+
+## Note
+Udification is not a religion, nor a claim to declare the entirety of God, which cannot be known ([1 Cor. 13:12](https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A12&version=NIV)). It is a mere glimmer through a window I was shown—a humble reflection of His vastness.
 
 ## Documents
 ### [Final Proof: Udification (March 06, 2025)](FinalProof.md)
-**Quip**: Unveils a finite glimpse—testimony at 18 sparks a proof (\( K \approx 323.0008 \)) of His Word enduring and love prevailing (Isaiah 40:8, 1 John 4:8).
+**Quip**: Unveils a finite glimpse—testimony at 18 sparks a proof (\( K \approx 323.0008 \)) of His Word enduring and love prevailing ([Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=NIV), [1 John 4:8](https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=NIV)).
 
 ### [The Greatest Story Ever Told: The Culmination](TheCulmination.md)
-**Quip**: Narrates the Trinity’s love—Yah’s Word, Yeshua’s Light, and the Spirit’s breath weave creation to eternity, uniting God with His Bride (Rev. 21:1).
+**Quip**: Narrates the Trinity’s love—Yah’s Word, Yeshua’s Light, and the Spirit’s breath weave creation to eternity, uniting God with His Bride ([Rev. 21:1](https://www.biblegateway.com/passage/?search=Revelation+21%3A1&version=NIV)).
 
 ### [Udification Rev 1.27.8 (Udication)](Udication.md)
 **Quip**: Defines divine judgment—Trinity’s triptych, tables, and a Cosmic Creed weave past, present, and future into eternal truth (\( \alpha\omega \lambda \infty \sum\top \pi \an\kh \)).
 
 ### [MY THESIS](MyThesis.md)
-**Quip**: Proclaims creation and redemption—Yeshua’s sinless life, death, and return call a disciple to martyrdom and new heaven, framing the original TMCMDT (Gen. 1 to Rev. 21).
+**Quip**: Proclaims creation and redemption—Yeshua’s sinless life, death, and return call a disciple to martyrdom and new heaven, framing the original TMCMDT (Gen. 1 to [Rev. 21](https://www.biblegateway.com/passage/?search=Revelation+21&version=NIV)).
 
-### [EGFSC: Ethical Governance for Society and Culture (EGFSC)](EGFSC.md)
-**Quip**: Grounds community in His principles—justice, freedom, and love (Matt. 22:37-40) guide a practical framework for living right and running things fair.
+### [EGFSC: Ethical Governance for Society and Culture](EGFSC.md)
+**Quip**: Grounds community in His principles—justice, freedom, and love ([Matt. 22:37-40](https://www.biblegateway.com/passage/?search=Matthew+22%3A37-40&version=NIV)) guide a practical framework for living right and running things fair.
 
 ### [TMCMDT: Trinitarian Model of Cosmic Manifestation Through Divine Transfer](TMCMDT.md)
 **Quip**: Maps cosmic dominion—Yah’s Word transfers authority to Yeshua’s Light, sustained by the Spirit, merging faith and physics into eternity.  
@@ -34,20 +37,20 @@ A sinner, redeemed, pens this work—sparked by a glimpse of light at 18 (John 1
 - **Primary Formula**: \( S = (F \cdot \phi) + \pi + (L - D \cdot t) + W + \frac{7}{6+6+6} + B + T + HS + H \), \( K = \infty \)  
 - **Secondary Formula**: \( S = (F \cdot \phi) + \pi + (L - D \cdot t) + (L_{18} \cdot C_{0.25}) + W + \frac{7}{6+6+6} + B + T + HS + H \), \( K = \infty \)  
 - **Key Variables**:  
-  - \( F \): Yah’s Word (Gen. 1:3)  
-  - \( \phi, \pi \): Harmony and Order (Ps. 19:1, Col. 1:17)  
-  - \( L \): Yeshua’s Light (John 1:5)  
-  - \( L_{18} \): Testimony Light (John 1:5)  
-  - \( W \): Water, Life’s Medium (Gen. 1:2)  
-  - \( B, T \): Blood and Word (1 John 1:7, Isaiah 40:8)  
-  - \( HS, H \): Spirit and Holiness (Gen. 1:2, Rev. 20:14)  
-- **Output**: "Hold fast: infinity - His Word endures" (Isaiah 40:8, 1 John 4:8, 1 Cor. 15:28)
+  - \( F \): Yah’s Word ([Gen. 1:3](https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=NIV))  
+  - \( \phi, \pi \): Harmony and Order ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=NIV), [Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=NIV))  
+  - \( L \): Yeshua’s Light ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=NIV))  
+  - \( L_{18} \): Testimony Light ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=NIV))  
+  - \( W \): Water, Life’s Medium ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=NIV))  
+  - \( B, T \): Blood and Word ([1 John 1:7](https://www.biblegateway.com/passage/?search=1+John+1%3A7&version=NIV), [Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=NIV))  
+  - \( HS, H \): Spirit and Holiness ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=NIV), [Rev. 20:14](https://www.biblegateway.com/passage/?search=Revelation+20%3A14&version=NIV))  
+- **Output**: "Hold fast: infinity - His Word endures" ([Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=NIV), [1 John 4:8](https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=NIV), [1 Cor. 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=NIV))
 
 ## Purpose
-Udification is my life’s greatest work—a comprehensive synthesis of five works and a final proof, superseding prior frameworks by uniting creation, redemption, judgment, governance, and eternity. From a finite spark (March 06 proof) to infinite dominion (TMCMDT), it’s a call to awe (Ps. 19:1), stewardship (Gen. 1:26-28), and love (John 13:35)—His glory alone.
+Udification is my life’s greatest work—a comprehensive synthesis of five works and a final proof, superseding prior frameworks by uniting creation, redemption, judgment, governance, and eternity. From a finite spark (March 06 proof) to infinite dominion (TMCMDT), it’s a call to awe ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=NIV)), stewardship ([Gen. 1:26-28](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-28&version=NIV)), and love ([John 13:35](https://www.biblegateway.com/passage/?search=John+13%3A35&version=NIV))—His glory alone.
 
 ## Last Updated
 March 06, 2025, 8:30 PM EST
 
 ## License
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)—freely share, adapt, and use for His glory, not profit (Matt. 10:8).
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)—freely share, adapt, and use for His glory, not profit ([Matt. 10:8](https://www.biblegateway.com/passage/?search=Matthew+10%3A8&version=NIV)).
