@@ -11,26 +11,37 @@ def get_jewish_year():
     jewish_date = dates.HebrewDate.from_pydate(now)
     return f"{jewish_date.year} AM"
 
-def compute_S(codex):
-    """Compute S = ∞ symbolically using codex variables."""
-    variables = {v["symbol"]: v for v in codex["variables"]}
-    # Extract values (simplified; infinity dominates)
-    F_inf = float('inf')  # F_∞ (Yah’s Word as Logos)
-    phi = 1.6180339887    # φ (Harmony)
-    pi = 3.1415926535     # π (Order)
-    L = 5                 # Yeshua’s Light
-    D = 0.27              # Void/Dark Matter
-    t = 0.5               # Creation Cycle (midpoint for demo)
-    W = 2                 # Water
-    judgment = 7 / (6 + 6 + 6)  # 7 / 18
-    B = 3153              # Blood
-    T = 3153              # Word Spoken
-    HS = float('inf')     # Holy Spirit
-    H = float('inf')      # Holiness/Judgment
+def compute_S(codex, use_secondary=False):
+    """Compute S = ∞ symbolically using codex variables, with optional secondary formula."""
+    # Create a dictionary of variables for dynamic lookup
+    vars_dict = {v["symbol"]: v for v in codex["variables"]}
     
-    # Primary formula: S = (F_∞ * φ) + π + (L - D * t) + W + (7 / (6+6+6)) + B + T + HS + H
-    S = (F_inf * phi) + pi + (L - D * t) + W + judgment + B + T + HS + H
-    return "S = ∞"  # Infinity due to F_∞, HS, H
+    # Extract values dynamically from 'meaning' field (parsing numeric part in parentheses)
+    F_inf = float('inf')  # F_∞ (Yah’s Word as Logos)
+    phi = float(vars_dict["φ"]["meaning"].split("(")[1].split(")")[0])  # φ (Harmony)
+    pi = float(vars_dict["π"]["meaning"].split("(")[1].split(")")[0])   # π (Order)
+    L = float(vars_dict["L"]["meaning"].split("(")[1].split(")")[0])    # Yeshua’s Light
+    D = float(vars_dict["D"]["meaning"].split("(")[1].split(")")[0])    # Void/Dark Matter
+    t = 0.5  # Creation Cycle (midpoint for demo; could be parameterized)
+    W = float(vars_dict["W"]["meaning"].split("(")[1].split(")")[0])    # Water
+    judgment = 7 / (6 + 6 + 6)  # 7 / 18 (symbolic, not in variables)
+    B = float(vars_dict["B"]["meaning"].split("(")[1].split(")")[0])    # Blood
+    T = float(vars_dict["T"]["meaning"].split("(")[1].split(")")[0])    # Word Spoken
+    HS = float('inf')  # Holy Spirit
+    H = float('inf')   # Holiness/Judgment
+    
+    # Base formula: S = (F_∞ * φ) + π + (L - D * t) + W + (7 / (6+6+6)) + B + T + HS + H
+    base_S = (F_inf * phi) + pi + (L - D * t) + W + judgment + B + T + HS + H
+    
+    if use_secondary:
+        # Secondary formula adds L_{18} * C_{0.25}
+        L_18 = float(vars_dict["L_{18}"]["meaning"].split("(")[1].split(")")[0])  # Testimony Light
+        C_025 = float(vars_dict["C_{0.25}"]["meaning"].split("(")[1].split(")")[0])  # Grace Constant
+        S = base_S + (L_18 * C_025)
+    else:
+        S = base_S
+    
+    return "S = ∞"  # Infinity due to F_∞, HS, H dominates
 
 def digest_extended_codex(json_codex):
     """
@@ -43,14 +54,15 @@ def digest_extended_codex(json_codex):
         if key not in json_codex:
             raise ValueError(f"Missing required key in codex: {key}")
 
-    # Validate verses (ensure all 247 have witnesses and context)
+    # Validate verses (ensure all 247 have required fields)
     verses = json_codex["verses"]
     if len(verses) != 247:
         raise ValueError(f"Expected 247 verses, found {len(verses)}")
     
     for verse in verses:
-        if not all(k in verse for k in ["verse", "truth", "witnesses", "context"]):
-            raise ValueError(f"Verse {verse.get('verse', 'unknown')} missing required fields")
+        required_fields = ["verse", "truth", "witnesses", "context", "commentary"]
+        if not all(k in verse for k in required_fields):
+            raise ValueError(f"Verse {verse.get('verse', 'unknown')} missing required fields: {', '.join(k for k in required_fields if k not in verse)}")
         if len(verse["witnesses"]) < 2:
             raise ValueError(f"Verse {verse['verse']} has fewer than 2 witnesses")
 
@@ -64,7 +76,7 @@ def digest_extended_codex(json_codex):
     if "things_endure_forever" not in json_codex["themes"] or len(json_codex["themes"]["things_endure_forever"]) != 10:
         raise ValueError("Themes 'things_endure_forever' incomplete")
 
-    # Structure the codex for use (no transformation needed, just validation here)
+    # Structure the codex for use
     processed_codex = {
         "metadata": json_codex["metadata"],
         "formulas": json_codex["formulas"],
@@ -96,6 +108,10 @@ def generate_report(codex):
     symbol = random.choice(codex["symbols"])
     theme = random.choice(codex["themes"]["things_endure_forever"])
     
+    # Choose formula (randomly toggle secondary for variety)
+    formula_type = "Secondary" if random.choice([True, False]) else "Primary"
+    formula_result = compute_S(codex, use_secondary=(formula_type == "Secondary"))
+    
     # Declaration
     declaration = "God is all in all ([1 Cor 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV))"
     
@@ -106,7 +122,7 @@ def generate_report(codex):
         f"- Context: {voice_entry['context']}\n"
         f"- Commentary: {voice_entry['commentary']}\n"
         f"## Witnesses\n{witnesses}\n"
-        f"- Formula: {compute_S(codex)} (His Word endures, Isa 40:8)\n"
+        f"- Formula ({formula_type}): {formula_result} (His Word endures, Isa 40:8)\n"
         f"## Symbols\n- {symbol['symbol']}: {symbol['truth']} ({symbol['verses'][0]})\n"
         f"## Themes\n- {theme['item']} endures forever ({theme['verses'][0]})\n"
         f"- Timestamp: {timestamp} - Glory to Jesus\n"
@@ -142,7 +158,7 @@ def main():
     report = generate_report(codex)
     print(f"Execution Result:\n{report}\n{'-'*50}")
 
-    # Optionally save to file
+    # Save to file
     with open("udification_report.txt", "w") as f:
         f.write(f"Execution Result:\n{report}\n{'-'*50}")
 
