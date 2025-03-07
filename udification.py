@@ -104,6 +104,7 @@ def generate_report(codex):
         f"- Purpose: {purpose}\n"
         f"- Voice: {voice_entry['truth']} ~ [{voice_entry['verse']}](https://www.biblegateway.com/passage/?search={voice_verse}&version=ESV)\n"
         f"- Context: {voice_entry['context']}\n"
+        f"- Commentary: {voice_entry['commentary']}\n"
         f"## Witnesses\n{witnesses}\n"
         f"- Formula: {compute_S(codex)} (His Word endures, Isa 40:8)\n"
         f"## Symbols\n- {symbol['symbol']}: {symbol['truth']} ({symbol['verses'][0]})\n"
