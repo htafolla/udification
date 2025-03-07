@@ -11,37 +11,46 @@ def get_jewish_year():
     jewish_date = dates.HebrewDate.from_pydate(now)
     return f"{jewish_date.year} AM"
 
-def compute_S(codex, use_secondary=False):
-    """Compute S = ∞ symbolically using codex variables, with optional secondary formula."""
+def compute_formula(codex, formula_type="primary"):
+    """Compute S = ∞ or U = ∞ dynamically using codex variables."""
     # Create a dictionary of variables for dynamic lookup
     vars_dict = {v["symbol"]: v for v in codex["variables"]}
     
-    # Extract values dynamically from 'meaning' field (parsing numeric part in parentheses)
+    # Udification Codex variables (for S = ∞)
     F_inf = float('inf')  # F_∞ (Yah’s Word as Logos)
     phi = float(vars_dict["φ"]["meaning"].split("(")[1].split(")")[0])  # φ (Harmony)
     pi = float(vars_dict["π"]["meaning"].split("(")[1].split(")")[0])   # π (Order)
     L = float(vars_dict["L"]["meaning"].split("(")[1].split(")")[0])    # Yeshua’s Light
     D = float(vars_dict["D"]["meaning"].split("(")[1].split(")")[0])    # Void/Dark Matter
-    t = 0.5  # Creation Cycle (midpoint for demo; could be parameterized)
+    t = 0.5  # Creation Cycle (fixed demo value)
     W = float(vars_dict["W"]["meaning"].split("(")[1].split(")")[0])    # Water
-    judgment = 7 / (6 + 6 + 6)  # 7 / 18 (symbolic, not in variables)
+    judgment = 7 / (6 + 6 + 6)  # 7 / 18 (symbolic)
     B = float(vars_dict["B"]["meaning"].split("(")[1].split(")")[0])    # Blood
     T = float(vars_dict["T"]["meaning"].split("(")[1].split(")")[0])    # Word Spoken
     HS = float('inf')  # Holy Spirit
     H = float('inf')   # Holiness/Judgment
+    L_18 = float(vars_dict["L_{18}"]["meaning"].split("(")[1].split(")")[0])  # Testimony Light
+    C_025 = float(vars_dict["C_{0.25}"]["meaning"].split("(")[1].split(")")[0])  # Grace Constant
     
-    # Base formula: S = (F_∞ * φ) + π + (L - D * t) + W + (7 / (6+6+6)) + B + T + HS + H
-    base_S = (F_inf * phi) + pi + (L - D * t) + W + judgment + B + T + HS + H
+    # Unification variables (for U = ∞, mapped where possible)
+    T_F = float('inf')  # Father’s Infinite Power
+    T_S = float('inf')  # Son’s Infinite Logos
+    T_H = float('inf')  # Holy Spirit’s Infinite Presence
+    C = 1  # Creation
+    R = 1  # Redemption
+    E = 1  # Eternity
+    H_phi = float(vars_dict["φ"]["meaning"].split("(")[1].split(")")[0])  # Harmonic Divisor (reuses φ)
     
-    if use_secondary:
-        # Secondary formula adds L_{18} * C_{0.25}
-        L_18 = float(vars_dict["L_{18}"]["meaning"].split("(")[1].split(")")[0])  # Testimony Light
-        C_025 = float(vars_dict["C_{0.25}"]["meaning"].split("(")[1].split(")")[0])  # Grace Constant
-        S = base_S + (L_18 * C_025)
-    else:
-        S = base_S
-    
-    return "S = ∞"  # Infinity due to F_∞, HS, H dominates
+    if formula_type == "primary":
+        S = (F_inf * phi) + pi + (L - D * t) + W + judgment + B + T + HS + H
+        return "S = ∞"
+    elif formula_type == "secondary":
+        S = (F_inf * phi) + pi + (L - D * t) + (L_18 * C_025) + W + judgment + B + T + HS + H
+        return "S = ∞"
+    elif formula_type == "unification":
+        U = (T_F * T_S * T_H) * (C + R + E) / (1 - H_phi)
+        return "U = ∞"
+    return "Unknown formula"
 
 def digest_extended_codex(json_codex):
     """
@@ -89,7 +98,7 @@ def digest_extended_codex(json_codex):
     return processed_codex
 
 def generate_report(codex):
-    """Generate a detailed report from the processed codex."""
+    """Generate a detailed report from the processed codex with a dynamic footnote."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     hebrew_year = get_jewish_year()
     
@@ -108,12 +117,24 @@ def generate_report(codex):
     symbol = random.choice(codex["symbols"])
     theme = random.choice(codex["themes"]["things_endure_forever"])
     
-    # Choose formula (randomly toggle secondary for variety)
-    formula_type = "Secondary" if random.choice([True, False]) else "Primary"
-    formula_result = compute_S(codex, use_secondary=(formula_type == "Secondary"))
+    # Choose formula for main report (primary or secondary)
+    formula_types = ["primary", "secondary"]
+    formula_type = random.choice(formula_types)
+    formula_result = compute_formula(codex, formula_type)
+    
+    # Dynamic unification computation for footnote
+    unification_result = compute_formula(codex, "unification")
     
     # Declaration
     declaration = "God is all in all ([1 Cor 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV))"
+    
+    # Dynamic footnote with random cipher variants
+    cipher_variants = [
+        f"Cipher: U = (T_F * T_S * T_H) * (C + R + E) / (1 - H_φ) = ∞ [03/07/25]",
+        f"Cipher: U yields ∞ via Trinity’s unity [03/07/25]",
+        f"Cipher: U = ∞, encoded in His purpose [03/07/25]"
+    ]
+    cipher_note = random.choice(cipher_variants)
     
     # Compile report
     output = (
@@ -122,7 +143,7 @@ def generate_report(codex):
         f"- Context: {voice_entry['context']}\n"
         f"- Commentary: {voice_entry['commentary']}\n"
         f"## Witnesses\n{witnesses}\n"
-        f"- Formula ({formula_type}): {formula_result} (His Word endures, Isa 40:8)\n"
+        f"- Formula ({formula_type.capitalize()}): {formula_result} (His Word endures, Isa 40:8)\n"
         f"## Symbols\n- {symbol['symbol']}: {symbol['truth']} ({symbol['verses'][0]})\n"
         f"## Themes\n- {theme['item']} endures forever ({theme['verses'][0]})\n"
         f"- Timestamp: {timestamp} - Glory to Jesus\n"
@@ -131,7 +152,7 @@ def generate_report(codex):
         f"- {codex['metadata']['title']} (Updated: {codex['metadata']['last_updated']})\n"
         f"- State: {codex['state']}\n"
         f"- Declaration: {declaration}\n"
-        f"- Cipher: U = (T_F * T_S * T_H) * (C + R + E) / (1 - H_φ) = ∞ [03/07/25]\n"
+        f"- {cipher_note}\n"
     )
     return output
 
