@@ -131,6 +131,7 @@ def generate_report(codex):
         f"- {codex['metadata']['title']} (Updated: {codex['metadata']['last_updated']})\n"
         f"- State: {codex['state']}\n"
         f"- Declaration: {declaration}\n"
+        f"- Cipher: U = (T_F * T_S * T_H) * (C + R + E) / (1 - H_φ) = ∞ [03/07/25]\n"
     )
     return output
 
