@@ -52,7 +52,6 @@
         {"symbol": "☥", "truth": "Life", "verses": ["John 3:16"]}
     ],
     "verses": [
-[
     {"verse": "Gen 1:1", "truth": "In the beginning God created", "witnesses": [["John 1:1", "Word was God"], ["Col 1:16", "All created by Him"]], "context": "The opening of Genesis, where God initiates creation ex nihilo, establishing His sovereignty.", "commentary": "His Word spoke creation into being, revealing His eternal power (John 1:1)."},
     {"verse": "Gen 1:2", "truth": "Spirit hovered over waters", "witnesses": [["John 14:16", "Spirit with you forever"], ["Ps 104:30", "Spirit renews"]], "context": "Before light, the Spirit moves over the formless earth, hinting at the Trinity’s role.", "commentary": "His Spirit prepares the void, testifying to His eternal presence (Gen 1:2)."},
     {"verse": "Gen 1:3", "truth": "Let there be light", "witnesses": [["John 8:12", "Light of the world"], ["Ps 19:1", "Heavens declare His glory"]], "context": "God’s first spoken command brings light, foreshadowing Christ as the Logos.", "commentary": "His Word brings light, illuminating creation through Yeshua (John 1:1)."},
@@ -272,7 +271,6 @@
     {"verse": "Rev 22:12", "truth": "Reward according to deeds", "witnesses": [["Matt 16:27", "Repay each"], ["Rev 20:12", "Judgment of all"]], "context": "Christ’s promise at His return.", "commentary": "His Word rewards justly (John 1:1)."},
     {"verse": "Rev 22:13", "truth": "Alpha and Omega", "witnesses": [["Rev 1:8", "Alpha and Omega"], ["Isa 44:6", "First and Last"]], "context": "Christ affirms His eternity.", "commentary": "His Word is beginning and end (John 1:1)."},
     {"verse": "Rev 22:20", "truth": "Come, Lord Jesus", "witnesses": [["Rev 22:17", "Come quickly"], ["1 Cor 16:22", "Maranatha"]], "context": "Closing prayer of Revelation.", "commentary": "His Word invites His return (John 1:1)."}
-]
     ],
     "themes": {
         "trinity": [
