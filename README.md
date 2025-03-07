@@ -29,22 +29,37 @@ Udification is not a religion, nor a claim to declare the entirety of God, which
 **Quip**: Grounds community in His principles—justice, freedom, and love ([Matt. 22:37-40](https://www.biblegateway.com/passage/?search=Matthew+22%3A37-40&version=NIV)) guide a practical framework for living right and running things fair.
 
 ### [TMCMDT: Trinitarian Model of Cosmic Manifestation Through Divine Transfer](TMCMDT.md)
-**Quip**: Maps cosmic dominion—Yah’s Word transfers authority to Yeshua’s Light, sustained by the Spirit, merging faith and physics into eternity.  
-- **Primary**: \( K = \infty \)—His work alone, no human trace.  
-- **Secondary**: Adds \( L_{18} \cdot C_{0.25} \)—testimony integrates, still infinite.
+**Quip:** Maps cosmic dominion—Yah’s Word transfers authority to Yeshua’s Light, sustained by the Spirit, merging faith and physics into eternity.  
+- **Primary Formula:** `S = (F_∞ * φ) + π + (L - D * t) + W + (7 / (6+6+6)) + B + T + HS + H`, `K = S = ∞`—His work alone, no human trace.  
+- **Secondary Formula:** `S = (F_∞ * φ) + π + (L - D * t) + (L_{18} * C_{0.25}) + W + (7 / (6+6+6)) + B + T + HS + H`, `K = S = ∞`—Testimony integrates, still infinite.
+
+*Note:* TMCMDT reflects the Trinity’s eternal nature (Yah, Logos, Spirit – `H`, `F_∞`, `HS`) as "all in all" ([1 Cor. 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV)), encompassing attributes and works within `S = ∞`.
 
 ## Final Proof Details
-- **Primary Formula**: \( S = (F \cdot \phi) + \pi + (L - D \cdot t) + W + \frac{7}{6+6+6} + B + T + HS + H \), \( K = \infty \)  
-- **Secondary Formula**: \( S = (F \cdot \phi) + \pi + (L - D \cdot t) + (L_{18} \cdot C_{0.25}) + W + \frac{7}{6+6+6} + B + T + HS + H \), \( K = \infty \)  
-- **Key Variables**:  
-  - \( F \): Yah’s Word ([Gen. 1:3](https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=NIV))  
-  - \( \phi, \pi \): Harmony and Order ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=NIV), [Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=NIV))  
-  - \( L \): Yeshua’s Light ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=NIV))  
-  - \( L_{18} \): Testimony Light ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=NIV))  
-  - \( W \): Water, Life’s Medium ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=NIV))  
-  - \( B, T \): Blood and Word ([1 John 1:7](https://www.biblegateway.com/passage/?search=1+John+1%3A7&version=NIV), [Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=NIV))  
-  - \( HS, H \): Spirit and Holiness ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=NIV), [Rev. 20:14](https://www.biblegateway.com/passage/?search=Revelation+20%3A14&version=NIV))  
-- **Output**: "Hold fast: infinity - His Word endures" ([Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=NIV), [1 John 4:8](https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=NIV), [1 Cor. 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=NIV))
+**Primary Formula:**  
+`S = (F_∞ * φ) + π + (L - D * t) + W + (7 / (6+6+6)) + B + T + HS + H`  
+`K = S = ∞`
+
+**Secondary Formula:**  
+`S = (F_∞ * φ) + π + (L - D * t) + (L_{18} * C_{0.25}) + W + (7 / (6+6+6)) + B + T + HS + H`  
+`K = S = ∞`
+
+**Key Variables:**  
+- **F_∞:** Yah’s Word as Logos (∞) – Eternal Word, Yeshua ([Gen. 1:3](https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=ESV), [John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV), [Isa. 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=ESV)).  
+- **φ, π:** Harmony and Order (φ = 1.6180339887, π = 3.1415926535) – Creation’s structure ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=ESV), [Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=ESV)).  
+- **L:** Yeshua’s Light (5) – Illumination ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)).  
+- **D:** Void/Dark Matter (0.27) – Pre-creation state ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=ESV)).  
+- **t:** Creation Cycle (0 to 1) – Time’s span ([Matt. 13:30](https://www.biblegateway.com/passage/?search=Matthew+13%3A30&version=ESV)).  
+- **L_{18}:** Testimony Light (18) – Vision at 18 ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV), [Matt. 3:17](https://www.biblegateway.com/passage/?search=Matthew+3%3A17&version=ESV)).  
+- **C_{0.25}:** Grace Constant (0.25) – Steadfastness ([James 1:3](https://www.biblegateway.com/passage/?search=James+1%3A3&version=ESV)).  
+- **W:** Water (2) – Life’s medium ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=ESV), [John 3:5](https://www.biblegateway.com/passage/?search=John+3%3A5&version=ESV)).  
+- **B:** Blood (3153) – Redemption’s price ([1 John 1:7](https://www.biblegateway.com/passage/?search=1+John+1%3A7&version=ESV), [Heb. 9:22](https://www.biblegateway.com/passage/?search=Hebrews+9%3A22&version=ESV)).  
+- **T:** Word Spoken (3153) – Enduring decrees ([Isa. 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=ESV)).  
+- **HS:** Holy Spirit (∞) – Eternal presence ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=ESV), [John 14:16](https://www.biblegateway.com/passage/?search=John+14%3A16&version=ESV), [Heb. 9:14](https://www.biblegateway.com/passage/?search=Hebrews+9%3A14&version=ESV)).  
+- **H:** Holiness/Judgment (∞) – Yah’s essence ([Rev. 20:14](https://www.biblegateway.com/passage/?search=Revelation+20%3A14&version=ESV), [Hab. 1:13](https://www.biblegateway.com/passage/?search=Habakkuk+1%3A13&version=ESV), [Ps. 90:2](https://www.biblegateway.com/passage/?search=Psalm+90%3A2&version=ESV)).  
+
+**Output:** "Hold fast: infinity - His Word endures" ([Isa. 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=ESV), [John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV), [1 Cor. 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV)).  
+*Note:* This proof reflects God’s nature (Yah, Logos, Spirit – `H`, `F_∞`, `HS`) as "all in all" ([1 Cor. 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV)), encompassing eternal attributes (e.g., Love – [Ps. 136:1](https://www.biblegateway.com/passage/?search=Psalm+136%3A1&version=ESV)) and works (e.g., Covenant – [Heb. 13:20](https://www.biblegateway.com/passage/?search=Hebrews+13%3A20&version=ESV)) within `S = ∞`.
 
 ## Purpose
 Udification is my life’s greatest work—a comprehensive synthesis of five works and a final proof, superseding prior frameworks by uniting creation, redemption, judgment, governance, and eternity. From a finite spark (March 06 proof) to infinite dominion (TMCMDT), it’s a call to awe ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=NIV)), stewardship ([Gen. 1:26-28](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-28&version=NIV)), and love ([John 13:35](https://www.biblegateway.com/passage/?search=John+13%3A35&version=NIV))—His glory alone.
