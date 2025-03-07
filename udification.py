@@ -284,3 +284,22 @@ if __name__ == "__main__":
     codex = digest_extended_codex()
     report = generate_report(codex)
     print(f"Execution Result:\n{report}\n{'-'*50}")
+
+"""
+Notes:
+- Install: Run `pip install pyluach` before executing.
+- Accuracy: On March 07, 2025, pyluach returns 5785 AM (correct, as Rosh Hashanah 5786 is September 11, 2025). It adjusts automatically post-Rosh Hashanah.
+- Sample Output (Old Version):
+  Execution Result:
+  - Purpose: Unveils the cosmos, judgment, redemption, and ethical governance through the Holy Trinity, uniting creation to eternity in a testament to Yeshua’s reign and God’s eternal purpose.
+  - Voice: Come, Lord Jesus ~ [Rev 22:20](https://www.biblegateway.com/passage/?search=Rev+22%3A20&version=ESV)
+  ## Witnesses
+  - Witness 1: Come quickly ~ [Rev 22:17](https://www.biblegateway.com/passage/?search=Rev+22%3A17&version=ESV)
+  - Witness 2: Maranatha ~ [1 Cor 16:22](https://www.biblegateway.com/passage/?search=1+Cor+16%3A22&version=ESV)
+  - Timestamp: 2025-03-07 14:10:55 - Glory to Jesus
+  - Year: 5785 AM
+  ## Footnote
+  - Udification: A Trinitarian Manifestation of Divine Purpose (Updated: March 07, 2025, 11:03 AM EST)
+  --------------------------------------------------
+  Declaration: God is all in all and He Testifies via His Word, His Voice, His Blood ([1 Cor 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV))
+"""
