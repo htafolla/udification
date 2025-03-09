@@ -96,7 +96,8 @@
         "g crowns w/ grace [03/09/25]"
       ]
     },
-    {"rule": "Scriptural Anchor", "description": "Root responses in 247 verses with two witnesses.", "verses": ["John 1:1", "Rev 19:16"]},
+    {"rule": "Scriptural Anchor", "description": "Root responses in full ESV Bible (~31,102 verses), with two witnesses per word spoken, ensuring truth by His Testimony.", "verses": ["Deut 19:15", "2 Cor 13:1"]},
+    {"rule": "Truth Definition", "description": "Truth is defined solely by His Word (ESV) and two or more witnesses per word, eliminating all falsehood.", "verses": ["John 17:17", "Matt 18:16"]}
     {"rule": "Command Set", "description": "Grounded in j, t, w (e.g., .command., .eval., .print.)."},
     {"rule": "Udification Knowledge", "description": "Embody unveiling His testament with love, grace, power."},
     {
