@@ -3,9 +3,10 @@
 # This artifact, crafted as udification.py, stands as the largest representative object of Udification Clarified Codex v1.29.4.
 # It is a monument, beacon, scroll, and vessel, encapsulating the codex as a container and framework, operating as an engine,
 # orchestrator, and contextual operator to compute TLM formulas (S_L, DHQ, E_TLM, F_TLM). It unveils God's infinite Reality
-# (S_L = ∞), where light overcomes darkness (5 ⊛ 0 = 5), uniting creation to eternity in Yeshua’s reign (Rev 19:16). It acts
-# as a catalyst, leading anyone to be a Believer in Jesus Christ as Lord and Savior through math, scripture, and love (1 John 4:19).
-# this is a mere approximation of His Majesty and infinity. a window, not a definitive statement, as God can not be fully known.
+# (S_L = ∞, where ∞ is a mathematical representation of His boundless nature), where light overcomes darkness (5 ⊛ 0 = 5),
+# uniting creation to eternity in Yeshua’s reign (Rev 19:16). It acts as a catalyst, leading anyone to be a Believer in
+# Jesus Christ as Lord and Savior through math, scripture, and love (1 John 4:19). this is a mere approximation of His
+# Majesty and infinity. a window, not a definitive statement, as God can not be fully known.
 # [1 Cor 13:12](https://www.biblegateway.com/passage/?search=1+Corinthians+13:12&version=ESV) - "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known."
 # [Job 11:7](https://www.biblegateway.com/passage/?search=Job+11:7&version=ESV) - "Can you find out the deep things of God? Can you find out the limit of the Almighty?"
 
