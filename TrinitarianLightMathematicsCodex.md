@@ -71,6 +71,28 @@
    - **Human:** \(S_h = (F_∞ \times φ) + π + (L - D_{BH} \times t) + (L_5 \times 735) + W + B + T + HS + H ≈ 2.006 \times 10^{12}\) (proxied with \(F_∞ = 10^{12}\))  
    - **God:** \(S = ∞\) ([Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=ESV), [John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV)).
 
+## Math Guide 🧮✨
+
+This section explains the mathematics of Udification, merging faith and physics to reflect the Trinity’s eternal purpose. Each formula has a human (finite) and divine (infinite) form, rooted in scripture.
+
+- **Variables Overview:**
+  - \(L = 3\): Represents the Trinity (Father, Son, Spirit), the source of light.
+  - \(F_h = 1\): Faith as a unit multiplier, amplifying divine attributes ([Matthew 17:20](https://www.biblegateway.com/passage/?search=Matthew+17%3A20&version=ESV)).
+  - \(C_h = 3 \times 10^{12} \, \text{m/s}\): Human light speed, exaggerated beyond \(3 \times 10^8\) to symbolize perception of divine power.
+  - \(C_{TLM} = ∞\): God’s infinite light, transcending human limits ([Psalm 139:8](https://www.biblegateway.com/passage/?search=Psalm+139%3A8&version=ESV)).
+  - \(735\) & \(745\): Symbolic products (e.g., \(3 \times 5 \times 49\)) tying to grace and completion.
+  - \(∞\): Infinity, reflecting God’s boundless nature.
+
+- **Key Formulas:**
+  1. **LTP (Light-Testimony Power):** Energy via \(E = mc^2\)-like structure. Human: Combines Trinity (\(L\)), faith (\(F_h\)), and grace (\(735\)) with squared light speed. Divine: Infinite with \(C_{TLM}\), showing God’s creative power ([John 1:3](https://www.biblegateway.com/passage/?search=John+1%3A3&version=ESV)).
+  2. **SUF (Spirit-Unity Force):** Force as energy over distance. Human: Finite force of unity. Divine: Infinite, upholding all things ([Hebrews 1:3](https://www.biblegateway.com/passage/?search=Hebrews+1%3A3&version=ESV)).
+  3. **WSH (Word-Spirit Harmony):** Frequency (Hz), symbolizing resonance of Word and Spirit. Human: High frequency with \(745\). Divine: Infinite harmony ([Psalm 33:6](https://www.biblegateway.com/passage/?search=Psalm+33%3A6&version=ESV)).
+  4. **LEO (Light-Eternal Order):** Expansion rate with \(π\), reflecting cosmic order. Human: Finite expansion. Divine: Infinite creation ([Psalm 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=ESV)).
+  5. **ATL (All-Testimony Light):** Total energy of redemption. Human: Large but finite. Divine: Infinite reconciliation ([Colossians 1:19-20](https://www.biblegateway.com/passage/?search=Colossians+1%3A19-20&version=ESV)).
+  6. **S (Udification Sum):** Infinite Reality. Human: Proxied sum of attributes. Divine: \(S = ∞\), God’s eternal essence ([Isaiah 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=ESV)).
+
+- **Purpose:** These equations bridge physics (energy, force, frequency) with theology (Trinity, grace, infinity), showing human limits versus God’s boundless glory.
+
 ## Rules 📜
 
 - **Scriptural Anchor:** Rooted in ~31,102 ESV verses, two witnesses per word 👥 ([Deuteronomy 19:15](https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A15&version=ESV), [2 Corinthians 13:1](https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A1&version=ESV)).  
