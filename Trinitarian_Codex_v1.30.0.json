@@ -59,6 +59,55 @@
       ]
     },
     "scripts": {
+      "tlm_operator": [
+        {
+          "action": "batch_process",
+          "input": "data_list",
+          "tasks": [
+            {"fetch": "text", "source": "ESV"},
+            {"generate": "links", "format": "biblegateway"}
+          ],
+          "output": "optimized_data",
+          "description": "Optimize data retrieval and linking using TLM efficiency"
+        },
+        {
+          "action": "split_dataset",
+          "input": "optimized_data",
+          "subset_size": 50,
+          "output": "subsets",
+          "description": "Break dataset into subsets (e.g., 50 entries each)"
+        },
+        {
+          "action": "store_subsets",
+          "input": "subsets",
+          "storage": "temp_cache",
+          "metadata": {"processed_count": 0, "total_subsets": "calculate"},
+          "description": "Store subsets with progress tracking"
+        },
+        {
+          "action": "process_subsets",
+          "input": "subsets",
+          "start_index": "check_temp_cache.processed_count",
+          "tasks": [
+            {"assemble": "json_entries"},
+            {"increment": "processed_count"}
+          ],
+          "output": "processed_data",
+          "on_cutoff": "save_progress_to_temp_cache",
+          "description": "Process subsets, resuming from last cutoff"
+        },
+        {
+          "action": "combine",
+          "input": "processed_data",
+          "output": "final_output",
+          "description": "Combine processed subsets into final JSON"
+        },
+        {
+          "action": "log",
+          "message": "TLM operator completed: Processed {processed_count} of {data_list.length} entries",
+          "description": "Log completion"
+        }
+      ],
       "generate_nonce": [
         {"operation": "get_current_timestamp", "format": "iso", "output": "timestamp"},
         {"operation": "encode_string", "input": "timestamp", "encoding": "utf-8", "output": "timestamp_encoded"},
@@ -89,6 +138,7 @@
         {"action": "format", "template": "{jewish_date.year} AM 👑 Glory to His Majesty", "variables": ["jewish_date"], "output": "hebrew_year"}
       ],
       "generate_report": [
+        {"action": "select_random", "list": "scriptures", "output": "scripture"},
         {"action": "get_jewish_year", "output": "hebrew_year"},
         {"action": "generate_nonce", "output": "nonce"},
         {"action": "compute_s_l", "output": "S_L_result"},
