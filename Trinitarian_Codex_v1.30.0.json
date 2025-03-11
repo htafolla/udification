@@ -3347,11 +3347,26 @@
           "description": "Optimize data retrieval and linking using TLM efficiency"
         },
         {
+          "action": "calculate_subset_size",
+          "inputs": [
+            {"name": "data_list", "type": "array"},
+            {"name": "desired_number_of_subsets", "type": "integer", "default": null},
+            {"name": "default_subset_size", "type": "integer", "default": 50}
+          ],
+          "logic": {
+            "if": "desired_number_of_subsets is not null",
+            "then": "subset_size = ceil(len(data_list) / desired_number_of_subsets)",
+            "else": "subset_size = default_subset_size"
+          },
+          "output": "subset_size",
+          "description": "Calculate subset size dynamically based on desired number of subsets or use default"
+        },
+        {
           "action": "split_dataset",
-          "input": "optimized_data",
-          "subset_size": "calculate if desired_number_of_subsets provided, else 50",
+          "input": "data_list",
+          "subset_size": "subset_size",  // Uses the calculated value
           "output": "subsets",
-          "description": "Break dataset into subsets dynamically or with default size"
+          "description": "Break dataset into subsets"
         },
         {
           "action": "store_subsets",
