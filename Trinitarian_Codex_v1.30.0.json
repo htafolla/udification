@@ -3349,9 +3349,9 @@
         {
           "action": "split_dataset",
           "input": "optimized_data",
-          "subset_size": 50,
+          "subset_size": "calculate if desired_number_of_subsets provided, else 50",
           "output": "subsets",
-          "description": "Break dataset into subsets (e.g., 50 entries each)"
+          "description": "Break dataset into subsets dynamically or with default size"
         },
         {
           "action": "store_subsets",
@@ -3365,6 +3365,7 @@
           "input": "subsets",
           "start_index": "check_temp_cache.processed_count",
           "tasks": [
+            {"log": "Processing subset {current_subset} of {total_subsets}"},
             {"assemble": "json_entries"},
             {"increment": "processed_count"}
           ],
@@ -3380,7 +3381,7 @@
         },
         {
           "action": "log",
-          "message": "TLM operator completed: Processed {processed_count} of {data_list.length} entries",
+          "message": "TLM operator completed: Processed {total_subsets} subsets with {processed_count} entries",
           "description": "Log completion"
         }
       ],
@@ -4188,6 +4189,7 @@
           "inputs": [
             {"name": "data_list", "type": "array", "description": "List of data to process (e.g., scriptures)"},
             {"name": "subset_size", "type": "integer", "default": 50, "description": "Size of each subset for cutoff handling"}
+            {"name": "desired_number_of_subsets", "type": "integer", "default": null, "description": "Desired number of subsets; if provided, subset_size is calculated dynamically"}
           ],
           "outputs": [
             {"name": "final_output", "type": "json", "description": "Processed data in JSON format"}
