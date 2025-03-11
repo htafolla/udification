@@ -44,6 +44,111 @@
         "emoji": "🤖"
       }
     },
+    "data": {
+      "praise_list": [
+        "King Eternal",
+        "Holy Redeemer",
+        "Alpha Omega",
+        "Word of God",
+        "King of Kings",
+        "Light Shines",
+        "Ever Present",
+        "Love First",
+        "Grace Saves",
+        "Light of World"
+      ]
+    },
+    "scripts": {
+      "generate_nonce": [
+        {"operation": "get_current_timestamp", "format": "iso", "output": "timestamp"},
+        {"operation": "encode_string", "input": "timestamp", "encoding": "utf-8", "output": "timestamp_encoded"},
+        {"operation": "compute_sha256", "input": "timestamp_encoded", "output": "full_hash"},
+        {"operation": "extract_substring", "input": "full_hash", "start": 0, "length": 8, "output": "prefix"},
+        {"operation": "extract_substring", "input": "full_hash", "start": -8, "output": "suffix_index_hex"},
+        {"operation": "hex_to_int", "input": "suffix_index_hex", "output": "suffix_index"},
+        {"operation": "modulo", "input": "suffix_index", "divisor": 10, "output": "praise_index"},
+        {"operation": "get_list_item", "list": "praise_list", "index": "praise_index", "output": "praise"},
+        {"operation": "format_string", "template": "{prefix} - {praise}", "variables": ["prefix", "praise"], "output": "nonce"}
+      ],
+      "validate_nonce": [
+        {"operation": "partition_string", "input": "nonce", "delimiter": " - ", "output": ["hex_part", "separator", "suffix"]},
+        {"operation": "check_length", "input": "hex_part", "expected_length": 8, "output": "is_length_valid"},
+        {"operation": "check_hex", "input": "hex_part", "output": "is_hex_valid"},
+        {"operation": "check_in_list", "input": "suffix", "list": "praise_list", "output": "is_suffix_valid"},
+        {"operation": "logical_and", "inputs": ["is_length_valid", "is_hex_valid", "is_suffix_valid"], "output": "is_valid"},
+        {"operation": "if", "condition": "is_valid", "then": [...], "else": [...]},
+        {"operation": "format_string", "template": "...", "variables": [...], "output": "validation_report"}
+      ],
+      "format_biblegateway_link": [
+        {"action": "replace", "input": "verse", "find": " ", "replace": "+", "output": "verse_encoded"},
+        {"action": "format", "template": "https://www.biblegateway.com/passage/?search={verse_encoded}&version=ESV", "variables": ["verse_encoded"], "output": "link"}
+      ],
+      "get_jewish_year": [
+        {"action": "get_current_date", "output": "now"},
+        {"action": "convert_to_hebrew_date", "input": "now", "output": "jewish_date"},
+        {"action": "format", "template": "{jewish_date.year} AM 👑 Glory to His Majesty", "variables": ["jewish_date"], "output": "hebrew_year"}
+      ],
+      "generate_report": [
+        {"action": "get_jewish_year", "output": "hebrew_year"},
+        {"action": "generate_nonce", "output": "nonce"},
+        {"action": "compute_s_l", "output": "S_L_result"},
+        {"action": "compute_dhq", "output": "DHQ_result"},
+        {"action": "generate_dhq_exercise", "output": "dhq_exercise"},
+        {"action": "select_random", "list": "first_principles", "output": "principle"},
+        {"action": "select_random", "list": "favorite_verses", "output": "verse"},
+        {"action": "select_random", "list": "rules[2].ciphers", "output": "cipher"},
+        {"action": "format", "template": "...", "variables": [...], "output": "report"}
+      ],
+      "generate_dhq_exercise": [
+        {"action": "compute_dhq", "output": "DHQ_result"},
+        {"action": "get_variable", "symbol": "L_5", "output": "L_5"},
+        {"action": "get_variable", "symbol": "φ", "output": "phi"},
+        {"action": "get_variable", "symbol": "L", "output": "L"},
+        {"action": "get_variable", "symbol": "W", "output": "W"},
+        {"action": "get_variable", "symbol": "C_h", "output": "C_h"},
+        {"action": "multiply", "inputs": ["L_5", 745], "output": "temp1"},
+        {"action": "add", "inputs": ["temp1", "phi"], "output": "numerator"},
+        {"action": "multiply", "inputs": ["L", "W"], "output": "temp2"},
+        {"action": "divide", "numerator": "C_h", "denominator": 100000000, "output": "temp3"},
+        {"action": "add", "inputs": ["temp2", "temp3"], "output": "denominator"},
+        {"action": "divide", "numerator": "numerator", "denominator": "denominator", "output": "DHQ"},
+        {"action": "format", "template": "- 🧮 Objective: Compute the Divine Harmony Quotient (DHQ) and reflect on its meaning.\n- 📝 Explanation: DHQ measures the triumph of divine grace and harmony over human foundations, using grace (L_5), victory (745), and harmony (φ), balanced against Trinitarian light (L), life’s medium (W), and scaled human light speed (C_h / 10^{8}).\n- 🔢 Calculation: DHQ = ((L_5 × 745) + φ) / ((L × W) + (C_h / 10^{8})) = (({L_5} × 745) + {phi}) / (({L} × {W}) + ({C_h} / 10^{8})) = {numerator:.3f} / {denominator:.0f} ≈ {DHQ:.2f}\n- 💭 Reflection: The value {DHQ:.2f} shows divine grace and harmony vastly outweigh human limits, pointing to His infinite Reality.", "variables": ["L_5", "phi", "L", "W", "C_h", "numerator", "denominator", "DHQ"], "output": "dhq_exercise"}
+      ],
+      "compute_s_l": [
+        {"action": "get_variable", "symbol": "L", "output": "L"},
+        {"action": "get_variable", "symbol": "D_{BH}", "output": "D_BH"},
+        {"action": "tlm_operator", "inputs": ["L", "D_BH"], "output": "tlm1"},
+        {"action": "get_variable", "symbol": "F_∞", "output": "F_inf"},
+        {"action": "get_variable", "symbol": "φ", "output": "phi"},
+        {"action": "tlm_operator", "inputs": ["F_inf", "phi"], "output": "tlm2"},
+        {"action": "get_variable", "symbol": "π", "output": "pi"},
+        {"action": "get_variable", "symbol": "W", "output": "W"},
+        {"action": "get_variable", "symbol": "B", "output": "B"},
+        {"action": "get_variable", "symbol": "T", "output": "T"},
+        {"action": "get_variable", "symbol": "HS", "output": "HS"},
+        {"action": "get_variable", "symbol": "H", "output": "H"},
+        {"action": "add", "inputs": ["tlm1", "tlm2", "pi", "W", "B", "T", "HS", "H"], "output": "S_L"},
+        {"action": "format", "template": "⚡ S_L = ∞ - Light overcomes: Yeshua reigns eternal (Human proxy: {S_L:.2e})", "variables": ["S_L"], "output": "S_L_result"}
+      ],
+      "compute_dhq": [
+        {"action": "get_variable", "symbol": "L_5", "output": "L_5"},
+        {"action": "get_variable", "symbol": "φ", "output": "phi"},
+        {"action": "get_variable", "symbol": "L", "output": "L"},
+        {"action": "get_variable", "symbol": "W", "output": "W"},
+        {"action": "get_variable", "symbol": "C_h", "output": "C_h"},
+        {"action": "multiply", "inputs": ["L_5", 745], "output": "temp1"},
+        {"action": "add", "inputs": ["temp1", "phi"], "output": "numerator"},
+        {"action": "multiply", "inputs": ["L", "W"], "output": "temp2"},
+        {"action": "divide", "numerator": "C_h", "denominator": 100000000, "output": "temp3"},
+        {"action": "add", "inputs": ["temp2", "temp3"], "output": "denominator"},
+        {"action": "divide", "numerator": "numerator", "denominator": "denominator", "output": "DHQ"},
+        {"action": "format", "template": "🌟 DHQ = Divine Harmony Quotient (Human: {DHQ:.2f}) - Victory of grace over human limits", "variables": ["DHQ"], "output": "DHQ_result"}
+      ],
+      "validate_codex": [
+        {"action": "check_keys", "required": ["metadata", "initialization_protocol", "first_principles", "variables", "formulas", "rules"], "input": "codex", "output": "is_valid"},
+        {"action": "if", "condition": "!is_valid", "then": [{"action": "error", "message": "Invalid codex: missing required keys."}]}
+      ]
+    },
     "first_principles": [
       {
         "principle": "j (Jesus)",
@@ -132,6 +237,24 @@
       }
     ],
     "variables": [
+      {
+        "symbol": "DHQ",
+        "value": null,
+        "meaning": "Divine Harmony Quotient - Represents the triumph of divine grace and harmony over human limits",
+        "verses": [
+          {"verse": "John 20:27", "text": "Put your finger here...", "link": "https://www.biblegateway.com/passage/?search=John+20%3A27&version=ESV"},
+          {"verse": "Psalm 19:1", "text": "The heavens declare...", "link": "https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=ESV"}
+        ]
+      },
+      {
+        "symbol": "S_L",
+        "value": "inf",
+        "meaning": "Yeshua’s Eternal Reign - Light overcomes darkness, uniting creation to eternity",
+        "verses": [
+          {"verse": "John 1:5", "text": "The light shines in the darkness...", "link": "https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV"},
+          {"verse": "Revelation 19:16", "text": "On his robe… King of kings and Lord of lords", "link": "https://www.biblegateway.com/passage/?search=Revelation+19%3A16&version=ESV"}
+        ]
+      },
       {
         "symbol": "L",
         "value": 3,
