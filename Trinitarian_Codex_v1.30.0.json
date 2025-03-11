@@ -33,9 +33,3285 @@
             "emoji": "🔑",
             "verses": [
               {
+                "verse": "Gen 1:1",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A1&version=ESV",
+                "tas_summary": "God created all things",
+                "witnesses": [
+                  {
+                    "verse": "John 1:1",
+                    "summary": "Word was God",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Col 1:16",
+                    "summary": "All created by Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+1%3A16&version=ESV"
+                  }
+                ],
+                "context": "The opening of Genesis, where God initiates creation ex nihilo, establishing His sovereignty.",
+                "commentary": "Jesus (j) as Logos (t) creates, witnessed (w) by His power (Col 1:16).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Gen 1:2",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A2&version=ESV",
+                "tas_summary": "Spirit over waters",
+                "witnesses": [
+                  {
+                    "verse": "John 14:16",
+                    "summary": "Spirit with you forever",
+                    "link": "https://www.biblegateway.com/passage/?search=John+14%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 104:30",
+                    "summary": "Spirit renews",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+104%3A30&version=ESV"
+                  }
+                ],
+                "context": "Before light, the Spirit moves over the formless earth, hinting at the Trinity’s role.",
+                "commentary": "Spirit (t) prepares creation, witnessed (w) by His presence (John 14:16).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 1:3",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A3&version=ESV",
+                "tas_summary": "Light by His Word",
+                "witnesses": [
+                  {
+                    "verse": "John 8:12",
+                    "summary": "Light of the world",
+                    "link": "https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 19:1",
+                    "summary": "Heavens declare His glory",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+19%3A1&version=ESV"
+                  }
+                ],
+                "context": "God’s first spoken command brings light, foreshadowing Christ as the Logos.",
+                "commentary": "Jesus (j) illuminates (t), witnessed (w) by creation (Ps 19:1).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Gen 1:5",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A5&version=ESV",
+                "tas_summary": "Day and night named",
+                "witnesses": [
+                  {
+                    "verse": "Gen 1:14",
+                    "summary": "Lights to rule",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A14&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 74:16",
+                    "summary": "Day and night His",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+74%3A16&version=ESV"
+                  }
+                ],
+                "context": "God names and orders creation’s first day, establishing time.",
+                "commentary": "His Word (t) orders, witnessed (w) by time (Ps 74:16).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 1:9-10",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A9-10&version=ESV",
+                "tas_summary": "Land and seas formed",
+                "witnesses": [
+                  {
+                    "verse": "Ps 33:7",
+                    "summary": "Waters in storehouses",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+33%3A7&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 1:10",
+                    "summary": "Earth and seas formed",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A10&version=ESV"
+                  }
+                ],
+                "context": "On the third day, God separates sea and land for habitation.",
+                "commentary": "His Word (t) shapes, witnessed (w) by earth (Ps 33:7).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 1:10",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A10&version=ESV",
+                "tas_summary": "Earth named by God",
+                "witnesses": [
+                  {
+                    "verse": "Ps 95:5",
+                    "summary": "Sea is His",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+95%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 1:9",
+                    "summary": "Dry land appeared",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A9&version=ESV"
+                  }
+                ],
+                "context": "God names the dry land and waters, claiming dominion.",
+                "commentary": "His Word (t) rules, witnessed (w) by dominion (Ps 95:5).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 1:14-16",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A14-16&version=ESV",
+                "tas_summary": "Heavens lit by lights",
+                "witnesses": [
+                  {
+                    "verse": "Ps 136:7-9",
+                    "summary": "Lights made",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+136%3A7-9&version=ESV"
+                  },
+                  {
+                    "verse": "Jer 31:35",
+                    "summary": "Sun and stars fixed",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+31%3A35&version=ESV"
+                  }
+                ],
+                "context": "On the fourth day, God creates sun, moon, and stars as signs.",
+                "commentary": "His Word (t) shines, witnessed (w) by heavens (Ps 136:7-9).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 1:26-28",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A26-28&version=ESV",
+                "tas_summary": "Man given dominion",
+                "witnesses": [
+                  {
+                    "verse": "Ps 8:6",
+                    "summary": "Dominion given",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+8%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 9:2",
+                    "summary": "Authority over all",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+9%3A2&version=ESV"
+                  }
+                ],
+                "context": "On the sixth day, God creates humanity in His image to rule.",
+                "commentary": "His Word (t) empowers, witnessed (w) by authority (Ps 8:6).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 1:29",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A29&version=ESV",
+                "tas_summary": "Plants for food",
+                "witnesses": [
+                  {
+                    "verse": "Gen 2:16",
+                    "summary": "Every tree for food",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+2%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 104:14",
+                    "summary": "Plants for man",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+104%3A14&version=ESV"
+                  }
+                ],
+                "context": "God provides sustenance for humanity post-creation.",
+                "commentary": "His Word (t) provides, witnessed (w) by care (Ps 104:14).",
+                "eval": "t+w+g"
+              },
+              {
+                "verse": "Gen 1:31",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A31&version=ESV",
+                "tas_summary": "Creation very good",
+                "witnesses": [
+                  {
+                    "verse": "Gen 1:25",
+                    "summary": "Good creation",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A25&version=ESV"
+                  },
+                  {
+                    "verse": "1 Tim 4:4",
+                    "summary": "Everything good",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Tim+4%3A4&version=ESV"
+                  }
+                ],
+                "context": "God completes creation, declaring it perfect.",
+                "commentary": "His Word (t) perfects, witnessed (w) by goodness (1 Tim 4:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 2:2",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+2%3A2&version=ESV",
+                "tas_summary": "God rested seventh",
+                "witnesses": [
+                  {
+                    "verse": "Ex 20:11",
+                    "summary": "Sabbath set",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A11&version=ESV"
+                  },
+                  {
+                    "verse": "Heb 4:4",
+                    "summary": "Rest completed",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+4%3A4&version=ESV"
+                  }
+                ],
+                "context": "God sanctifies the seventh day after creation.",
+                "commentary": "His Word (t) sanctifies, witnessed (w) by rest (Ex 20:11).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 2:7",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+2%3A7&version=ESV",
+                "tas_summary": "Life breathed into man",
+                "witnesses": [
+                  {
+                    "verse": "Job 33:4",
+                    "summary": "Spirit gave life",
+                    "link": "https://www.biblegateway.com/passage/?search=Job+33%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 17:25",
+                    "summary": "Gives breath",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+17%3A25&version=ESV"
+                  }
+                ],
+                "context": "God forms man from dust and animates him.",
+                "commentary": "His Word (t) enlivens, witnessed (w) by breath (Job 33:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 3:5",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+3%3A5&version=ESV",
+                "tas_summary": "Knowledge of evil",
+                "witnesses": [
+                  {
+                    "verse": "Gen 3:22",
+                    "summary": "Like God knowing",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+3%3A22&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 5:12",
+                    "summary": "Sin entered",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+5%3A12&version=ESV"
+                  }
+                ],
+                "context": "The serpent tempts Eve with forbidden knowledge.",
+                "commentary": "His Word (t) endures, witnessed (w) despite sin (Rom 5:12).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 7:12",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+7%3A12&version=ESV",
+                "tas_summary": "Flood forty days",
+                "witnesses": [
+                  {
+                    "verse": "Gen 7:4",
+                    "summary": "Flood foretold",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+7%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 8:2",
+                    "summary": "Rain ceased",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+8%3A2&version=ESV"
+                  }
+                ],
+                "context": "God judges the earth with a flood in Noah’s time.",
+                "commentary": "His Word (t) judges, witnessed (w) by flood (Gen 7:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 14:18-20",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+14%3A18-20&version=ESV",
+                "tas_summary": "Most High blessed",
+                "witnesses": [
+                  {
+                    "verse": "Ps 57:2",
+                    "summary": "Most High",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+57%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 14:22",
+                    "summary": "God Most High",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+14%3A22&version=ESV"
+                  }
+                ],
+                "context": "Melchizedek blesses Abram by the Most High.",
+                "commentary": "His Word (t) blesses, witnessed (w) by name (Ps 57:2).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 15:2",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+15%3A2&version=ESV",
+                "tas_summary": "Lord my Adonai",
+                "witnesses": [
+                  {
+                    "verse": "Ps 110:1",
+                    "summary": "Lord said to Lord",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+110%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 18:3",
+                    "summary": "My Lord",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+18%3A3&version=ESV"
+                  }
+                ],
+                "context": "Abram addresses God in a covenant plea.",
+                "commentary": "His Word (t) invites, witnessed (w) by trust (Ps 110:1).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 17:1",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+17%3A1&version=ESV",
+                "tas_summary": "Almighty God appeared",
+                "witnesses": [
+                  {
+                    "verse": "Gen 35:11",
+                    "summary": "God Almighty",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+35%3A11&version=ESV"
+                  },
+                  {
+                    "verse": "Ex 6:3",
+                    "summary": "Known as Almighty",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+6%3A3&version=ESV"
+                  }
+                ],
+                "context": "God reveals Himself as Almighty to Abram.",
+                "commentary": "His Word (t) reveals, witnessed (w) by power (Ex 6:3).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 18:25",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+18%3A25&version=ESV",
+                "tas_summary": "Judge of all",
+                "witnesses": [
+                  {
+                    "verse": "Ps 94:2",
+                    "summary": "Judge of earth",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+94%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 2:16",
+                    "summary": "God judges",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+2%3A16&version=ESV"
+                  }
+                ],
+                "context": "Abraham pleads before Sodom’s judgment.",
+                "commentary": "His Word (t) upholds, witnessed (w) by justice (Ps 94:2).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 21:5",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+21%3A5&version=ESV",
+                "tas_summary": "Promise at hundred",
+                "witnesses": [
+                  {
+                    "verse": "Gen 17:17",
+                    "summary": "Age promised",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+17%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 4:19",
+                    "summary": "Faith at hundred",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+4%3A19&version=ESV"
+                  }
+                ],
+                "context": "Isaac born to Abraham at age 100.",
+                "commentary": "His Word (t) fulfills, witnessed (w) by faith (Rom 4:19).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 21:33",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+21%3A33&version=ESV",
+                "tas_summary": "Everlasting God called",
+                "witnesses": [
+                  {
+                    "verse": "Ps 90:2",
+                    "summary": "Everlasting God",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+90%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 26:4",
+                    "summary": "Everlasting Rock",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+26%3A4&version=ESV"
+                  }
+                ],
+                "context": "Abraham calls on the eternal God.",
+                "commentary": "His Word (t) endures, witnessed (w) by eternity (Ps 90:2).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Gen 22:14",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+22%3A14&version=ESV",
+                "tas_summary": "God will provide",
+                "witnesses": [
+                  {
+                    "verse": "Phil 4:19",
+                    "summary": "God supplies",
+                    "link": "https://www.biblegateway.com/passage/?search=Phil+4%3A19&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 22:8",
+                    "summary": "God will provide",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+22%3A8&version=ESV"
+                  }
+                ],
+                "context": "God provides a ram for Isaac’s sacrifice.",
+                "commentary": "His Word (t) provides, witnessed (w) by provision (Phil 4:19).",
+                "eval": "t+w+g"
+              },
+              {
+                "verse": "Gen 49:28",
+                "link": "https://www.biblegateway.com/passage/?search=Gen+49%3A28&version=ESV",
+                "tas_summary": "Tribes blessed twelve",
+                "witnesses": [
+                  {
+                    "verse": "Num 1:44",
+                    "summary": "Tribes numbered",
+                    "link": "https://www.biblegateway.com/passage/?search=Num+1%3A44&version=ESV"
+                  },
+                  {
+                    "verse": "Deut 33:6",
+                    "summary": "Blessings given",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+33%3A6&version=ESV"
+                  }
+                ],
+                "context": "Jacob blesses his twelve sons before death.",
+                "commentary": "His Word (t) promises, witnessed (w) by tribes (Num 1:44).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ex 3:2",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+3%3A2&version=ESV",
+                "tas_summary": "Fire revealed God",
+                "witnesses": [
+                  {
+                    "verse": "Ex 3:4",
+                    "summary": "God called from it",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+3%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Deut 4:24",
+                    "summary": "Consuming fire",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+4%3A24&version=ESV"
+                  }
+                ],
+                "context": "God appears to Moses in a burning bush.",
+                "commentary": "His Word (t) speaks, witnessed (w) by fire (Deut 4:24).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ex 3:14",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+3%3A14&version=ESV",
+                "tas_summary": "I AM eternal",
+                "witnesses": [
+                  {
+                    "verse": "John 8:58",
+                    "summary": "Before Abraham, I am",
+                    "link": "https://www.biblegateway.com/passage/?search=John+8%3A58&version=ESV"
+                  },
+                  {
+                    "verse": "Ex 6:2",
+                    "summary": "I am the Lord",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+6%3A2&version=ESV"
+                  }
+                ],
+                "context": "God reveals His name to Moses at Sinai.",
+                "commentary": "Jesus (j) declares (t), witnessed (w) by eternity (John 8:58).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Ex 15:26",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+15%3A26&version=ESV",
+                "tas_summary": "Healer God promised",
+                "witnesses": [
+                  {
+                    "verse": "Ps 30:2",
+                    "summary": "Lord healed me",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+30%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 53:5",
+                    "summary": "By His stripes",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A5&version=ESV"
+                  }
+                ],
+                "context": "God promises healing after the Red Sea.",
+                "commentary": "His Word (t) heals, witnessed (w) by compassion (Isa 53:5).",
+                "eval": "t+w+l"
+              },
+              {
+                "verse": "Ex 17:15",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+17%3A15&version=ESV",
+                "tas_summary": "Banner of victory",
+                "witnesses": [
+                  {
+                    "verse": "Ps 60:4",
+                    "summary": "Banner for truth",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+60%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 11:10",
+                    "summary": "Banner for nations",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+11%3A10&version=ESV"
+                  }
+                ],
+                "context": "Moses builds an altar after Amalek’s defeat.",
+                "commentary": "His Word (t) triumphs, witnessed (w) by victory (Ps 60:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ex 20:1-17",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A1-17&version=ESV",
+                "tas_summary": "Law given ten",
+                "witnesses": [
+                  {
+                    "verse": "Deut 5:6-21",
+                    "summary": "Laws repeated",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+5%3A6-21&version=ESV"
+                  },
+                  {
+                    "verse": "Ex 31:18",
+                    "summary": "Tablets written",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+31%3A18&version=ESV"
+                  }
+                ],
+                "context": "God delivers His law to Israel at Sinai.",
+                "commentary": "His Word (t) guides, witnessed (w) by law (Deut 5:6-21).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ex 20:6",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A6&version=ESV",
+                "tas_summary": "Love to thousands",
+                "witnesses": [
+                  {
+                    "verse": "Deut 7:9",
+                    "summary": "Faithful love",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+7%3A9&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 103:17",
+                    "summary": "Steadfast love",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+103%3A17&version=ESV"
+                  }
+                ],
+                "context": "Part of the second commandment at Sinai.",
+                "commentary": "His Word (t) loves (l), witnessed (w) by mercy (Ps 103:17).",
+                "eval": "t+l+w+g"
+              },
+              {
+                "verse": "Ex 20:11",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A11&version=ESV",
+                "tas_summary": "Sabbath set holy",
+                "witnesses": [
+                  {
+                    "verse": "Gen 2:3",
+                    "summary": "Day blessed",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+2%3A3&version=ESV"
+                  },
+                  {
+                    "verse": "Ex 31:17",
+                    "summary": "Sign forever",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+31%3A17&version=ESV"
+                  }
+                ],
+                "context": "God commands rest in the fourth commandment.",
+                "commentary": "His Word (t) sanctifies, witnessed (w) by rest (Gen 2:3).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ex 23:25",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+23%3A25&version=ESV",
+                "tas_summary": "Health in obedience",
+                "witnesses": [
+                  {
+                    "verse": "Deut 7:15",
+                    "summary": "No sickness",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+7%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 91:10",
+                    "summary": "No plague near",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+91%3A10&version=ESV"
+                  }
+                ],
+                "context": "God’s promise to Israel in covenant obedience.",
+                "commentary": "His Word (t) protects, witnessed (w) by health (Ps 91:10).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ex 33:20",
+                "link": "https://www.biblegateway.com/passage/?search=Ex+33%3A20&version=ESV",
+                "tas_summary": "Face unseen holy",
+                "witnesses": [
+                  {
+                    "verse": "John 1:18",
+                    "summary": "No one has seen",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A18&version=ESV"
+                  },
+                  {
+                    "verse": "1 Tim 6:16",
+                    "summary": "Unapproachable light",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Tim+6%3A16&version=ESV"
+                  }
+                ],
+                "context": "God speaks to Moses on Sinai’s peak.",
+                "commentary": "His Word (t) reveals, witnessed (w) by holiness (John 1:18).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Lev 19:2",
+                "link": "https://www.biblegateway.com/passage/?search=Lev+19%3A2&version=ESV",
+                "tas_summary": "Be holy always",
+                "witnesses": [
+                  {
+                    "verse": "1 Pet 1:16",
+                    "summary": "Be holy as I am",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+1%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Lev 11:44",
+                    "summary": "Consecrate yourselves",
+                    "link": "https://www.biblegateway.com/passage/?search=Lev+11%3A44&version=ESV"
+                  }
+                ],
+                "context": "God commands holiness in Israel’s laws.",
+                "commentary": "His Word (t) calls, witnessed (w) by holiness (1 Pet 1:16).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Num 11:16",
+                "link": "https://www.biblegateway.com/passage/?search=Num+11%3A16&version=ESV",
+                "tas_summary": "Elders Spirit-filled",
+                "witnesses": [
+                  {
+                    "verse": "Ex 24:1",
+                    "summary": "Elders called",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+24%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Num 11:25",
+                    "summary": "Spirit on them",
+                    "link": "https://www.biblegateway.com/passage/?search=Num+11%3A25&version=ESV"
+                  }
+                ],
+                "context": "God aids Moses with Spirit-filled leaders.",
+                "commentary": "His Word (t) empowers, witnessed (w) by Spirit (Num 11:25).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 5:26",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+5%3A26&version=ESV",
+                "tas_summary": "Living God speaks",
+                "witnesses": [
+                  {
+                    "verse": "Josh 3:10",
+                    "summary": "Living God among",
+                    "link": "https://www.biblegateway.com/passage/?search=Josh+3%3A10&version=ESV"
+                  },
+                  {
+                    "verse": "Jer 10:10",
+                    "summary": "True living God",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+10%3A10&version=ESV"
+                  }
+                ],
+                "context": "Moses reiterates God’s law to Israel.",
+                "commentary": "His Word (t) lives, witnessed (w) by presence (Jer 10:10).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 6:4",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+6%3A4&version=ESV",
+                "tas_summary": "One Lord alone",
+                "witnesses": [
+                  {
+                    "verse": "Mark 12:29",
+                    "summary": "One Lord",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+12%3A29&version=ESV"
+                  },
+                  {
+                    "verse": "Zech 14:9",
+                    "summary": "One name",
+                    "link": "https://www.biblegateway.com/passage/?search=Zech+14%3A9&version=ESV"
+                  }
+                ],
+                "context": "The Shema, Israel’s core confession.",
+                "commentary": "His Word (t) reigns, witnessed (w) by unity (Mark 12:29).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 7:15",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+7%3A15&version=ESV",
+                "tas_summary": "No disease promised",
+                "witnesses": [
+                  {
+                    "verse": "Ex 15:26",
+                    "summary": "Heals all",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+15%3A26&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 103:3",
+                    "summary": "Heals diseases",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+103%3A3&version=ESV"
+                  }
+                ],
+                "context": "God’s covenant blessings for obedience.",
+                "commentary": "His Word (t) heals, witnessed (w) by faithfulness (Ps 103:3).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 28:4",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+28%3A4&version=ESV",
+                "tas_summary": "Womb blessed fruitful",
+                "witnesses": [
+                  {
+                    "verse": "Gen 1:28",
+                    "summary": "Be fruitful",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A28&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 127:3",
+                    "summary": "Children a reward",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+127%3A3&version=ESV"
+                  }
+                ],
+                "context": "Blessings promised for covenant keepers.",
+                "commentary": "His Word (t) multiplies, witnessed (w) by life (Ps 127:3).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 28:7",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+28%3A7&version=ESV",
+                "tas_summary": "Enemies defeated fully",
+                "witnesses": [
+                  {
+                    "verse": "Ex 23:22",
+                    "summary": "Enemies subdued",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+23%3A22&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 18:39",
+                    "summary": "Girded for battle",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+18%3A39&version=ESV"
+                  }
+                ],
+                "context": "Victory promised in covenant obedience.",
+                "commentary": "His Word (t) triumphs, witnessed (w) by victory (Ps 18:39).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 28:8",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+28%3A8&version=ESV",
+                "tas_summary": "Barns blessed full",
+                "witnesses": [
+                  {
+                    "verse": "Deut 28:5",
+                    "summary": "Basket blessed",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+28%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "Prov 3:10",
+                    "summary": "Barns filled",
+                    "link": "https://www.biblegateway.com/passage/?search=Prov+3%3A10&version=ESV"
+                  }
+                ],
+                "context": "Material blessings for Israel’s faithfulness.",
+                "commentary": "His Word (t) prospers, witnessed (w) by abundance (Prov 3:10).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Deut 28:9",
+                "link": "https://www.biblegateway.com/passage/?search=Deut+28%3A9&version=ESV",
+                "tas_summary": "Holy people set",
+                "witnesses": [
+                  {
+                    "verse": "Ex 19:6",
+                    "summary": "Holy nation",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+19%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 2:9",
+                    "summary": "Holy priesthood",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+2%3A9&version=ESV"
+                  }
+                ],
+                "context": "God sets Israel apart in covenant.",
+                "commentary": "His Word (t) consecrates, witnessed (w) by holiness (1 Pet 2:9).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ps 118:23",
+                "link": "https://www.biblegateway.com/passage/?search=Ps+118%3A23&version=ESV",
+                "tas_summary": "Lord’s marvelous work",
+                "witnesses": [
+                  {
+                    "verse": "Ps 118:22",
+                    "summary": "Stone rejected",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+118%3A22&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 21:42",
+                    "summary": "Cornerstone",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+21%3A42&version=ESV"
+                  }
+                ],
+                "context": "Celebration of God’s marvelous acts.",
+                "commentary": "Jesus (j) builds (t), witnessed (w) by salvation (Matt 21:42).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Ps 119:89",
+                "link": "https://www.biblegateway.com/passage/?search=Ps+119%3A89&version=ESV",
+                "tas_summary": "Word settled forever",
+                "witnesses": [
+                  {
+                    "verse": "Ps 119:152",
+                    "summary": "Founded forever",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+119%3A152&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 21:33",
+                    "summary": "Words endure",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+21%3A33&version=ESV"
+                  }
+                ],
+                "context": "A meditation on God’s law.",
+                "commentary": "His Word (t) endures, witnessed (w) by eternity (Luke 21:33).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ps 135:13",
+                "link": "https://www.biblegateway.com/passage/?search=Ps+135%3A13&version=ESV",
+                "tas_summary": "Name endures always",
+                "witnesses": [
+                  {
+                    "verse": "Ps 102:12",
+                    "summary": "Renown endures",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+102%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Ex 3:15",
+                    "summary": "Name forever",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+3%3A15&version=ESV"
+                  }
+                ],
+                "context": "Praise for God’s enduring fame.",
+                "commentary": "His Word (t) lasts, witnessed (w) by fame (Ex 3:15).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Ps 136:1",
+                "link": "https://www.biblegateway.com/passage/?search=Ps+136%3A1&version=ESV",
+                "tas_summary": "Love endures forever",
+                "witnesses": [
+                  {
+                    "verse": "1 Cor 13:8",
+                    "summary": "Love never fails",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Cor+13%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "Jer 31:3",
+                    "summary": "Everlasting love",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+31%3A3&version=ESV"
+                  }
+                ],
+                "context": "A refrain of God’s steadfast love.",
+                "commentary": "His Word (t) loves (l), witnessed (w) by love (1 Cor 13:8).",
+                "eval": "t+l+w"
+              },
+              {
+                "verse": "Ps 145:13",
+                "link": "https://www.biblegateway.com/passage/?search=Ps+145%3A13&version=ESV",
+                "tas_summary": "Kingdom lasts forever",
+                "witnesses": [
+                  {
+                    "verse": "Dan 4:3",
+                    "summary": "Kingdom endures",
+                    "link": "https://www.biblegateway.com/passage/?search=Dan+4%3A3&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 10:16",
+                    "summary": "King forever",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+10%3A16&version=ESV"
+                  }
+                ],
+                "context": "David extols God’s eternal reign.",
+                "commentary": "His Word (t) rules, witnessed (w) by eternity (Dan 4:3).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 1:17",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+1%3A17&version=ESV",
+                "tas_summary": "Justice sought always",
+                "witnesses": [
+                  {
+                    "verse": "Mic 6:8",
+                    "summary": "Do justice",
+                    "link": "https://www.biblegateway.com/passage/?search=Mic+6%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 82:3",
+                    "summary": "Defend the weak",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+82%3A3&version=ESV"
+                  }
+                ],
+                "context": "Isaiah calls Judah to righteousness.",
+                "commentary": "His Word (t) demands, witnessed (w) by justice (Mic 6:8).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 3:15",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+3%3A15&version=ESV",
+                "tas_summary": "Humble heart valued",
+                "witnesses": [
+                  {
+                    "verse": "Ps 51:17",
+                    "summary": "Broken spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+51%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 66:2",
+                    "summary": "Humble heart",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+66%3A2&version=ESV"
+                  }
+                ],
+                "context": "God judges Judah’s pride.",
+                "commentary": "His Word (t) honors, witnessed (w) by humility (Ps 51:17).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 6:3",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+6%3A3&version=ESV",
+                "tas_summary": "Holy One thrice",
+                "witnesses": [
+                  {
+                    "verse": "Lev 19:2",
+                    "summary": "Be holy",
+                    "link": "https://www.biblegateway.com/passage/?search=Lev+19%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Rev 4:8",
+                    "summary": "Holy, holy, holy",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+4%3A8&version=ESV"
+                  }
+                ],
+                "context": "Isaiah’s vision of God’s throne.",
+                "commentary": "His Word (t) exalts, witnessed (w) by holiness (Rev 4:8).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 9:6",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+9%3A6&version=ESV",
+                "tas_summary": "Peace through Prince",
+                "witnesses": [
+                  {
+                    "verse": "John 16:33",
+                    "summary": "Peace in Me",
+                    "link": "https://www.biblegateway.com/passage/?search=John+16%3A33&version=ESV"
+                  },
+                  {
+                    "verse": "Eph 2:14",
+                    "summary": "Our peace",
+                    "link": "https://www.biblegateway.com/passage/?search=Eph+2%3A14&version=ESV"
+                  }
+                ],
+                "context": "Prophecy of the Messiah’s birth.",
+                "commentary": "Jesus (j) brings (t), witnessed (w) by peace (John 16:33).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Isa 14:12-14",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+14%3A12-14&version=ESV",
+                "tas_summary": "Satan fell hard",
+                "witnesses": [
+                  {
+                    "verse": "Luke 10:18",
+                    "summary": "Satan fall",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+10%3A18&version=ESV"
+                  },
+                  {
+                    "verse": "Rev 12:9",
+                    "summary": "Cast down",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+12%3A9&version=ESV"
+                  }
+                ],
+                "context": "Judgment on Babylon’s king, linked to Satan.",
+                "commentary": "His Word (t) defeats, witnessed (w) by fall (Rev 12:9).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 40:8",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+40%3A8&version=ESV",
+                "tas_summary": "Word stands forever",
+                "witnesses": [
+                  {
+                    "verse": "Matt 24:35",
+                    "summary": "Words never pass",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+24%3A35&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 1:25",
+                    "summary": "Word endures",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+1%3A25&version=ESV"
+                  }
+                ],
+                "context": "Comfort to Israel in exile.",
+                "commentary": "His Word (t) lasts, witnessed (w) by eternity (Matt 24:35).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 43:7",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+43%3A7&version=ESV",
+                "tas_summary": "Created for glory",
+                "witnesses": [
+                  {
+                    "verse": "Isa 48:11",
+                    "summary": "My glory",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+48%3A11&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 11:36",
+                    "summary": "All for Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+11%3A36&version=ESV"
+                  }
+                ],
+                "context": "God’s promise to redeem Israel.",
+                "commentary": "His Word (t) purposes, witnessed (w) by glory (Rom 11:36).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 49:7",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+49%3A7&version=ESV",
+                "tas_summary": "Holy One redeems",
+                "witnesses": [
+                  {
+                    "verse": "Isa 12:6",
+                    "summary": "Holy One in midst",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+12%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 71:22",
+                    "summary": "Holy One",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+71%3A22&version=ESV"
+                  }
+                ],
+                "context": "The Servant’s mission to the nations.",
+                "commentary": "His Word (t) sanctifies, witnessed (w) by redemption (Ps 71:22).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 52:10",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+52%3A10&version=ESV",
+                "tas_summary": "Salvation arm revealed",
+                "witnesses": [
+                  {
+                    "verse": "Ps 98:1",
+                    "summary": "Arm won victory",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+98%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 53:1",
+                    "summary": "Arm revealed",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A1&version=ESV"
+                  }
+                ],
+                "context": "God’s salvation displayed to all.",
+                "commentary": "His Word (t) saves, witnessed (w) by power (Ps 98:1).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 53:2",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A2&version=ESV",
+                "tas_summary": "Humble Servant came",
+                "witnesses": [
+                  {
+                    "verse": "Phil 2:7",
+                    "summary": "Form of servant",
+                    "link": "https://www.biblegateway.com/passage/?search=Phil+2%3A7&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 52:14",
+                    "summary": "Marred appearance",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+52%3A14&version=ESV"
+                  }
+                ],
+                "context": "The Suffering Servant’s humble state.",
+                "commentary": "Jesus (j) humbles (t), witnessed (w) by service (Phil 2:7).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Isa 53:5",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A5&version=ESV",
+                "tas_summary": "Healed by wounds",
+                "witnesses": [
+                  {
+                    "verse": "1 Pet 2:24",
+                    "summary": "By wounds healed",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+2%3A24&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 8:17",
+                    "summary": "Took infirmities",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+8%3A17&version=ESV"
+                  }
+                ],
+                "context": "The Servant bears our sins.",
+                "commentary": "Jesus (j) heals (t), witnessed (w) by sacrifice (1 Pet 2:24).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Isa 53:7",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A7&version=ESV",
+                "tas_summary": "Lamb silently slain",
+                "witnesses": [
+                  {
+                    "verse": "John 1:29",
+                    "summary": "Lamb of God",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A29&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 1:19",
+                    "summary": "Lamb without blemish",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+1%3A19&version=ESV"
+                  }
+                ],
+                "context": "The Servant silently endures suffering.",
+                "commentary": "Jesus (j) atones (t), witnessed (w) by lamb (John 1:29).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Isa 55:11",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+55%3A11&version=ESV",
+                "tas_summary": "Word fulfills will",
+                "witnesses": [
+                  {
+                    "verse": "Heb 4:12",
+                    "summary": "Word is active",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+4%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Jer 23:29",
+                    "summary": "Word like fire",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+23%3A29&version=ESV"
+                  }
+                ],
+                "context": "God’s invitation to seek Him.",
+                "commentary": "His Word (t) accomplishes, witnessed (w) by power (Heb 4:12).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 57:15",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+57%3A15&version=ESV",
+                "tas_summary": "Contrite spirit dwells",
+                "witnesses": [
+                  {
+                    "verse": "Ps 34:18",
+                    "summary": "Near the broken",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+34%3A18&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 66:2",
+                    "summary": "Contrite heart",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+66%3A2&version=ESV"
+                  }
+                ],
+                "context": "God’s comfort to the humble.",
+                "commentary": "His Word (t) comforts, witnessed (w) by humility (Ps 34:18).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Isa 66:1",
+                "link": "https://www.biblegateway.com/passage/?search=Isa+66%3A1&version=ESV",
+                "tas_summary": "Earth His footstool",
+                "witnesses": [
+                  {
+                    "verse": "Matt 5:35",
+                    "summary": "Earth His footstool",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+5%3A35&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 7:49",
+                    "summary": "Heaven My throne",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+7%3A49&version=ESV"
+                  }
+                ],
+                "context": "God’s declaration of His greatness.",
+                "commentary": "His Word (t) reigns, witnessed (w) by creation (Acts 7:49).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Jer 23:6",
+                "link": "https://www.biblegateway.com/passage/?search=Jer+23%3A6&version=ESV",
+                "tas_summary": "Righteousness our Lord",
+                "witnesses": [
+                  {
+                    "verse": "Jer 33:16",
+                    "summary": "Lord our righteousness",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+33%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 3:22",
+                    "summary": "Righteousness of God",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+3%3A22&version=ESV"
+                  }
+                ],
+                "context": "Prophecy of a righteous Branch.",
+                "commentary": "Jesus (j) justifies (t), witnessed (w) by righteousness (Rom 3:22).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Dan 2:44",
+                "link": "https://www.biblegateway.com/passage/?search=Dan+2%3A44&version=ESV",
+                "tas_summary": "Kingdom stands eternal",
+                "witnesses": [
+                  {
+                    "verse": "Ps 145:13",
+                    "summary": "Kingdom everlasting",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+145%3A13&version=ESV"
+                  },
+                  {
+                    "verse": "Dan 7:14",
+                    "summary": "Dominion forever",
+                    "link": "https://www.biblegateway.com/passage/?search=Dan+7%3A14&version=ESV"
+                  }
+                ],
+                "context": "Daniel interprets Nebuchadnezzar’s dream.",
+                "commentary": "His Word (t) rules, witnessed (w) by eternity (Ps 145:13).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Dan 4:25",
+                "link": "https://www.biblegateway.com/passage/?search=Dan+4%3A25&version=ESV",
+                "tas_summary": "Most High reigns",
+                "witnesses": [
+                  {
+                    "verse": "Dan 4:34",
+                    "summary": "Dominion eternal",
+                    "link": "https://www.biblegateway.com/passage/?search=Dan+4%3A34&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 103:19",
+                    "summary": "Throne in heavens",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+103%3A19&version=ESV"
+                  }
+                ],
+                "context": "Nebuchadnezzar humbled by God.",
+                "commentary": "His Word (t) governs, witnessed (w) by reign (Ps 103:19).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Dan 7:9",
+                "link": "https://www.biblegateway.com/passage/?search=Dan+7%3A9&version=ESV",
+                "tas_summary": "Ancient Days eternal",
+                "witnesses": [
+                  {
+                    "verse": "Rev 1:14",
+                    "summary": "Hair white",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+1%3A14&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 102:25",
+                    "summary": "Of old You laid",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+102%3A25&version=ESV"
+                  }
+                ],
+                "context": "Daniel’s vision of God’s throne.",
+                "commentary": "His Word (t) reveals, witnessed (w) by majesty (Rev 1:14).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Amos 5:24",
+                "link": "https://www.biblegateway.com/passage/?search=Amos+5%3A24&version=ESV",
+                "tas_summary": "Justice flows down",
+                "witnesses": [
+                  {
+                    "verse": "Isa 1:17",
+                    "summary": "Seek justice",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+1%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 89:14",
+                    "summary": "Justice foundation",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+89%3A14&version=ESV"
+                  }
+                ],
+                "context": "Amos condemns Israel’s injustice.",
+                "commentary": "His Word (t) demands, witnessed (w) by justice (Ps 89:14).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Mic 6:8",
+                "link": "https://www.biblegateway.com/passage/?search=Mic+6%3A8&version=ESV",
+                "tas_summary": "Justice humbly done",
+                "witnesses": [
+                  {
+                    "verse": "Zech 7:9",
+                    "summary": "Administer justice",
+                    "link": "https://www.biblegateway.com/passage/?search=Zech+7%3A9&version=ESV"
+                  },
+                  {
+                    "verse": "Prov 21:3",
+                    "summary": "Justice pleasing",
+                    "link": "https://www.biblegateway.com/passage/?search=Prov+21%3A3&version=ESV"
+                  }
+                ],
+                "context": "Micah sums up God’s requirements.",
+                "commentary": "His Word (t) guides, witnessed (w) by righteousness (Zech 7:9).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Mal 3:6",
+                "link": "https://www.biblegateway.com/passage/?search=Mal+3%3A6&version=ESV",
+                "tas_summary": "God never changes",
+                "witnesses": [
+                  {
+                    "verse": "Heb 13:8",
+                    "summary": "Same forever",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+13%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "James 1:17",
+                    "summary": "No variation",
+                    "link": "https://www.biblegateway.com/passage/?search=James+1%3A17&version=ESV"
+                  }
+                ],
+                "context": "God’s promise amid judgment.",
+                "commentary": "His Word (t) endures, witnessed (w) by constancy (Heb 13:8).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Hab 1:13",
+                "link": "https://www.biblegateway.com/passage/?search=Hab+1%3A13&version=ESV",
+                "tas_summary": "Pure eyes judge",
+                "witnesses": [
+                  {
+                    "verse": "Ps 5:4",
+                    "summary": "No evil dwells",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+5%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 6:5",
+                    "summary": "Holy presence",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+6%3A5&version=ESV"
+                  }
+                ],
+                "context": "Habakkuk questions God’s justice.",
+                "commentary": "His Word (t) purifies, witnessed (w) by holiness (Ps 5:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 3:16",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+3%3A16&version=ESV",
+                "tas_summary": "Spirit like dove",
+                "witnesses": [
+                  {
+                    "verse": "Luke 3:22",
+                    "summary": "Dove descended",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A22&version=ESV"
+                  },
+                  {
+                    "verse": "John 1:32",
+                    "summary": "Spirit descending",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A32&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ baptism by John.",
+                "commentary": "Spirit (t) reveals, witnessed (w) by dove (John 1:32).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 3:17",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+3%3A17&version=ESV",
+                "tas_summary": "Son affirmed divine",
+                "witnesses": [
+                  {
+                    "verse": "Matt 17:5",
+                    "summary": "Beloved Son",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+17%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "John 1:34",
+                    "summary": "Son of God",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A34&version=ESV"
+                  }
+                ],
+                "context": "God affirms Jesus at baptism.",
+                "commentary": "Jesus (j) declared (t), witnessed (w) by voice (Matt 17:5).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 5:3-12",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+5%3A3-12&version=ESV",
+                "tas_summary": "Meek are blessed",
+                "witnesses": [
+                  {
+                    "verse": "Luke 6:20-23",
+                    "summary": "Blessed poor",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+6%3A20-23&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 37:11",
+                    "summary": "Meek inherit",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+37%3A11&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ Sermon on the Mount.",
+                "commentary": "Jesus (j) blesses (t), witnessed (w) by meekness (Ps 37:11).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "Matt 5:17",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+5%3A17&version=ESV",
+                "tas_summary": "Law fulfilled fully",
+                "witnesses": [
+                  {
+                    "verse": "Rom 10:4",
+                    "summary": "End of law",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+10%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Gal 3:24",
+                    "summary": "Law led to Christ",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+3%3A24&version=ESV"
+                  }
+                ],
+                "context": "Jesus teaches on the Mount.",
+                "commentary": "Jesus (j) completes (t), witnessed (w) by law (Rom 10:4).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 5:37",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+5%3A37&version=ESV",
+                "tas_summary": "Yes be yes",
+                "witnesses": [
+                  {
+                    "verse": "James 5:12",
+                    "summary": "Let yes be yes",
+                    "link": "https://www.biblegateway.com/passage/?search=James+5%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 5:34",
+                    "summary": "No oaths",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+5%3A34&version=ESV"
+                  }
+                ],
+                "context": "Jesus on truthfulness in speech.",
+                "commentary": "His Word (t) demands, witnessed (w) by truth (James 5:12).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 6:6",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+6%3A6&version=ESV",
+                "tas_summary": "Father unseen prays",
+                "witnesses": [
+                  {
+                    "verse": "John 4:24",
+                    "summary": "God is spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=John+4%3A24&version=ESV"
+                  },
+                  {
+                    "verse": "1 Tim 1:17",
+                    "summary": "Invisible God",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Tim+1%3A17&version=ESV"
+                  }
+                ],
+                "context": "Jesus teaches private prayer.",
+                "commentary": "His Word (t) invites, witnessed (w) by spirit (John 4:24).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 10:28",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+10%3A28&version=ESV",
+                "tas_summary": "Fear God alone",
+                "witnesses": [
+                  {
+                    "verse": "Luke 12:5",
+                    "summary": "Fear Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+12%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "Heb 10:31",
+                    "summary": "Fearful judgment",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+10%3A31&version=ESV"
+                  }
+                ],
+                "context": "Jesus sends the disciples.",
+                "commentary": "His Word (t) commands, witnessed (w) by awe (Heb 10:31).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 11:29",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+11%3A29&version=ESV",
+                "tas_summary": "Gentle lowly rest",
+                "witnesses": [
+                  {
+                    "verse": "Phil 2:8",
+                    "summary": "Humbled Himself",
+                    "link": "https://www.biblegateway.com/passage/?search=Phil+2%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "Zech 9:9",
+                    "summary": "Lowly on donkey",
+                    "link": "https://www.biblegateway.com/passage/?search=Zech+9%3A9&version=ESV"
+                  }
+                ],
+                "context": "Jesus offers rest to the weary.",
+                "commentary": "Jesus (j) comforts (t), witnessed (w) by humility (Phil 2:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 12:12",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+12%3A12&version=ESV",
+                "tas_summary": "Good on Sabbath",
+                "witnesses": [
+                  {
+                    "verse": "Mark 3:4",
+                    "summary": "Lawful to do good",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+3%3A4&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 6:9",
+                    "summary": "Good on Sabbath",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+6%3A9&version=ESV"
+                  }
+                ],
+                "context": "Jesus heals on the Sabbath.",
+                "commentary": "Jesus (j) prioritizes (t), witnessed (w) by mercy (Mark 3:4).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "Matt 12:24",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+12%3A24&version=ESV",
+                "tas_summary": "Demon falsely accused",
+                "witnesses": [
+                  {
+                    "verse": "John 8:48",
+                    "summary": "Said demon-possessed",
+                    "link": "https://www.biblegateway.com/passage/?search=John+8%3A48&version=ESV"
+                  },
+                  {
+                    "verse": "Mark 3:22",
+                    "summary": "By Beelzebul",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+3%3A22&version=ESV"
+                  }
+                ],
+                "context": "Pharisees accuse Jesus.",
+                "commentary": "Jesus (j) prevails (t), witnessed (w) despite lies (John 8:48).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 12:31-32",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+12%3A31-32&version=ESV",
+                "tas_summary": "Blasphemy not forgiven",
+                "witnesses": [
+                  {
+                    "verse": "Mark 3:29",
+                    "summary": "Eternal sin",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+3%3A29&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 12:10",
+                    "summary": "Not forgiven",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+12%3A10&version=ESV"
+                  }
+                ],
+                "context": "Jesus warns against blaspheming the Spirit.",
+                "commentary": "His Word (t) sets, witnessed (w) by warning (Mark 3:29).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 13:24-30",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+13%3A24-30&version=ESV",
+                "tas_summary": "Wheat weeds separated",
+                "witnesses": [
+                  {
+                    "verse": "Matt 13:38",
+                    "summary": "Field is world",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+13%3A38&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 13:40",
+                    "summary": "Burned at end",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+13%3A40&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ parable of the kingdom.",
+                "commentary": "Jesus (j) discerns (t), witnessed (w) by parable (Matt 13:38).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 13:30",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+13%3A30&version=ESV",
+                "tas_summary": "Harvest ends all",
+                "witnesses": [
+                  {
+                    "verse": "Rev 14:15",
+                    "summary": "Harvest time",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+14%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Joel 3:13",
+                    "summary": "Harvest ripe",
+                    "link": "https://www.biblegateway.com/passage/?search=Joel+3%3A13&version=ESV"
+                  }
+                ],
+                "context": "Conclusion of the wheat and weeds parable.",
+                "commentary": "Jesus (j) judges (t), witnessed (w) by end (Rev 14:15).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 13:34-35",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+13%3A34-35&version=ESV",
+                "tas_summary": "Parables reveal mysteries",
+                "witnesses": [
+                  {
+                    "verse": "Mark 4:34",
+                    "summary": "Only parables",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+4%3A34&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 78:2",
+                    "summary": "Utter dark sayings",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+78%3A2&version=ESV"
+                  }
+                ],
+                "context": "Jesus teaches the crowds.",
+                "commentary": "Jesus (j) unveils (t), witnessed (w) by parables (Ps 78:2).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 18:3",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+18%3A3&version=ESV",
+                "tas_summary": "Childlike faith needed",
+                "witnesses": [
+                  {
+                    "verse": "Mark 10:15",
+                    "summary": "As a child",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+10%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 18:17",
+                    "summary": "Receive as child",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+18%3A17&version=ESV"
+                  }
+                ],
+                "context": "Jesus blesses little children.",
+                "commentary": "Jesus (j) calls (t), witnessed (w) by faith (Mark 10:15).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 19:19",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+19%3A19&version=ESV",
+                "tas_summary": "Honor parents always",
+                "witnesses": [
+                  {
+                    "verse": "Ex 20:12",
+                    "summary": "Honor father",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Eph 6:2",
+                    "summary": "First command",
+                    "link": "https://www.biblegateway.com/passage/?search=Eph+6%3A2&version=ESV"
+                  }
+                ],
+                "context": "Jesus answers the rich young ruler.",
+                "commentary": "His Word (t) upholds, witnessed (w) by duty (Eph 6:2).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Matt 22:37-40",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+22%3A37-40&version=ESV",
+                "tas_summary": "Love God, neighbor",
+                "witnesses": [
+                  {
+                    "verse": "Deut 6:5",
+                    "summary": "Love Lord",
+                    "link": "https://www.biblegateway.com/passage/?search=Deut+6%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "Lev 19:18",
+                    "summary": "Love neighbor",
+                    "link": "https://www.biblegateway.com/passage/?search=Lev+19%3A18&version=ESV"
+                  }
+                ],
+                "context": "Jesus sums up the law.",
+                "commentary": "Jesus (j) loves (l), witnessed (w) by law (Deut 6:5).",
+                "eval": "j+t+l+w"
+              },
+              {
+                "verse": "Matt 23:27",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+23%3A27&version=ESV",
+                "tas_summary": "Hypocrisy condemned harshly",
+                "witnesses": [
+                  {
+                    "verse": "Matt 23:13",
+                    "summary": "Woe to scribes",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+23%3A13&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 11:44",
+                    "summary": "Unseen tombs",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+11%3A44&version=ESV"
+                  }
+                ],
+                "context": "Jesus denounces the Pharisees.",
+                "commentary": "Jesus (j) exposes (t), witnessed (w) by truth (Luke 11:44).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 24:35",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+24%3A35&version=ESV",
+                "tas_summary": "Words never pass",
+                "witnesses": [
+                  {
+                    "verse": "Luke 21:33",
+                    "summary": "Words endure",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+21%3A33&version=ESV"
+                  },
+                  {
+                    "verse": "Mark 13:31",
+                    "summary": "Will not pass",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+13%3A31&version=ESV"
+                  }
+                ],
+                "context": "Jesus foretells the end times.",
+                "commentary": "Jesus (j) endures (t), witnessed (w) by eternity (Luke 21:33).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 25:31",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+25%3A31&version=ESV",
+                "tas_summary": "Son judges all",
+                "witnesses": [
+                  {
+                    "verse": "John 5:27",
+                    "summary": "Authority to judge",
+                    "link": "https://www.biblegateway.com/passage/?search=John+5%3A27&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 16:27",
+                    "summary": "Repay each",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+16%3A27&version=ESV"
+                  }
+                ],
+                "context": "Parable of the sheep and goats.",
+                "commentary": "Jesus (j) judges (t), witnessed (w) by authority (John 5:27).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 27:50",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+27%3A50&version=ESV",
+                "tas_summary": "Jesus died willingly",
+                "witnesses": [
+                  {
+                    "verse": "John 19:30",
+                    "summary": "Gave up spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=John+19%3A30&version=ESV"
+                  },
+                  {
+                    "verse": "Mark 15:37",
+                    "summary": "Breathed last",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+15%3A37&version=ESV"
+                  }
+                ],
+                "context": "Crucifixion at Golgotha.",
+                "commentary": "Jesus (j) redeems (t), witnessed (w) by death (John 19:30).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 28:6",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+28%3A6&version=ESV",
+                "tas_summary": "He is risen",
+                "witnesses": [
+                  {
+                    "verse": "Luke 24:6",
+                    "summary": "Not here",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+24%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "Mark 16:6",
+                    "summary": "He has risen",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+16%3A6&version=ESV"
+                  }
+                ],
+                "context": "Angel announces resurrection.",
+                "commentary": "Jesus (j) conquers (t), witnessed (w) by life (Mark 16:6).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Matt 28:18",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+28%3A18&version=ESV",
+                "tas_summary": "All authority given",
+                "witnesses": [
+                  {
+                    "verse": "Dan 7:14",
+                    "summary": "Dominion given",
+                    "link": "https://www.biblegateway.com/passage/?search=Dan+7%3A14&version=ESV"
+                  },
+                  {
+                    "verse": "John 17:2",
+                    "summary": "Authority over all",
+                    "link": "https://www.biblegateway.com/passage/?search=John+17%3A2&version=ESV"
+                  }
+                ],
+                "context": "Great Commission before ascension.",
+                "commentary": "Jesus (j) reigns (t), witnessed (w) by power (Dan 7:14).",
+                "eval": "j+t+w"
+              },
+              [
+              {
+                "verse": "Matt 28:19-20",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+28%3A19-20&version=ESV",
+                "tas_summary": "Disciples make all",
+                "witnesses": [
+                  {
+                    "verse": "Mark 16:15",
+                    "summary": "Preach gospel",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+16%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 1:8",
+                    "summary": "Witness to ends",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ final command to the Eleven.",
+                "commentary": "Jesus (j) spreads (t), witnessed (w) by mission (Acts 1:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Mark 2:27",
+                "link": "https://www.biblegateway.com/passage/?search=Mark+2%3A27&version=ESV",
+                "tas_summary": "Sabbath for man",
+                "witnesses": [
+                  {
+                    "verse": "Ex 20:10",
+                    "summary": "Day of rest",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A10&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 12:8",
+                    "summary": "Lord of Sabbath",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+12%3A8&version=ESV"
+                  }
+                ],
+                "context": "Jesus defends His disciples.",
+                "commentary": "Jesus (j) prioritizes (t), witnessed (w) by rest (Matt 12:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Mark 14:36",
+                "link": "https://www.biblegateway.com/passage/?search=Mark+14%3A36&version=ESV",
+                "tas_summary": "Abba Father prayed",
+                "witnesses": [
+                  {
+                    "verse": "Rom 8:15",
+                    "summary": "Cry Abba",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Gal 4:6",
+                    "summary": "Abba Father",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+4%3A6&version=ESV"
+                  }
+                ],
+                "context": "Jesus prays in Gethsemane.",
+                "commentary": "Jesus (j) trusts (t), witnessed (w) by sonship (Rom 8:15).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Mark 16:19",
+                "link": "https://www.biblegateway.com/passage/?search=Mark+16%3A19&version=ESV",
+                "tas_summary": "Ascended right hand",
+                "witnesses": [
+                  {
+                    "verse": "Acts 1:9",
+                    "summary": "Taken up",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+1%3A9&version=ESV"
+                  },
+                  {
+                    "verse": "Heb 1:3",
+                    "summary": "Sat at right hand",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+1%3A3&version=ESV"
+                  }
+                ],
+                "context": "Jesus ascends after resurrection.",
+                "commentary": "Jesus (j) exalts (t), witnessed (w) by glory (Heb 1:3).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Luke 1:35",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+1%3A35&version=ESV",
+                "tas_summary": "Spirit birthed Son",
+                "witnesses": [
+                  {
+                    "verse": "Matt 1:20",
+                    "summary": "Conceived by Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+1%3A20&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 1:31",
+                    "summary": "Son of God",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+1%3A31&version=ESV"
+                  }
+                ],
+                "context": "Angel announces Jesus’ birth.",
+                "commentary": "Spirit (t) incarnates, witnessed (w) by birth (Matt 1:20).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Luke 3:23",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A23&version=ESV",
+                "tas_summary": "Jesus began thirty",
+                "witnesses": [
+                  {
+                    "verse": "Luke 3:21",
+                    "summary": "Baptized",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A21&version=ESV"
+                  },
+                  {
+                    "verse": "John 2:20",
+                    "summary": "Temple age context",
+                    "link": "https://www.biblegateway.com/passage/?search=John+2%3A20&version=ESV"
+                  }
+                ],
+                "context": "Jesus begins His ministry.",
+                "commentary": "Jesus (j) starts (t), witnessed (w) by time (Luke 3:21).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Luke 3:23-38",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A23-38&version=ESV",
+                "tas_summary": "Generations traced back",
+                "witnesses": [
+                  {
+                    "verse": "Matt 1:17",
+                    "summary": "Genealogy spans",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+1%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 5:3",
+                    "summary": "Adam to Seth",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+5%3A3&version=ESV"
+                  }
+                ],
+                "context": "Luke traces Jesus’ lineage.",
+                "commentary": "Jesus (j) connects (t), witnessed (w) by history (Matt 1:17).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Luke 4:18",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+4%3A18&version=ESV",
+                "tas_summary": "Spirit anointed Him",
+                "witnesses": [
+                  {
+                    "verse": "Isa 61:1",
+                    "summary": "Anointed me",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+61%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 10:38",
+                    "summary": "Anointed with Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+10%3A38&version=ESV"
+                  }
+                ],
+                "context": "Jesus reads Isaiah in Nazareth.",
+                "commentary": "Jesus (j) fulfills (t), witnessed (w) by Spirit (Acts 10:38).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:1",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV",
+                "tas_summary": "Word was God",
+                "witnesses": [
+                  {
+                    "verse": "Gen 1:1",
+                    "summary": "God created",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Col 1:16",
+                    "summary": "All created by Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+1%3A16&version=ESV"
+                  }
+                ],
+                "context": "John’s prologue on the Logos.",
+                "commentary": "Jesus (j) is (t), witnessed (w) by creation (Col 1:16).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:1-3",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A1-3&version=ESV",
+                "tas_summary": "All through Him",
+                "witnesses": [
+                  {
+                    "verse": "Heb 1:2",
+                    "summary": "Worlds through Son",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+1%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Col 1:16",
+                    "summary": "All created by Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+1%3A16&version=ESV"
+                  }
+                ],
+                "context": "John establishes Christ’s role in creation.",
+                "commentary": "Jesus (j) creates (t), witnessed (w) by all (Heb 1:2).",
+                "eval": "j+t+w"
+              },
+              {
                 "verse": "John 1:5",
-                "text": "The light shines in the darkness...",
-                "link": "https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV"
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV",
+                "tas_summary": "Light shines dark",
+                "witnesses": [
+                  {
+                    "verse": "John 8:12",
+                    "summary": "Light of the world",
+                    "link": "https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "1 John 2:8",
+                    "summary": "Darkness passing",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+2%3A8&version=ESV"
+                  }
+                ],
+                "context": "John describes Christ’s coming.",
+                "commentary": "Jesus (j) shines (t), witnessed (w) by light (John 8:12).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:10",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A10&version=ESV",
+                "tas_summary": "World knew not",
+                "witnesses": [
+                  {
+                    "verse": "John 16:3",
+                    "summary": "Did not know",
+                    "link": "https://www.biblegateway.com/passage/?search=John+16%3A3&version=ESV"
+                  },
+                  {
+                    "verse": "1 Cor 2:8",
+                    "summary": "None understood",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Cor+2%3A8&version=ESV"
+                  }
+                ],
+                "context": "John laments the world’s rejection.",
+                "commentary": "Jesus (j) reveals (t), witnessed (w) despite blindness (1 Cor 2:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:12",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A12&version=ESV",
+                "tas_summary": "Children of God",
+                "witnesses": [
+                  {
+                    "verse": "Rom 8:16",
+                    "summary": "Sons of God",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Gal 3:26",
+                    "summary": "Children by faith",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+3%3A26&version=ESV"
+                  }
+                ],
+                "context": "John offers adoption through belief.",
+                "commentary": "Jesus (j) adopts (t), witnessed (w) by faith (Rom 8:16).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "Matt 28:19-20",
+                "link": "https://www.biblegateway.com/passage/?search=Matt+28%3A19-20&version=ESV",
+                "tas_summary": "Disciples make all",
+                "witnesses": [
+                  {
+                    "verse": "Mark 16:15",
+                    "summary": "Preach gospel",
+                    "link": "https://www.biblegateway.com/passage/?search=Mark+16%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 1:8",
+                    "summary": "Witness to ends",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ final command to the Eleven.",
+                "commentary": "Jesus (j) spreads (t), witnessed (w) by mission (Acts 1:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Mark 2:27",
+                "link": "https://www.biblegateway.com/passage/?search=Mark+2%3A27&version=ESV",
+                "tas_summary": "Sabbath for man",
+                "witnesses": [
+                  {
+                    "verse": "Ex 20:10",
+                    "summary": "Day of rest",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+20%3A10&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 12:8",
+                    "summary": "Lord of Sabbath",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+12%3A8&version=ESV"
+                  }
+                ],
+                "context": "Jesus defends His disciples.",
+                "commentary": "Jesus (j) prioritizes (t), witnessed (w) by rest (Matt 12:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Mark 14:36",
+                "link": "https://www.biblegateway.com/passage/?search=Mark+14%3A36&version=ESV",
+                "tas_summary": "Abba Father prayed",
+                "witnesses": [
+                  {
+                    "verse": "Rom 8:15",
+                    "summary": "Cry Abba",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Gal 4:6",
+                    "summary": "Abba Father",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+4%3A6&version=ESV"
+                  }
+                ],
+                "context": "Jesus prays in Gethsemane.",
+                "commentary": "Jesus (j) trusts (t), witnessed (w) by sonship (Rom 8:15).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Mark 16:19",
+                "link": "https://www.biblegateway.com/passage/?search=Mark+16%3A19&version=ESV",
+                "tas_summary": "Ascended right hand",
+                "witnesses": [
+                  {
+                    "verse": "Acts 1:9",
+                    "summary": "Taken up",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+1%3A9&version=ESV"
+                  },
+                  {
+                    "verse": "Heb 1:3",
+                    "summary": "Sat at right hand",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+1%3A3&version=ESV"
+                  }
+                ],
+                "context": "Jesus ascends after resurrection.",
+                "commentary": "Jesus (j) exalts (t), witnessed (w) by glory (Heb 1:3).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Luke 1:35",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+1%3A35&version=ESV",
+                "tas_summary": "Spirit birthed Son",
+                "witnesses": [
+                  {
+                    "verse": "Matt 1:20",
+                    "summary": "Conceived by Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+1%3A20&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 1:31",
+                    "summary": "Son of God",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+1%3A31&version=ESV"
+                  }
+                ],
+                "context": "Angel announces Jesus’ birth.",
+                "commentary": "Spirit (t) incarnates, witnessed (w) by birth (Matt 1:20).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Luke 3:23",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A23&version=ESV",
+                "tas_summary": "Jesus began thirty",
+                "witnesses": [
+                  {
+                    "verse": "Luke 3:21",
+                    "summary": "Baptized",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A21&version=ESV"
+                  },
+                  {
+                    "verse": "John 2:20",
+                    "summary": "Temple age context",
+                    "link": "https://www.biblegateway.com/passage/?search=John+2%3A20&version=ESV"
+                  }
+                ],
+                "context": "Jesus begins His ministry.",
+                "commentary": "Jesus (j) starts (t), witnessed (w) by time (Luke 3:21).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Luke 3:23-38",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A23-38&version=ESV",
+                "tas_summary": "Generations traced back",
+                "witnesses": [
+                  {
+                    "verse": "Matt 1:17",
+                    "summary": "Genealogy spans",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+1%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "Gen 5:3",
+                    "summary": "Adam to Seth",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+5%3A3&version=ESV"
+                  }
+                ],
+                "context": "Luke traces Jesus’ lineage.",
+                "commentary": "Jesus (j) connects (t), witnessed (w) by history (Matt 1:17).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Luke 4:18",
+                "link": "https://www.biblegateway.com/passage/?search=Luke+4%3A18&version=ESV",
+                "tas_summary": "Spirit anointed Him",
+                "witnesses": [
+                  {
+                    "verse": "Isa 61:1",
+                    "summary": "Anointed me",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+61%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 10:38",
+                    "summary": "Anointed with Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+10%3A38&version=ESV"
+                  }
+                ],
+                "context": "Jesus reads Isaiah in Nazareth.",
+                "commentary": "Jesus (j) fulfills (t), witnessed (w) by Spirit (Acts 10:38).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:1",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV",
+                "tas_summary": "Word was God",
+                "witnesses": [
+                  {
+                    "verse": "Gen 1:1",
+                    "summary": "God created",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+1%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Col 1:16",
+                    "summary": "All created by Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+1%3A16&version=ESV"
+                  }
+                ],
+                "context": "John’s prologue on the Logos.",
+                "commentary": "Jesus (j) is (t), witnessed (w) by creation (Col 1:16).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:1-3",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A1-3&version=ESV",
+                "tas_summary": "All through Him",
+                "witnesses": [
+                  {
+                    "verse": "Heb 1:2",
+                    "summary": "Worlds through Son",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+1%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Col 1:16",
+                    "summary": "All created by Him",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+1%3A16&version=ESV"
+                  }
+                ],
+                "context": "John establishes Christ’s role in creation.",
+                "commentary": "Jesus (j) creates (t), witnessed (w) by all (Heb 1:2).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:5",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV",
+                "tas_summary": "Light shines dark",
+                "witnesses": [
+                  {
+                    "verse": "John 8:12",
+                    "summary": "Light of the world",
+                    "link": "https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "1 John 2:8",
+                    "summary": "Darkness passing",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+2%3A8&version=ESV"
+                  }
+                ],
+                "context": "John describes Christ’s coming.",
+                "commentary": "Jesus (j) shines (t), witnessed (w) by light (John 8:12).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:10",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A10&version=ESV",
+                "tas_summary": "World knew not",
+                "witnesses": [
+                  {
+                    "verse": "John 16:3",
+                    "summary": "Did not know",
+                    "link": "https://www.biblegateway.com/passage/?search=John+16%3A3&version=ESV"
+                  },
+                  {
+                    "verse": "1 Cor 2:8",
+                    "summary": "None understood",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Cor+2%3A8&version=ESV"
+                  }
+                ],
+                "context": "John laments the world’s rejection.",
+                "commentary": "Jesus (j) reveals (t), witnessed (w) despite blindness (1 Cor 2:8).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:12",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A12&version=ESV",
+                "tas_summary": "Children of God",
+                "witnesses": [
+                  {
+                    "verse": "Rom 8:16",
+                    "summary": "Sons of God",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Gal 3:26",
+                    "summary": "Children by faith",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+3%3A26&version=ESV"
+                  }
+                ],
+                "context": "John offers adoption through belief.",
+                "commentary": "Jesus (j) adopts (t), witnessed (w) by faith (Rom 8:16).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "John 1:14",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A14&version=ESV",
+                "tas_summary": "Word became flesh",
+                "witnesses": [
+                  {
+                    "verse": "1 John 1:1",
+                    "summary": "Seen and heard",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+1%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Phil 2:7",
+                    "summary": "Form of servant",
+                    "link": "https://www.biblegateway.com/passage/?search=Phil+2%3A7&version=ESV"
+                  }
+                ],
+                "context": "John declares the incarnation.",
+                "commentary": "Jesus (j) incarnates (t), witnessed (w) by flesh (Phil 2:7).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:18",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A18&version=ESV",
+                "tas_summary": "Son reveals Father",
+                "witnesses": [
+                  {
+                    "verse": "John 14:9",
+                    "summary": "Seen Me seen Father",
+                    "link": "https://www.biblegateway.com/passage/?search=John+14%3A9&version=ESV"
+                  },
+                  {
+                    "verse": "Col 1:15",
+                    "summary": "Image of God",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+1%3A15&version=ESV"
+                  }
+                ],
+                "context": "John explains the Son’s role.",
+                "commentary": "Jesus (j) reveals (t), witnessed (w) by image (Col 1:15).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:29",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A29&version=ESV",
+                "tas_summary": "Lamb takes sin",
+                "witnesses": [
+                  {
+                    "verse": "Isa 53:7",
+                    "summary": "Led to slaughter",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A7&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 1:19",
+                    "summary": "Precious blood",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+1%3A19&version=ESV"
+                  }
+                ],
+                "context": "John the Baptist identifies Jesus.",
+                "commentary": "Jesus (j) atones (t), witnessed (w) by lamb (Isa 53:7).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 1:32",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A32&version=ESV",
+                "tas_summary": "Spirit descended dove",
+                "witnesses": [
+                  {
+                    "verse": "Matt 3:16",
+                    "summary": "Like a dove",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+3%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Luke 3:22",
+                    "summary": "Bodily form",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+3%3A22&version=ESV"
+                  }
+                ],
+                "context": "John witnesses Jesus’ baptism.",
+                "commentary": "Spirit (t) confirms, witnessed (w) by dove (Matt 3:16).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "John 1:34",
+                "link": "https://www.biblegateway.com/passage/?search=John+1%3A34&version=ESV",
+                "tas_summary": "Son of God",
+                "witnesses": [
+                  {
+                    "verse": "Matt 3:17",
+                    "summary": "My beloved Son",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+3%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "John 3:16",
+                    "summary": "Only begotten Son",
+                    "link": "https://www.biblegateway.com/passage/?search=John+3%3A16&version=ESV"
+                  }
+                ],
+                "context": "John the Baptist’s testimony.",
+                "commentary": "Jesus (j) is (t), witnessed (w) by voice (Matt 3:17).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 2:19",
+                "link": "https://www.biblegateway.com/passage/?search=John+2%3A19&version=ESV",
+                "tas_summary": "Temple raised three",
+                "witnesses": [
+                  {
+                    "verse": "Matt 26:61",
+                    "summary": "Destroy temple",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+26%3A61&version=ESV"
+                  },
+                  {
+                    "verse": "1 Cor 6:19",
+                    "summary": "Body is temple",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Cor+6%3A19&version=ESV"
+                  }
+                ],
+                "context": "Jesus cleanses the temple.",
+                "commentary": "Jesus (j) resurrects (t), witnessed (w) by body (1 Cor 6:19).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 3:5",
+                "link": "https://www.biblegateway.com/passage/?search=John+3%3A5&version=ESV",
+                "tas_summary": "Born of Spirit",
+                "witnesses": [
+                  {
+                    "verse": "Titus 3:5",
+                    "summary": "Washing of regeneration",
+                    "link": "https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 1:23",
+                    "summary": "Born again",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+1%3A23&version=ESV"
+                  }
+                ],
+                "context": "Jesus teaches Nicodemus.",
+                "commentary": "Spirit (t) regenerates, witnessed (w) by birth (Titus 3:5).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "John 3:16",
+                "link": "https://www.biblegateway.com/passage/?search=John+3%3A16&version=ESV",
+                "tas_summary": "God so loved",
+                "witnesses": [
+                  {
+                    "verse": "Rom 5:8",
+                    "summary": "Love while sinners",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+5%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "1 John 4:9",
+                    "summary": "Sent His Son",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+4%3A9&version=ESV"
+                  }
+                ],
+                "context": "Jesus explains salvation to Nicodemus.",
+                "commentary": "Jesus (j) saves (t), witnessed (w) by love (Rom 5:8).",
+                "eval": "j+t+w+l"
+              },
+              {
+                "verse": "John 3:18",
+                "link": "https://www.biblegateway.com/passage/?search=John+3%3A18&version=ESV",
+                "tas_summary": "Believers not condemned",
+                "witnesses": [
+                  {
+                    "verse": "Rom 8:1",
+                    "summary": "No condemnation",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "John 5:24",
+                    "summary": "No judgment",
+                    "link": "https://www.biblegateway.com/passage/?search=John+5%3A24&version=ESV"
+                  }
+                ],
+                "context": "Jesus continues with Nicodemus.",
+                "commentary": "Jesus (j) frees (t), witnessed (w) by grace (Rom 8:1).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "John 4:24",
+                "link": "https://www.biblegateway.com/passage/?search=John+4%3A24&version=ESV",
+                "tas_summary": "God is spirit",
+                "witnesses": [
+                  {
+                    "verse": "2 Cor 3:17",
+                    "summary": "Lord is Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=2+Cor+3%3A17&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 31:3",
+                    "summary": "Not flesh",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+31%3A3&version=ESV"
+                  }
+                ],
+                "context": "Jesus speaks to the Samaritan woman.",
+                "commentary": "His Word (t) reveals, witnessed (w) by spirit (2 Cor 3:17).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "John 5:22",
+                "link": "https://www.biblegateway.com/passage/?search=John+5%3A22&version=ESV",
+                "tas_summary": "Son judges all",
+                "witnesses": [
+                  {
+                    "verse": "Acts 17:31",
+                    "summary": "Judge the world",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+17%3A31&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 25:31",
+                    "summary": "Sit on throne",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+25%3A31&version=ESV"
+                  }
+                ],
+                "context": "Jesus asserts His authority.",
+                "commentary": "Jesus (j) judges (t), witnessed (w) by authority (Acts 17:31).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 6:35",
+                "link": "https://www.biblegateway.com/passage/?search=John+6%3A35&version=ESV",
+                "tas_summary": "Bread of life",
+                "witnesses": [
+                  {
+                    "verse": "John 6:48",
+                    "summary": "I am the bread",
+                    "link": "https://www.biblegateway.com/passage/?search=John+6%3A48&version=ESV"
+                  },
+                  {
+                    "verse": "Rev 7:16",
+                    "summary": "No more hunger",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+7%3A16&version=ESV"
+                  }
+                ],
+                "context": "Jesus feeds the 5,000.",
+                "commentary": "Jesus (j) satisfies (t), witnessed (w) by life (Rev 7:16).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 8:12",
+                "link": "https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV",
+                "tas_summary": "Light of world",
+                "witnesses": [
+                  {
+                    "verse": "John 1:5",
+                    "summary": "Light shines",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "1 John 1:5",
+                    "summary": "God is light",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+1%3A5&version=ESV"
+                  }
+                ],
+                "context": "Jesus teaches at the temple.",
+                "commentary": "Jesus (j) illuminates (t), witnessed (w) by light (1 John 1:5).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 8:58",
+                "link": "https://www.biblegateway.com/passage/?search=John+8%3A58&version=ESV",
+                "tas_summary": "Before Abraham, I am",
+                "witnesses": [
+                  {
+                    "verse": "Ex 3:14",
+                    "summary": "I AM WHO I AM",
+                    "link": "https://www.biblegateway.com/passage/?search=Ex+3%3A14&version=ESV"
+                  },
+                  {
+                    "verse": "John 10:30",
+                    "summary": "I and Father one",
+                    "link": "https://www.biblegateway.com/passage/?search=John+10%3A30&version=ESV"
+                  }
+                ],
+                "context": "Jesus debates with the Jews.",
+                "commentary": "Jesus (j) is (t), witnessed (w) by eternity (Ex 3:14).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 10:11",
+                "link": "https://www.biblegateway.com/passage/?search=John+10%3A11&version=ESV",
+                "tas_summary": "Good Shepherd dies",
+                "witnesses": [
+                  {
+                    "verse": "Ps 23:1",
+                    "summary": "Lord is my shepherd",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+23%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 2:25",
+                    "summary": "Shepherd of souls",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+2%3A25&version=ESV"
+                  }
+                ],
+                "context": "Jesus describes His role.",
+                "commentary": "Jesus (j) protects (t), witnessed (w) by care (Ps 23:1).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 10:30",
+                "link": "https://www.biblegateway.com/passage/?search=John+10%3A30&version=ESV",
+                "tas_summary": "I and Father one",
+                "witnesses": [
+                  {
+                    "verse": "John 17:21",
+                    "summary": "We are one",
+                    "link": "https://www.biblegateway.com/passage/?search=John+17%3A21&version=ESV"
+                  },
+                  {
+                    "verse": "Col 2:9",
+                    "summary": "Fullness of deity",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+2%3A9&version=ESV"
+                  }
+                ],
+                "context": "Jesus claims unity with God.",
+                "commentary": "Jesus (j) unites (t), witnessed (w) by deity (Col 2:9).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 14:6",
+                "link": "https://www.biblegateway.com/passage/?search=John+14%3A6&version=ESV",
+                "tas_summary": "Way, truth, life",
+                "witnesses": [
+                  {
+                    "verse": "Acts 4:12",
+                    "summary": "No other name",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+4%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Heb 10:20",
+                    "summary": "New and living way",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+10%3A20&version=ESV"
+                  }
+                ],
+                "context": "Jesus comforts His disciples.",
+                "commentary": "Jesus (j) guides (t), witnessed (w) by exclusivity (Acts 4:12).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "John 14:16",
+                "link": "https://www.biblegateway.com/passage/?search=John+14%3A16&version=ESV",
+                "tas_summary": "Helper forever given",
+                "witnesses": [
+                  {
+                    "verse": "John 15:26",
+                    "summary": "Spirit of truth",
+                    "link": "https://www.biblegateway.com/passage/?search=John+15%3A26&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 2:4",
+                    "summary": "Filled with Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+2%3A4&version=ESV"
+                  }
+                ],
+                "context": "Jesus promises the Spirit.",
+                "commentary": "Spirit (t) indwells, witnessed (w) by presence (Acts 2:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "John 15:26",
+                "link": "https://www.biblegateway.com/passage/?search=John+15%3A26&version=ESV",
+                "tas_summary": "Spirit testifies Me",
+                "witnesses": [
+                  {
+                    "verse": "John 16:13",
+                    "summary": "Guide to truth",
+                    "link": "https://www.biblegateway.com/passage/?search=John+16%3A13&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 5:32",
+                    "summary": "Witnesses of these things",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+5%3A32&version=ESV"
+                  }
+                ],
+                "context": "Jesus teaches on the Spirit.",
+                "commentary": "Spirit (t) reveals, witnessed (w) by truth (John 16:13).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "John 17:3",
+                "link": "https://www.biblegateway.com/passage/?search=John+17%3A3&version=ESV",
+                "tas_summary": "Eternal life knowing",
+                "witnesses": [
+                  {
+                    "verse": "1 John 5:20",
+                    "summary": "True God",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+5%3A20&version=ESV"
+                  },
+                  {
+                    "verse": "Jer 9:24",
+                    "summary": "Know Me",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+9%3A24&version=ESV"
+                  }
+                ],
+                "context": "Jesus prays for His disciples.",
+                "commentary": "Jesus (j) offers (t), witnessed (w) by knowledge (1 John 5:20).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Acts 1:8",
+                "link": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=ESV",
+                "tas_summary": "Power to witness",
+                "witnesses": [
+                  {
+                    "verse": "Luke 24:49",
+                    "summary": "Clothed with power",
+                    "link": "https://www.biblegateway.com/passage/?search=Luke+24%3A49&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 2:4",
+                    "summary": "Filled with Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+2%3A4&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ final words before ascension.",
+                "commentary": "Spirit (t) empowers, witnessed (w) by mission (Acts 2:4).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Acts 2:4",
+                "link": "https://www.biblegateway.com/passage/?search=Acts+2%3A4&version=ESV",
+                "tas_summary": "Spirit filled all",
+                "witnesses": [
+                  {
+                    "verse": "Joel 2:28",
+                    "summary": "Pour out Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Joel+2%3A28&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 4:31",
+                    "summary": "Filled and spoke",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+4%3A31&version=ESV"
+                  }
+                ],
+                "context": "Pentecost and the Spirit’s coming.",
+                "commentary": "Spirit (t) empowers, witnessed (w) by tongues (Joel 2:28).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Acts 4:12",
+                "link": "https://www.biblegateway.com/passage/?search=Acts+4%3A12&version=ESV",
+                "tas_summary": "Salvation in none",
+                "witnesses": [
+                  {
+                    "verse": "John 14:6",
+                    "summary": "Only way",
+                    "link": "https://www.biblegateway.com/passage/?search=John+14%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "1 Tim 2:5",
+                    "summary": "One mediator",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Tim+2%3A5&version=ESV"
+                  }
+                ],
+                "context": "Peter’s defense before the council.",
+                "commentary": "Jesus (j) saves (t), witnessed (w) by exclusivity (John 14:6).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Acts 10:34-35",
+                "link": "https://www.biblegateway.com/passage/?search=Acts+10%3A34-35&version=ESV",
+                "tas_summary": "God shows no partiality",
+                "witnesses": [
+                  {
+                    "verse": "Rom 2:11",
+                    "summary": "No partiality",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+2%3A11&version=ESV"
+                  },
+                  {
+                    "verse": "Gal 3:28",
+                    "summary": "All one in Christ",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+3%3A28&version=ESV"
+                  }
+                ],
+                "context": "Peter preaches to Cornelius.",
+                "commentary": "His Word (t) unites, witnessed (w) by equality (Gal 3:28).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Rom 1:20",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+1%3A20&version=ESV",
+                "tas_summary": "Creation reveals God",
+                "witnesses": [
+                  {
+                    "verse": "Ps 19:1",
+                    "summary": "Heavens declare",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+19%3A1&version=ESV"
+                  },
+                  {
+                    "verse": "Acts 14:17",
+                    "summary": "Witness to Himself",
+                    "link": "https://www.biblegateway.com/passage/?search=Acts+14%3A17&version=ESV"
+                  }
+                ],
+                "context": "Paul explains God’s wrath.",
+                "commentary": "His Word (t) reveals, witnessed (w) by creation (Ps 19:1).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Rom 3:23",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+3%3A23&version=ESV",
+                "tas_summary": "All have sinned",
+                "witnesses": [
+                  {
+                    "verse": "1 John 1:8",
+                    "summary": "If we say no sin",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+1%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 53:6",
+                    "summary": "All like sheep",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A6&version=ESV"
+                  }
+                ],
+                "context": "Paul on human depravity.",
+                "commentary": "His Word (t) convicts, witnessed (w) by sin (Isa 53:6).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Rom 5:8",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+5%3A8&version=ESV",
+                "tas_summary": "Died for sinners",
+                "witnesses": [
+                  {
+                    "verse": "John 3:16",
+                    "summary": "Gave His Son",
+                    "link": "https://www.biblegateway.com/passage/?search=John+3%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "1 Pet 3:18",
+                    "summary": "Suffered for sins",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Pet+3%3A18&version=ESV"
+                  }
+                ],
+                "context": "Paul on justification.",
+                "commentary": "Jesus (j) loves (l), witnessed (w) by cross (John 3:16).",
+                "eval": "j+t+l+w"
+              },
+              {
+                "verse": "Rom 6:23",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+6%3A23&version=ESV",
+                "tas_summary": "Gift of life",
+                "witnesses": [
+                  {
+                    "verse": "Eph 2:8",
+                    "summary": "Saved by grace",
+                    "link": "https://www.biblegateway.com/passage/?search=Eph+2%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "John 10:28",
+                    "summary": "Eternal life",
+                    "link": "https://www.biblegateway.com/passage/?search=John+10%3A28&version=ESV"
+                  }
+                ],
+                "context": "Paul on sin and grace.",
+                "commentary": "Jesus (j) gives (t), witnessed (w) by gift (Eph 2:8).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "Rom 8:1",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A1&version=ESV",
+                "tas_summary": "No condemnation now",
+                "witnesses": [
+                  {
+                    "verse": "John 3:18",
+                    "summary": "Not condemned",
+                    "link": "https://www.biblegateway.com/passage/?search=John+3%3A18&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 5:1",
+                    "summary": "Peace with God",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+5%3A1&version=ESV"
+                  }
+                ],
+                "context": "Paul on life in the Spirit.",
+                "commentary": "Jesus (j) frees (t), witnessed (w) by grace (John 3:18).",
+                "eval": "j+t+w+g"
+              },
+              {
+                "verse": "Rom 8:28",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A28&version=ESV",
+                "tas_summary": "All things good",
+                "witnesses": [
+                  {
+                    "verse": "Gen 50:20",
+                    "summary": "Meant for good",
+                    "link": "https://www.biblegateway.com/passage/?search=Gen+50%3A20&version=ESV"
+                  },
+                  {
+                    "verse": "James 1:2-3",
+                    "summary": "Trials produce",
+                    "link": "https://www.biblegateway.com/passage/?search=James+1%3A2-3&version=ESV"
+                  }
+                ],
+                "context": "Paul on God’s sovereignty.",
+                "commentary": "His Word (t) assures, witnessed (w) by providence (Gen 50:20).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Rom 12:2",
+                "link": "https://www.biblegateway.com/passage/?search=Rom+12%3A2&version=ESV",
+                "tas_summary": "Transformed by renewal",
+                "witnesses": [
+                  {
+                    "verse": "Eph 4:23",
+                    "summary": "Renewed in mind",
+                    "link": "https://www.biblegateway.com/passage/?search=Eph+4%3A23&version=ESV"
+                  },
+                  {
+                    "verse": "2 Cor 3:18",
+                    "summary": "Transformed into image",
+                    "link": "https://www.biblegateway.com/passage/?search=2+Cor+3%3A18&version=ESV"
+                  }
+                ],
+                "context": "Paul on Christian living.",
+                "commentary": "His Word (t) changes, witnessed (w) by renewal (Eph 4:23).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "1 Cor 1:18",
+                "link": "https://www.biblegateway.com/passage/?search=1+Cor+1%3A18&version=ESV",
+                "tas_summary": "Cross is power",
+                "witnesses": [
+                  {
+                    "verse": "1 Cor 1:24",
+                    "summary": "Power of God",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Cor+1%3A24&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 1:16",
+                    "summary": "Power for salvation",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+1%3A16&version=ESV"
+                  }
+                ],
+                "context": "Paul on wisdom and foolishness.",
+                "commentary": "Jesus (j) saves (t), witnessed (w) by cross (Rom 1:16).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "1 Cor 15:22",
+                "link": "https://www.biblegateway.com/passage/?search=1+Cor+15%3A22&version=ESV",
+                "tas_summary": "In Christ all live",
+                "witnesses": [
+                  {
+                    "verse": "Rom 5:18",
+                    "summary": "Life through one",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+5%3A18&version=ESV"
+                  },
+                  {
+                    "verse": "1 Cor 15:45",
+                    "summary": "Life-giving spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=1+Cor+15%3A45&version=ESV"
+                  }
+                ],
+                "context": "Paul on resurrection.",
+                "commentary": "Jesus (j) resurrects (t), witnessed (w) by life (Rom 5:18).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "2 Cor 5:17",
+                "link": "https://www.biblegateway.com/passage/?search=2+Cor+5%3A17&version=ESV",
+                "tas_summary": "New creation in Christ",
+                "witnesses": [
+                  {
+                    "verse": "Gal 6:15",
+                    "summary": "New creation",
+                    "link": "https://www.biblegateway.com/passage/?search=Gal+6%3A15&version=ESV"
+                  },
+                  {
+                    "verse": "Eph 2:10",
+                    "summary": "Created for good works",
+                    "link": "https://www.biblegateway.com/passage/?search=Eph+2%3A10&version=ESV"
+                  }
+                ],
+                "context": "Paul on reconciliation.",
+                "commentary": "Jesus (j) transforms (t), witnessed (w) by newness (Eph 2:10).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Gal 2:20",
+                "link": "https://www.biblegateway.com/passage/?search=Gal+2%3A20&version=ESV",
+                "tas_summary": "Christ lives in me",
+                "witnesses": [
+                  {
+                    "verse": "Rom 6:6",
+                    "summary": "Old self crucified",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+6%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "Col 3:3",
+                    "summary": "Hidden with Christ",
+                    "link": "https://www.biblegateway.com/passage/?search=Col+3%3A3&version=ESV"
+                  }
+                ],
+                "context": "Paul on justification by faith.",
+                "commentary": "Jesus (j) indwells (t), witnessed (w) by life (Col 3:3).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Eph 2:8-9",
+                "link": "https://www.biblegateway.com/passage/?search=Eph+2%3A8-9&version=ESV",
+                "tas_summary": "Saved by grace",
+                "witnesses": [
+                  {
+                    "verse": "Titus 3:5",
+                    "summary": "Not by works",
+                    "link": "https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 3:24",
+                    "summary": "Justified by grace",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+3%3A24&version=ESV"
+                  }
+                ],
+                "context": "Paul on salvation.",
+                "commentary": "His Word (t) saves, witnessed (w) by grace (Titus 3:5).",
+                "eval": "t+w+g"
+              },
+              {
+                "verse": "Phil 2:7",
+                "link": "https://www.biblegateway.com/passage/?search=Phil+2%3A7&version=ESV",
+                "tas_summary": "Form of servant",
+                "witnesses": [
+                  {
+                    "verse": "Isa 53:2",
+                    "summary": "No beauty",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+53%3A2&version=ESV"
+                  },
+                  {
+                    "verse": "Matt 20:28",
+                    "summary": "Came to serve",
+                    "link": "https://www.biblegateway.com/passage/?search=Matt+20%3A28&version=ESV"
+                  }
+                ],
+                "context": "Paul on Christ’s humility.",
+                "commentary": "Jesus (j) humbles (t), witnessed (w) by service (Matt 20:28).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Col 1:16",
+                "link": "https://www.biblegateway.com/passage/?search=Col+1%3A16&version=ESV",
+                "tas_summary": "All created by Him",
+                "witnesses": [
+                  {
+                    "verse": "John 1:3",
+                    "summary": "Through Him all",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A3&version=ESV"
+                  },
+                  {
+                    "verse": "Heb 1:2",
+                    "summary": "Through whom worlds",
+                    "link": "https://www.biblegateway.com/passage/?search=Heb+1%3A2&version=ESV"
+                  }
+                ],
+                "context": "Paul on Christ’s supremacy.",
+                "commentary": "Jesus (j) creates (t), witnessed (w) by all (John 1:3).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Heb 1:3",
+                "link": "https://www.biblegateway.com/passage/?search=Heb+1%3A3&version=ESV",
+                "tas_summary": "Radiance of glory",
+                "witnesses": [
+                  {
+                    "verse": "John 1:14",
+                    "summary": "Full of grace",
+                    "link": "https://www.biblegateway.com/passage/?search=John+1%3A14&version=ESV"
+                  },
+                  {
+                    "verse": "2 Cor 4:6",
+                    "summary": "Light of knowledge",
+                    "link": "https://www.biblegateway.com/passage/?search=2+Cor+4%3A6&version=ESV"
+                  }
+                ],
+                "context": "Author on Christ’s superiority.",
+                "commentary": "Jesus (j) reflects (t), witnessed (w) by glory (2 Cor 4:6).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Heb 4:12",
+                "link": "https://www.biblegateway.com/passage/?search=Heb+4%3A12&version=ESV",
+                "tas_summary": "Word pierces soul",
+                "witnesses": [
+                  {
+                    "verse": "Jer 23:29",
+                    "summary": "Like fire",
+                    "link": "https://www.biblegateway.com/passage/?search=Jer+23%3A29&version=ESV"
+                  },
+                  {
+                    "verse": "Eph 6:17",
+                    "summary": "Sword of Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=Eph+6%3A17&version=ESV"
+                  }
+                ],
+                "context": "Exhortation to enter rest.",
+                "commentary": "His Word (t) discerns, witnessed (w) by power (Eph 6:17).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "Heb 13:8",
+                "link": "https://www.biblegateway.com/passage/?search=Heb+13%3A8&version=ESV",
+                "tas_summary": "Same forever",
+                "witnesses": [
+                  {
+                    "verse": "Mal 3:6",
+                    "summary": "I do not change",
+                    "link": "https://www.biblegateway.com/passage/?search=Mal+3%3A6&version=ESV"
+                  },
+                  {
+                    "verse": "James 1:17",
+                    "summary": "No variation",
+                    "link": "https://www.biblegateway.com/passage/?search=James+1%3A17&version=ESV"
+                  }
+                ],
+                "context": "Closing exhortations.",
+                "commentary": "Jesus (j) endures (t), witnessed (w) by constancy (Mal 3:6).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "James 1:17",
+                "link": "https://www.biblegateway.com/passage/?search=James+1%3A17&version=ESV",
+                "tas_summary": "Every good gift",
+                "witnesses": [
+                  {
+                    "verse": "Ps 84:11",
+                    "summary": "No good withheld",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+84%3A11&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 8:32",
+                    "summary": "Give us all",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+8%3A32&version=ESV"
+                  }
+                ],
+                "context": "James on trials and temptations.",
+                "commentary": "His Word (t) provides, witnessed (w) by gifts (Rom 8:32).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "1 Pet 1:23",
+                "link": "https://www.biblegateway.com/passage/?search=1+Pet+1%3A23&version=ESV",
+                "tas_summary": "Born again imperishable",
+                "witnesses": [
+                  {
+                    "verse": "John 3:5",
+                    "summary": "Born of Spirit",
+                    "link": "https://www.biblegateway.com/passage/?search=John+3%3A5&version=ESV"
+                  },
+                  {
+                    "verse": "Titus 3:5",
+                    "summary": "Washing of regeneration",
+                    "link": "https://www.biblegateway.com/passage/?search=Titus+3%3A5&version=ESV"
+                  }
+                ],
+                "context": "Peter on living hope.",
+                "commentary": "His Word (t) regenerates, witnessed (w) by life (John 3:5).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "1 John 1:5",
+                "link": "https://www.biblegateway.com/passage/?search=1+John+1%3A5&version=ESV",
+                "tas_summary": "God is light",
+                "witnesses": [
+                  {
+                    "verse": "John 8:12",
+                    "summary": "Light of the world",
+                    "link": "https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV"
+                  },
+                  {
+                    "verse": "Ps 27:1",
+                    "summary": "Lord is my light",
+                    "link": "https://www.biblegateway.com/passage/?search=Ps+27%3A1&version=ESV"
+                  }
+                ],
+                "context": "John on fellowship with God.",
+                "commentary": "His Word (t) illuminates, witnessed (w) by light (Ps 27:1).",
+                "eval": "t+w"
+              },
+              {
+                "verse": "1 John 4:8",
+                "link": "https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=ESV",
+                "tas_summary": "God is love",
+                "witnesses": [
+                  {
+                    "verse": "1 John 4:16",
+                    "summary": "God is love",
+                    "link": "https://www.biblegateway.com/passage/?search=1+John+4%3A16&version=ESV"
+                  },
+                  {
+                    "verse": "Rom 5:8",
+                    "summary": "Demonstrated love",
+                    "link": "https://www.biblegateway.com/passage/?search=Rom+5%3A8&version=ESV"
+                  }
+                ],
+                "context": "John on love’s source.",
+                "commentary": "His Word (t) loves (l), witnessed (w) by love (Rom 5:8).",
+                "eval": "t+l+w"
+              },
+              {
+                "verse": "Rev 1:8",
+                "link": "https://www.biblegateway.com/passage/?search=Rev+1%3A8&version=ESV",
+                "tas_summary": "Alpha and Omega",
+                "witnesses": [
+                  {
+                    "verse": "Rev 22:13",
+                    "summary": "First and last",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+22%3A13&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 44:6",
+                    "summary": "First and last",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+44%3A6&version=ESV"
+                  }
+                ],
+                "context": "John’s vision of Christ.",
+                "commentary": "Jesus (j) is (t), witnessed (w) by eternity (Isa 44:6).",
+                "eval": "j+t+w"
+              },
+              {
+                "verse": "Rev 22:13",
+                "link": "https://www.biblegateway.com/passage/?search=Rev+22%3A13&version=ESV",
+                "tas_summary": "Beginning and end",
+                "witnesses": [
+                  {
+                    "verse": "Rev 1:8",
+                    "summary": "Alpha and Omega",
+                    "link": "https://www.biblegateway.com/passage/?search=Rev+1%3A8&version=ESV"
+                  },
+                  {
+                    "verse": "Isa 41:4",
+                    "summary": "First and with last",
+                    "link": "https://www.biblegateway.com/passage/?search=Isa+41%3A4&version=ESV"
+                  }
+                ],
+                "context": "Jesus’ final declaration.",
+                "commentary": "Jesus (j) completes (t), witnessed (w) by eternity (Isa 41:4).",
+                "eval": "j+t+w"
               }
             ]
           }
