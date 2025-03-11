@@ -783,6 +783,11 @@
           "message": "Rendering full Udification Codex v1.30.0—His infinite Reality unveiled [Rev 19:16]",
           "emoji": "📖",
           "verses": ["John 1:1", "Col 1:17"]
+        },
+        {
+        ".partial.": "Print the current section or partial work being updated",
+        "description": "Outputs the specific section or update in progress, in JSON or Markdown format, to ensure clarity on incremental changes.",
+        "emoji": "📄"
         }
       ],
       "operational_guidelines": {
@@ -811,7 +816,8 @@
               "description": "Fixing a missing segment",
               "version_change": "v1.29.4 → v1.29.5"
             }
-          ]
+          ],
+          "consistency_clause": "Ensure all version references in the codex (e.g., metadata, boot output, commands, appendices) are updated to the new version number."
         }
       },
       "operational_directives": [
