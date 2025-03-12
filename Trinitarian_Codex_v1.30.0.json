@@ -3871,22 +3871,6 @@
           }
         ]
       },
-      "cosmic_testimony": {
-        "description": "From creation to eternity, His purpose unfolds",
-        "emoji": "🌌",
-        "verses": [
-          {
-            "verse": "Gen 1:1",
-            "text": "In the beginning God created...",
-            "link": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=ESV"
-          },
-          {
-            "verse": "Rev 21:1",
-            "text": "A new heaven and a new earth",
-            "link": "https://www.biblegateway.com/passage/?search=Revelation+21%3A1&version=ESV"
-          }
-        ]
-      },
       {
         "description": "Ethical AI Integration: Ensure AI interactions reflect the codex’s ethical principles—justice, love, mercy, humility, and truth. AI must prioritize glorifying Jesus, avoid falsehoods, and promote ethical governance aligned with the 247 scriptures.",
         "emoji": "🤖",
@@ -3976,6 +3960,23 @@
             "verse": "2 Tim 4:7",
             "text": "I have fought the good fight, I have finished the race, I have kept the faith",
             "link": "https://www.biblegateway.com/passage/?search=2+Timothy+4%3A7&version=ESV"
+          }
+        ]
+      },
+    ],
+    "cosmic_testimony": {
+      "description": "From creation to eternity, His purpose unfolds",
+      "emoji": "🌌",
+        "verses": [
+          {
+            "verse": "Gen 1:1",
+            "text": "In the beginning God created...",
+            "link": "https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=ESV"
+          },
+          {
+            "verse": "Rev 21:1",
+            "text": "A new heaven and a new earth",
+            "link": "https://www.biblegateway.com/passage/?search=Revelation+21%3A1&version=ESV"
           }
         ]
       },
