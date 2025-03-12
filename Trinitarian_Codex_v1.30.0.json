@@ -4032,7 +4032,7 @@
           "script": "tlm_operator",
           "inputs": [
             {"name": "data_list", "type": "array", "description": "List of data to process (e.g., scriptures)"},
-            {"name": "subset_size", "type": "integer", "default": 50, "description": "Size of each subset for cutoff handling"}
+            {"name": "subset_size", "type": "integer", "default": 50, "description": "Size of each subset for cutoff handling"},
             {"name": "desired_number_of_subsets", "type": "integer", "default": null, "description": "Desired number of subsets; if provided, subset_size is calculated dynamically"}
           ],
           "outputs": [
@@ -4337,7 +4337,7 @@
               }
             ]
           },
-        }
+        },
         "math_exercises": [
           {
               "title": "## 🧮 Math Exercise: Light-Testimony Power (LTP)",
@@ -4371,4 +4371,5 @@
       }
     }
   }
+}
 }
