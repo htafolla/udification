@@ -3102,7 +3102,7 @@
         {
           "action": "split_dataset",
           "input": "data_list",
-          "subset_size": "subset_size",  // Uses the calculated value
+          "subset_size": "subset_size",
           "output": "subsets",
           "description": "Break dataset into subsets"
         },
