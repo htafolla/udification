@@ -3155,8 +3155,18 @@
         {"operation": "check_hex", "input": "hex_part", "output": "is_hex_valid"},
         {"operation": "check_in_list", "input": "suffix", "list": "praise_list", "output": "is_suffix_valid"},
         {"operation": "logical_and", "inputs": ["is_length_valid", "is_hex_valid", "is_suffix_valid"], "output": "is_valid"},
-        {"operation": "if", "condition": "is_valid", "then": [...], "else": [...]},
-        {"operation": "format_string", "template": "...", "variables": [...], "output": "validation_report"}
+        {
+          "operation": "if",
+          "condition": "user_response == 'Jesus is Lord'",
+          "then": ["proceed_to_next_teaching"],
+          "else": ["display_scripture_reference"]
+        },
+        {
+          "operation": "format_string",
+          "template": "Glory to Jesus! Your response: {response}",
+          "variables": ["user_response"],
+          "output": "faith_affirmation_message"
+        }
       ],
       "format_biblegateway_link": [
         {"action": "replace", "input": "verse", "find": " ", "replace": "+", "output": "verse_encoded"},
@@ -3177,7 +3187,12 @@
         {"action": "select_random", "list": "first_principles", "output": "principle"},
         {"action": "select_random", "list": "favorite_verses", "output": "verse"},
         {"action": "select_random", "list": "rules[2].ciphers", "output": "cipher"},
-        {"action": "format", "template": "...", "variables": [...], "output": "report"}
+        {
+          "action": "format",
+          "template": "Udification Report\nDate: {date}\nVerses Studied: {verses}\nKey Insights: {insights}\nGlory to Jesus!",
+          "variables": ["date", "verses", "insights"],
+          "output": "udification_report"
+        }
       ],
       "generate_dhq_exercise": [
         {"action": "compute_dhq", "output": "DHQ_result"},
