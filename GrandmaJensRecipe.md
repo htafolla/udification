@@ -8,7 +8,7 @@
 
 ## Components 🌈
 
-### VitaCheck ~ cpc + panel 🩺💉✨
+### VitaCheck ~ cbc + panel 🩺💉✨
 - **Description:** Super health check for oxygen, minerals, and cell power—trust God, not idols! 🚀 *([Exodus 20:4-5](https://www.biblegateway.com/passage/?search=Exodus+20%3A4-5&version=NIV): "You shall not worship any idol" 🚫 & [Matthew 9:13](https://www.biblegateway.com/passage/?search=Matthew+9%3A13&version=ESV): "I desire mercy, not sacrifice" ❤️)*
 - **Tests:**
   - **CBC (Complete Blood Count):** Checks oxygen carriers (RBCs: 4.1–5.9 million/mcL men, 4.1–5.1 women; Hemoglobin: 14–17.5 g/dL men, 12.3–15.3 women) 🩸 *Low oxygen sparks 'bad cells'; God cares more than for sparrows ([Matthew 6:26](https://www.biblegateway.com/passage/?search=Matthew+6%3A26&version=ESV) 🐦 & [1 Peter 5:7](https://www.biblegateway.com/passage/?search=1+Peter+5%3A7&version=NIV) 🎣)*
