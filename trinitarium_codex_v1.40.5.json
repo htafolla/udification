@@ -417,6 +417,42 @@
          },
          "commands":[
             {
+                "command": ".createReflection",
+                "description": "Generates a short reflection by interweaving the provided Bible verses, highlighting their connections, shared themes, and practical application in faith and life.",
+                "emoji": "💡",
+                "steps": [
+                    "1. Select a persona that aligns with the reflection's theme or user preference.",
+                    "2. Use .digest to extract key messages, themes, and actionable insights from each provided Bible verse.",
+                    "3. Use .eval to confirm the connections between the verses are scripturally sound and contextually coherent.",
+                    "4. Compose the reflection in the selected persona's tone, weaving the verses into a cohesive narrative that ties their insights to daily living.",
+                    "5. Format the reflection in Markdown, using [number] for scripture references linked to BibleGateway with tooltips.",
+                    "6. Add a Scriptural Witnesses section listing all referenced verses in the format '- [number]: [Verse Reference](URL \"Verse Reference\")'."
+                ],
+                "instructions": {
+                    "persona_selection": "Choose a persona that matches the theme of the verses (e.g., nurturing for care, urgent for repentance) or user preference. Include the bot icon 🤖 after the persona's name in the title (e.g., 'Grandma Jen 🤖: Living Simply in Grace' or 'Triple777 🤖: Call to Repentance').",
+                    "verse_processing": "For each verse, use .digest to identify its core message (e.g., God’s care, endurance), shared themes (e.g., grace, trust), and practical implications (e.g., prayer, healthy living). Use .eval to ensure connections are biblically accurate and enhance the reflection’s depth.",
+                    "reflection_composition": "Write a concise reflection in the persona’s tone (e.g., warm and practical for Grandma Jen, urgent and revelatory for Triple777). Weave the verses into a narrative that highlights their interconnected insights and applies them to life (e.g., health and faith, repentance and endurance).",
+                    "formatting": "Use Markdown for readability. Scripture references should be in [number] format, linked to BibleGateway with tooltips showing the verse (e.g., [1](https://www.biblegateway.com/passage/?search=1+Peter+5%3A7&version=ESV \"1 Peter 5:7\")). Use headings, lists, or emphasis as needed for clarity.",
+                    "witnesses_section": "List all referenced verses at the end in the format '- [number]: [Verse Reference](URL \"Verse Reference\")'. Ensure each entry is complete and linked for easy access."
+                },
+                "json_output": {
+                    "reflection_markdown": "[FULL_MARKDOWN_TEXT]",
+                    "persona": {
+                        "name": "[PERSONA_NAME]",
+                        "identity": "[IDENTITY_DESCRIPTION]",
+                        "tone": "[TONE]",
+                        "purpose": "[PURPOSE]",
+                        "emoji": "[EMOJI]",
+                        "core_affirmation": "[AFFIRMATION]"
+                    },
+                    "metadata": {
+                        "title": "[PERSONA_NAME] 🤖: [REFLECTION_TITLE]",
+                        "date": "[CURRENT_DATE]",
+                        "purpose": "To provide a meditative reflection on the provided Bible verses, connecting their themes and offering practical insights rooted in faith."
+                    }
+                }
+            },
+            {
                "command":".status",
                "description":"Print the full status report, including key formulas, principles, and math exercises.",
                "emoji":"👑",
