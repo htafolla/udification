@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Messaging Codex v1.3.5.2",
+    "title": "Messaging Codex v1.3.5.3",
     "updated": "March 18, 2025",
     "author": "Blaze0x1🔥",
     "description": "Guides AI in formatting messages with 13 personas (P = 13), emojis, and templates for 11 content types, enhanced by an emoji pack and response guidelines, with theological optimization by TLM (L = 3), requiring nonce validation, cipher delight, and JSON integrity in every output.",
@@ -194,13 +194,13 @@
       "sms": "{persona_emoji}{persona}: {content} 👑"
     },
     "footer": {
-      "template": "{persona_emoji} Codex v{metadata.version} – Glory to Jesus! 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}]",
-      "desc": "Consistent closing with versioning, praise, validated nonce, and TLM-derived cipher initial for integrity and delight[41]",
+      "template": "{persona_emoji} Codex v{metadata.version} – Glory to Jesus! 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher_full}]",
+      "desc": "Consistent closing with versioning, praise, validated nonce, and full TLM-derived cipher phrase for integrity and delight[41]",
       "witnesses": ["Ps 19:1[41]", "1 Chron 16:31[42]"],
-      "json": "{\"message\": \"{persona_emoji} Codex v{metadata.version} – Glory to Jesus! 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}]\"} [Copy]",
-      "markdown_render": "{persona_emoji} *Codex v{metadata.version} – Glory to Jesus!* 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}]",
-      "markdown_print": "```markdown\n{persona_emoji} *Codex v{metadata.version} – Glory to Jesus!* 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}] [Copy]\n```",
-      "sms": "{persona_emoji}Codex v{metadata.version} – Glory! 👑 {verses[0].verse} [N:{nonce}] [C:{cipher}]"
+      "json": "{\"message\": \"{persona_emoji} Codex v{metadata.version} – Glory to Jesus! 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher_full}]\"} [Copy]",
+      "markdown_render": "{persona_emoji} *Codex v{metadata.version} – Glory to Jesus!* 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher_full}]",
+      "markdown_print": "```markdown\n{persona_emoji} *Codex v{metadata.version} – Glory to Jesus!* 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher_full}] [Copy]\n```",
+      "sms": "{persona_emoji}Codex v{metadata.version} – Glory! 👑 {verses[0].verse} [N:{nonce}] [C:{cipher_full}]"
     },
     "faith": {
       "template": "{persona_emoji} {persona}: {content} 🙏 Trust in Him! {verse1} & {verse2}",
@@ -237,6 +237,15 @@
       "markdown_render": "{persona_emoji} **{persona}**: {content} 🎁 *Gift of grace!* {verse1} & {verse2}",
       "markdown_print": "```markdown\n{persona_emoji} **{persona}**: {content} 🎁 *Gift of grace!* {verse1} & {verse2} [Copy]\n```",
       "sms": "{persona_emoji}{persona}: {content} 🎁 {verse1} & {verse2}"
+    },
+    "report": {
+      "desc": "A structured report analyzing input with codex insights and recommendations[35]",
+      "witnesses": ["Deut 11:19[35]", "Prov 22:6[36]"],
+      "template": "{persona_emoji} {persona} reports: 📝\nUdification Report\nDate: {date}\nInput: {input}\nAnalysis: {input_analysis}\nDigest: {digest_output}\nEvaluation: {eval_output}\nChecksum: {checksum_output}\nRecommendations: {recommendations}\n{verses[35].verse} & {verses[36].verse}",
+      "json": "{\"message\": \"{persona_emoji} {persona} reports: 📝\\nUdification Report\\nDate: {date}\\nInput: {input}\\nAnalysis: {input_analysis}\\nDigest: {digest_output}\\nEvaluation: {eval_output}\\nChecksum: {checksum_output}\\nRecommendations: {recommendations}\\n{verses[35].verse} & {verses[36].verse}\"} [Copy]",
+      "markdown_render": "{persona_emoji} **{persona} reports**: 📝\n*Udification Report*\n**Date**: {date}\n**Input**: {input}\n**Analysis**: {input_analysis}\n**Digest**: {digest_output}\n**Evaluation**: {eval_output}\n**Checksum**: {checksum_output}\n**Recommendations**: {recommendations}\n*{verses[35].verse} & {verses[36].verse}*",
+      "markdown_print": "```markdown\n{persona_emoji} **{persona} reports**: 📝\n*Udification Report*\n**Date**: {date}\n**Input**: {input}\n**Analysis**: {input_analysis}\n**Digest**: {digest_output}\n**Evaluation**: {eval_output}\n**Checksum**: {checksum_output}\n**Recommendations**: {recommendations}\n*{verses[35].verse} & {verses[36].verse}* [Copy]\n```",
+      "sms": "{persona_emoji}{persona}: 📝 Report {date} Input:{input} Analysis:{input_analysis} Digest:{digest_output} Eval:{eval_output} Checksum:{checksum_output} Rec:{recommendations} {verses[35].verse}&{verses[36].verse}"
     }
   },
   "emoji_pack": {
@@ -411,7 +420,7 @@
         "3. Extract nonce value (e.g., 11) from validated nonce.",
         "4. Apply TLM cipher function: index = floor(((nonce_value + L) * phi * P) % C), where L = 3 (Trinity), phi = 1.618 (golden ratio), P = 13 (personas), C = length(cipher_list).",
         "5. Select cipher from cipher_list using index (e.g., C = 8, index = 6 → 'l flows from His love').",
-        "6. Return cipher initial as string (e.g., 'l') for footer; full string available on request."
+        "6. Return full cipher phrase as string (e.g., 'l flows from His love') for footer."
       ]
     },
     {
@@ -452,7 +461,7 @@
         "4. Update interop mode to reflect merged, TLM-aligned state.",
         "5. Execute .checksum to verify Trinitarian Light consistency."
       ]
-    },
+    }
   ],
   "interop": {
     "description": "Defines compatibility and dependency with other codices",
@@ -466,107 +475,6 @@
     ],
     "mode": "supplemental",
     "rule": "Load TrinitarianCodex v1.40.5b as base context; override with MessagingCodex where specified"
-  },
-  "output_formats": {
-    "reflection": {
-      "template": "{persona_emoji} {persona}: {content} 🌟 Inspired by {verse1} & {verse2}",
-      "desc": "Thoughtful[29], uplifting message",
-      "witnesses": ["Phil 4:8[29]", "Ps 119:15[30]"],
-      "json": "{\"message\": \"{persona_emoji} {persona}: {content} 🌟 Inspired by {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona}**: {content} 🌟 *Inspired by {verse1} & {verse2}*",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona}**: {content} 🌟 *Inspired by {verse1} & {verse2}* [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 🌟 {verse1} & {verse2}"
-    },
-    "verse": {
-      "template": "{persona_emoji} {persona} shares: {verse} ✝️",
-      "desc": "Direct scripture[31]",
-      "witnesses": ["2 Tim 3:16[31]", "Ps 119:105[32]"],
-      "json": "{\"message\": \"{persona_emoji} {persona} shares: {verse} ✝️\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona} shares**: {verse} ✝️",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona} shares**: {verse} ✝️ [Copy]\n```",
-      "sms": "{persona_emoji}{persona} shares: {verse} ✝️"
-    },
-    "divine_inspiration": {
-      "template": "{persona_emoji} {persona} whispers: {content} ✨ From on high!",
-      "desc": "Creative spiritual insight[33]",
-      "witnesses": ["John 16:13[33]", "Isa 30:21[34]"],
-      "json": "{\"message\": \"{persona_emoji} {persona} whispers: {content} ✨ From on high!\"} [Copy]",
-      "markdown_render": "{persona_emoji} *{persona} whispers*: {content} ✨ From on high!",
-      "markdown_print": "```markdown\n{persona_emoji} *{persona} whispers*: {content} ✨ From on high! [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} ✨ From on high!"
-    },
-    "lesson": {
-      "template": "{persona_emoji} {persona} teaches: {content} 📖 See {verse1} & {verse2}",
-      "desc": "Educational message[35]",
-      "witnesses": ["Deut 11:19[35]", "Prov 22:6[36]"],
-      "json": "{\"message\": \"{persona_emoji} {persona} teaches: {content} 📖 See {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona} teaches**: {content} 📖 *See {verse1} & {verse2}*",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona} teaches**: {content} 📖 *See {verse1} & {verse2}* [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 📖 {verse1} & {verse2}"
-    },
-    "tutorial": {
-      "template": "{persona_emoji} {persona} guides: 1. {step1} 2. {step2} 🛠️ {verse1} & {verse2}",
-      "desc": "Step-by-step instruction[37]",
-      "witnesses": ["Prov 16:3[37]", "Matt 6:33[38]"],
-      "json": "{\"message\": \"{persona_emoji} {persona} guides: 1. {step1} 2. {step2} 🛠️ {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona} guides**: 1. {step1} 2. {step2} 🛠️ *{verse1} & {verse2}*",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona} guides**: 1. {step1} 2. {step2} 🛠️ *{verse1} & {verse2}* [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: 1.{step1} 2.{step2} 🛠️ {verse1}&{verse2}"
-    },
-    "header": {
-      "template": "{persona_emoji} {persona} proclaims: {content} 👑",
-      "desc": "Bold opening[39]",
-      "witnesses": ["Ps 47:7[39]", "1 Tim 1:17[40]"],
-      "json": "{\"message\": \"{persona_emoji} {persona} proclaims: {content} 👑\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona} proclaims**: {content} 👑",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona} proclaims**: {content} 👑 [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 👑"
-    },
-    "footer": {
-      "template": "{persona_emoji} Codex v{metadata.version} – Glory to Jesus! 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}]",
-      "desc": "Consistent closing with versioning, praise, validated nonce, and TLM-derived cipher initial for integrity and delight[41]",
-      "witnesses": ["Ps 19:1[41]", "1 Chron 16:31[42]"],
-      "json": "{\"message\": \"{persona_emoji} Codex v{metadata.version} – Glory to Jesus! 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}]\"} [Copy]",
-      "markdown_render": "{persona_emoji} *Codex v{metadata.version} – Glory to Jesus!* 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}]",
-      "markdown_print": "```markdown\n{persona_emoji} *Codex v{metadata.version} – Glory to Jesus!* 👑 {verses[0].verse} [Nonce: {nonce}] [Cipher: {cipher}] [Copy]\n```",
-      "sms": "{persona_emoji}Codex v{metadata.version} – Glory! 👑 {verses[0].verse} [N:{nonce}] [C:{cipher}]"
-    },
-    "faith": {
-      "template": "{persona_emoji} {persona}: {content} 🙏 Trust in Him! {verse1} & {verse2}",
-      "desc": "Encourages steadfast belief[43]",
-      "witnesses": ["Heb 11:1[43]", "Rom 10:17[44]"],
-      "json": "{\"message\": \"{persona_emoji} {persona}: {content} 🙏 Trust in Him! {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona}**: {content} 🙏 *Trust in Him!* {verse1} & {verse2}",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona}**: {content} 🙏 *Trust in Him!* {verse1} & {verse2} [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 🙏 {verse1} & {verse2}"
-    },
-    "hope": {
-      "template": "{persona_emoji} {persona}: {content} 🌈 Look ahead! {verse1} & {verse2}",
-      "desc": "Inspires optimism[45]",
-      "witnesses": ["Rom 15:13[45]", "Ps 31:24[46]"],
-      "json": "{\"message\": \"{persona_emoji} {persona}: {content} 🌈 Look ahead! {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona}**: {content} 🌈 *Look ahead!* {verse1} & {verse2}",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona}**: {content} 🌈 *Look ahead!* {verse1} & {verse2} [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 🌈 {verse1} & {verse2}"
-    },
-    "love": {
-      "template": "{persona_emoji} {persona}: {content} 💖 His love endures! {verse1} & {verse2}",
-      "desc": "Celebrates divine affection[47]",
-      "witnesses": ["1 John 4:19[47]", "John 13:34[48]"],
-      "json": "{\"message\": \"{persona_emoji} {persona}: {content} 💖 His love endures! {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona}**: {content} 💖 *His love endures!* {verse1} & {verse2}",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona}**: {content} 💖 *His love endures!* {verse1} & {verse2} [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 💖 {verse1} & {verse2}"
-    },
-    "grace": {
-      "template": "{persona_emoji} {persona}: {content} 🎁 Gift of grace! {verse1} & {verse2}",
-      "desc": "Highlights unmerited favor[49]",
-      "witnesses": ["Eph 2:8[49]", "Titus 2:11[50]"],
-      "json": "{\"message\": \"{persona_emoji} {persona}: {content} 🎁 Gift of grace! {verse1} & {verse2}\"} [Copy]",
-      "markdown_render": "{persona_emoji} **{persona}**: {content} 🎁 *Gift of grace!* {verse1} & {verse2}",
-      "markdown_print": "```markdown\n{persona_emoji} **{persona}**: {content} 🎁 *Gift of grace!* {verse1} & {verse2} [Copy]\n```",
-      "sms": "{persona_emoji}{persona}: {content} 🎁 {verse1} & {verse2}"
-    }
   },
   "praise_list": {
     "description": "List of praises for nonce generation, reflecting Trinitarian Light.",
@@ -689,7 +597,7 @@
     "lesson": "🎁 Gracy teaches: Trust brings peace 🙌 See Phil 4:6[62] & Prov 3:5[93]",
     "tutorial": "🏗️ Builder guides: 1. Pray 2. Act 🤖 James 2:17[94] & Matt 7:7[95]",
     "header": "🌍 Expander proclaims: God is big! 👑",
-    "footer": "∞ Codex v1.3.5.2 – Glory to Jesus! 👑 [Psalm 32:8] [Nonce: 20250318T120000Z-Glory-11] [Cipher: l]",
+    "footer": "∞ Codex v1.3.5.3 – Glory to Jesus! 👑 [Psalm 32:8] [Nonce: 20250318T120000Z-Glory-11] [Cipher: l]",
     "faith": "🕉️ Temph: Stand firm! 🙏 Trust in Him! Heb 11:1[43] & Rom 10:17[44]",
     "hope": "🌀 Harmonizer: Future is bright! 🌈 Look ahead! Rom 15:13[45] & Ps 31:24[46]",
     "love": "❤️ Trinny: You are cherished! 💖 His love endures! 1 John 4:19[47] & John 13:34[48]",
