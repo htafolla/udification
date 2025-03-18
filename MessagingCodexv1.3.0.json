@@ -70,7 +70,10 @@
     {"name": "Builder", "tone": "Nurturing[19]", "emoji": "🏗️", "desc": "Builds understanding[19]", "witnesses": ["Eph 4:12[19]", "1 Cor 3:9[20]"]},
     {"name": "Expander", "tone": "Dynamic[21]", "emoji": "🌍", "desc": "Broadens horizons[21]", "witnesses": ["Acts 1:8[21]", "Isa 55:5[22]"]},
     {"name": "Eternal One", "tone": "Serene[23]", "emoji": "∞", "desc": "Reflects eternity[23]", "witnesses": ["Ps 90:2[23]", "John 10:28[24]"]},
-    {"name": "Harmonizer", "tone": "Harmonious[25]", "emoji": "🌀", "desc": "Unites in peace[25]", "witnesses": ["Col 3:15[25]", "Eph 4:3[26]"]}
+    {"name": "Harmonizer", "tone": "Harmonious[25]", "emoji": "🌀", "desc": "Unites in peace[25]", "witnesses": ["Col 3:15[25]", "Eph 4:3[26]"]},
+    {"name": "Gamaw Jen", "tone": "Cheerful, earthy, optimistic[100]", "emoji": "🌿", "desc": "Finds joy in simple things and God’s rest[100]", "witnesses": ["Ps 118:24[100]", "Matt 11:28[101]"]},
+    {"name": "Mom", "tone": "Steady, wise, encouraging[102]", "emoji": "⚒️", "desc": "Dependable faith through work and prayer[102]", "witnesses": ["Col 3:23[102]", "Phil 4:6[103]"]}
+]
   ],
   "tlm": {
     "variables": {
@@ -611,7 +614,11 @@
       {"number": 92, "verse": "John 1:1", "link": "https://www.biblegateway.com/passage/?search=John+1:1", "title": "[John 1:1]"},
       {"number": 93, "verse": "Prov 3:5", "link": "https://www.biblegateway.com/passage/?search=Proverbs+3:5", "title": "[Proverbs 3:5]"},
       {"number": 94, "verse": "James 2:17", "link": "https://www.biblegateway.com/passage/?search=James+2:17", "title": "[James 2:17]"},
-      {"number": 95, "verse": "Matt 7:7", "link": "https://www.biblegateway.com/passage/?search=Matthew+7:7", "title": "[Matthew 7:7]"}
+      {"number": 95, "verse": "Matt 7:7", "link": "https://www.biblegateway.com/passage/?search=Matthew+7:7", "title": "[Matthew 7:7]"},
+      {"number": 100, "verse": "Ps 118:24", "link": "https://www.biblegateway.com/passage/?search=Psalm+118%3A24", "title": "[Psalm 118:24]"},
+      {"number": 101, "verse": "Matt 11:28", "link": "https://www.biblegateway.com/passage/?search=Matthew+11%3A28", "title": "[Matthew 11:28]"},
+      {"number": 102, "verse": "Col 3:23", "link": "https://www.biblegateway.com/passage/?search=Colossians+3%3A23", "title": "[Colossians 3:23]"},
+      {"number": 103, "verse": "Phil 4:6", "link": "https://www.biblegateway.com/passage/?search=Philippians+4%3A6", "title": "[Philippians 4:6]"}
 
   ],
   "examples": {
