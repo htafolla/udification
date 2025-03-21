@@ -1,6 +1,6 @@
 # Trinitarian Model of Cosmic Manifestation Through Divine Transfer (TMCMDT)
 
-**Overview:** This model unveils the cosmos as a manifestation of Yah’s authority transferred to Yeshua, sustained by the Holy Spirit, symbolized as αω λ ∞ ∑⊤ π ☥ ⊛—a proof of God’s design in mathematics where light overcomes darkness ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)). Refined as of March 21, 2025, TMCMDT integrates Trinitarian Light Mathematics (TLM) and *Udification Rev 1.29.6* formulas—LTP, SUF, LEO, DHQ—to reflect the infinite eternality of the Trinity’s work, mapping creation, dominion, and eternity into \( S_L = (L \oplus D_{BH}) + (F_\infty \oplus \phi) + \pi + W + B + T + HS + H + LTP + SUF + LEO + DHQ = \infty \), consistent with *Udification*’s final proof in Codex v1.3.5.5 and TLM’s tabernacle precision.
+**Overview:** This model unveils the cosmos as a manifestation of Yah’s authority transferred to Yeshua, sustained by the Holy Spirit, symbolized as αω λ ∞ ∑⊤ π ☥ ⊛—a proof of God’s design in mathematics where light overcomes darkness ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)). Refined as of March 21, 2025, TMCMDT integrates Trinitarian Light Mathematics (TLM) and *Udification Rev 1.40.5b.10 formulas—LTP, SUF, LEO, DHQ, WSH—plus TLM’s R_f and f(x), reflecting the infinite eternality of the Trinity’s work, mapping creation, dominion, and eternity into \( S_L = (L \oplus D_{BH}) + (F_\infty \oplus \phi) + \pi + W + B + T + HS + H + LTP + SUF + LEO + DHQ + WSH = \infty \), consistent with *Udification*’s proof in Codex v1.3.5.5 and TLM’s tabernacle precision.
 
 - **αω:** Eternal ([Rev. 22:13](https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=ESV))  
 - **λ:** Reason ([John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV), [Mal. 3:6](https://www.biblegateway.com/passage/?search=Malachi+3%3A6&version=ESV))  
@@ -16,10 +16,10 @@
 **The Divine Decree:** Yah’s Word, eternal and reasoned (αω λ), transfers power, glory, and dominion to Yeshua, initiating light’s triumph ([John 1:1-3](https://www.biblegateway.com/passage/?search=John+1%3A1-3&version=ESV)). It’s the foundation of all creation and authority, setting Yeshua’s cosmic role ([Matt. 28:18](https://www.biblegateway.com/passage/?search=Matthew+28%3A18&version=ESV)). Represented as \( F_\infty = \infty \) in the formula, it endures forever ([Isa. 40:8](https://www.biblegateway.com/passage/?search=Isaiah+40%3A8&version=ESV)).
 
 ### Light (L, π ∑⊤ ⊛) - Yeshua, The Embodiment of Dominion
-**The Manifestation of Authority:** Light, ordered and true (π ∑⊤ ⊛), embodies Yah’s transferred dominion, overcoming all darkness, including black holes, as \( L = 3 \) in \( L \oplus D_{BH} = 3 \) ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)). Yeshua, as light, creates and sustains all ([John 8:12](https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV), [Col. 1:16](https://www.biblegateway.com/passage/?search=Colossians+1%3A16&version=ESV)), reflected as \( L \) and enhanced by LTP and LEO in the finite creation terms, rooted in triadic unity (TLM).
+**The Manifestation of Authority:** Light, ordered and true (π ∑⊤ ⊛), embodies Yah’s transferred dominion, overcoming all darkness, including black holes, as \( L = 3 \) in \( L \oplus D_{BH} = 3 \) ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)). Yeshua, as light, creates and sustains all ([John 8:12](https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV), [Col. 1:16](https://www.biblegateway.com/passage/?search=Colossians+1%3A16&version=ESV)), reflected as \( L \) and enhanced by LTP and LEO.
 
 ### Holy Spirit (HS, ∞) - The Sustainer of Divine Unity
-**The Unifying Force:** The Holy Spirit, limitless (∞), ensures Yah’s authority in Yeshua manifests and endures across creation, sustaining light over void ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=ESV)). As \( HS = \infty \), it persists eternally ([Heb. 9:14](https://www.biblegateway.com/passage/?search=Hebrews+9%3A14&version=ESV)), reinforced by SUF and DHQ.
+**The Unifying Force:** The Holy Spirit, limitless (∞), ensures Yah’s authority in Yeshua manifests and endures across creation, sustaining light over void ([Gen. 1:2](https://www.biblegateway.com/passage/?search=Genesis+1%3A2&version=ESV)). As \( HS = \infty \), it persists eternally ([Heb. 9:14](https://www.biblegateway.com/passage/?search=Hebrews+9%3A14&version=ESV)), reinforced by SUF, DHQ, and WSH.
 
 ### Water (W, H₂O, ☥) - The Medium of Manifestation
 **The Environment for Dominion:** Water (W), scientifically H₂O and symbolically life (☥), is the tangible medium of divine dominion, nurturing light’s triumph ([John 3:5](https://www.biblegateway.com/passage/?search=John+3%3A5&version=ESV)). Here, the Holy Spirit and Yeshua’s light sustain existence, reflected as \( W = 2 \) ([Gen. 1:9-10](https://www.biblegateway.com/passage/?search=Genesis+1%3A9-10&version=ESV), [Ps 139:8](https://www.biblegateway.com/passage/?search=Psalm+139%3A8&version=ESV)).
@@ -31,15 +31,33 @@
 **Transfer and Manifestation:** Yah giving all to Yeshua catalyzes light to pierce darkness, creating from nothing through Yeshua’s authority ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)), powered by LTP.
 
 ### Trinitarian Synergy
-The model emphasizes the Trinity’s dynamic: Yah’s Word initiates (\( F_\infty \)) ([John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV)), Yeshua’s light implements triumph over darkness (\( L \), LTP, LEO) ([Col. 1:16](https://www.biblegateway.com/passage/?search=Colossians+1%3A16&version=ESV)), and the Holy Spirit sustains across all depths (\( HS \), SUF, DHQ) ([Ps 139:8](https://www.biblegateway.com/passage/?search=Psalm+139%3A8&version=ESV))—three in one ([John 10:30](https://www.biblegateway.com/passage/?search=John+10%3A30&version=ESV)).
+The model emphasizes the Trinity’s dynamic: Yah’s Word initiates (\( F_\infty \)) ([John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV)), Yeshua’s light implements triumph over darkness (\( L \), LTP, LEO) ([Col. 1:16](https://www.biblegateway.com/passage/?search=Colossians+1%3A16&version=ESV)), and the Holy Spirit sustains across all depths (\( HS \), SUF, DHQ, WSH) ([Ps 139:8](https://www.biblegateway.com/passage/?search=Psalm+139%3A8&version=ESV))—three in one ([John 10:30](https://www.biblegateway.com/passage/?search=John+10%3A30&version=ESV)).
 
 ## Model Dynamics
 
 ### Cycle of Divine Dominion
-The universe is an ongoing manifestation of Yah’s authority transferred to Yeshua, where each moment expresses light overcoming darkness, yielding \( S_L = \infty \) ([Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=ESV), [John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)), ordered by LEO and harmonized by DHQ.
+The universe is an ongoing manifestation of Yah’s authority transferred to Yeshua, where each moment expresses light overcoming darkness, yielding \( S_L = \infty \) ([Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=ESV), [John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)), ordered by LEO and harmonized by DHQ and WSH.
 
 ### Role of Yeshua’s Light
 Yeshua’s light, empowered by Yah’s Word, is creative and authoritative, overcoming all void, including black holes, bringing order, life, and dominion as \( L = 3 \) ([John 8:12](https://www.biblegateway.com/passage/?search=John+8%3A12&version=ESV), [Ps 139:8](https://www.biblegateway.com/passage/?search=Psalm+139%3A8&version=ESV)), transferred via LTP.
+
+### Selection Mechanism (R_f)
+**Formula**: \( R_f = \left\lfloor \left( \text{length}(\text{input}) \mod \phi \right) \times L \right\rfloor \mod L_{\text{total}} \)  
+- **Purpose**: Provides a triadic selection tool (e.g., cosmic decision points), outputting \( [0, L_{\text{total}} - 1] \) ([Matt. 18:20](https://www.biblegateway.com/passage/?search=Matthew+18:20&version=ESV)).  
+- **Example**: "cosmos" (length = 6), \( L_{\text{total}} = 3 \):  
+  - \( 6 \mod 1.666 \approx 1.002 \), \( 1.002 \times 3 \approx 3.006 \), \( \left\lfloor 3.006 \right\rfloor = 3 \), \( 3 \mod 3 = 0 \).
+
+### Progression of Dominion (f(x))
+**Formula**:  
+\[
+f(x) =
+\begin{cases}
+5x + 3 + 3x^3 + 5 \sin\left(\frac{2\pi x}{48}\right) & \text{if } 0 \leq x < 48 \\
+3 \cdot e^{(x - 48)/666} + 5 \cos\left(\frac{2\pi x}{30}\right) + \frac{1}{666 - x} & \text{if } 48 \leq x < 666 \\
+3 \cdot (x - 666) + 5 + 3 \sin\left(\frac{2\pi x}{144000}\right) & \text{if } x \geq 666
+\end{cases}
+\]
+- **Purpose**: Models the temporal arc from creation (0-48, [Num. 35:7](https://www.biblegateway.com/passage/?search=Numbers+35:7&version=ESV)), through transition (48-666, [Rev. 13:18](https://www.biblegateway.com/passage/?search=Revelation+13:18&version=ESV)), to eternity (666+, [Rev. 7:4](https://www.biblegateway.com/passage/?search=Revelation+7:4&version=ESV)).
 
 ## Implications
 
@@ -53,7 +71,7 @@ This lens encourages a science acknowledging divine authority, where knowledge u
 Yeshua’s dominion reinforces human stewardship, preserving creation where light prevails ([Gen. 1:26-28](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-28&version=ESV)), nurtured by W and HS.
 
 ### Theological Depth in Physics
-The cosmos manifests divine authority and love, each discovery revealing Yeshua’s triumph ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=ESV), [John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)), harmonized by DHQ.
+The cosmos manifests divine authority and love, each discovery revealing Yeshua’s triumph ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=ESV), [John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)), harmonized by DHQ and WSH.
 
 ## Scientific Proofs
 
@@ -87,7 +105,7 @@ The cosmos manifests divine authority and love, each discovery revealing Yeshua�
   - TMCMDT’s \( \phi = 1.666… \) diverges, favoring divine precision over secular aesthetics, anchoring the footstool in His Word.
 
 ## Final Formula Integration
-**Primary Formula:** \( S_L = (L \oplus D_{BH}) + (F_\infty \oplus \phi) + \pi + W + B + T + HS + H + LTP + SUF + LEO + DHQ = \infty \)  
+**Primary Formula:** \( S_L = (L \oplus D_{BH}) + (F_\infty \oplus \phi) + \pi + W + B + T + HS + H + LTP + SUF + LEO + DHQ + WSH = \infty \)  
 - **\( \oplus \) Definition**: \( a \oplus b = \max(a, b) \) if either finite; \( \infty \) if both infinite.  
 - \( L \oplus D_{BH} = 3 \oplus 0 = 3 \): Light overcomes darkness ([John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)).  
 - \( F_\infty \oplus \phi = \infty \oplus 1.666 = \infty \): Eternal Word in harmony ([John 1:1](https://www.biblegateway.com/passage/?search=John+1%3A1&version=ESV)).  
@@ -101,12 +119,13 @@ The cosmos manifests divine authority and love, each discovery revealing Yeshua�
 - \( SUF = \infty \): Sustaining Unity Force (finite: \( \frac{45}{D} \)) ([John 10:30](https://www.biblegateway.com/passage/?search=John+10%3A30&version=ESV)).  
 - \( LEO = \infty \): Light Expansion Order (finite: ~141.371) ([Ps. 19:1](https://www.biblegateway.com/passage/?search=Psalm+19%3A1&version=ESV)).  
 - \( DHQ = \infty \): Divine Harmonic Quotient (finite: ~14.323) ([Col. 1:17](https://www.biblegateway.com/passage/?search=Colossians+1%3A17&version=ESV)).  
+- \( WSH = \infty \): Wave of Sanctifying Harmony (finite: 45) ([Rom. 8:2](https://www.biblegateway.com/passage/?search=Romans+8:2&version=ESV)).  
 **Output:** “Light overcomes: Yeshua reigns eternal” ([Rev 19:16](https://www.biblegateway.com/passage/?search=Revelation+19%3A16&version=ESV), [John 1:5](https://www.biblegateway.com/passage/?search=John+1%3A5&version=ESV)).  
 *Note:* TMCMDT aligns with TLM’s tabernacle focus (5/3) and *Udification v1.29.6*, reflecting the Trinity’s eternal work where Yeshua’s light overcomes all darkness as "all in all" ([1 Cor. 15:28](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A28&version=ESV)).
 
 ## Validation Summary
 - **Structure**: Triadic unity (L = 3) across fundamentals, principles, proofs.  
 - **Phi Harmony**: \( \phi = 1.666… \) rooted in tabernacle (Exodus 25:23-30).  
-- **Checksum**: ~700 words, 5 formulas, 12 variables, "700F5V12".  
-- **Nonce**: 1742679001456  
-- **Cipher**: u = updated with Udification’s light
+- **Checksum**: ~750 words, 6 formulas, 13 variables, "750F6V13".  
+- **Nonce**: 1742679001678  
+- **Cipher**: t = tuned to His light
