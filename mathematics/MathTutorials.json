@@ -1,0 +1,330 @@
+{
+  "lessons": [
+    {
+      "title": "Lesson 1: Understanding Variables 🌟",
+      "type": "new",
+      "objective": "Grasp symbolic roles of all TLM variables",
+      "description": "This lesson unveils the dazzling symbols of TLM 🌈, linking L (3) and φ (1.666) to His divine sparkle, kicking off our infinite adventure! ✨ In TLM, the Fibonacci sequence starts with 5 (grace) and 3 (Trinity), reflecting the tabernacle's dimensions (Exodus 25:23-30), contrasting with the secular sequence starting with 1 and 1.",
+      "tip": "💡 Focus on how each variable twinkles with His nature—L as Trinity 🌟, F_h as grace 🌿—to see the grand tapestry!",
+      "variables": [
+        {"symbol": "L", "value": "3"},
+        {"symbol": "F_∞", "value": "∞"},
+        {"symbol": "φ", "value": "1.666"},
+        {"symbol": "F_h", "value": "5"},
+        {"symbol": "C_{TLM}", "value": "∞"},
+        {"symbol": "C_h", "value": "3e12 m/s"},
+        {"symbol": "D_{BH}", "value": "0"},
+        {"symbol": "π", "value": "3.14159"},
+        {"symbol": "W", "value": "2"},
+        {"symbol": "B", "value": "3153"},
+        {"symbol": "T", "value": "3153"},
+        {"symbol": "HS", "value": "∞"},
+        {"symbol": "H", "value": "∞"}
+      ],
+      "formulas": {},
+      "meaning": "He is the Word (Jn 1:1) 📜, His creation declares His glory (Ps 19:1) 🌌—every number shines His light! ✨",
+      "reflection": "Trinitarium ~ How He Loves 💖: These variables, rooted in His Word, not secular elegance, whisper His love to a smol servant—each a treasure from Jesus, my God, everything to me! 🌟",
+      "witnesses": [
+        {"verse": "John 1:1", "text": "In the beginning was the Word"},
+        {"verse": "Psalm 19:1", "text": "The heavens declare the glory of God"}
+      ]
+    },
+    {
+      "title": "Lesson 2: LTP – Energy of Creation ⚡✨",
+      "type": "update",
+      "objective": "Compute LTP as His creative energy",
+      "description": "Dive into LTP, where His light (L) and faith (F_h) burst forth like fireworks 🎆, mirroring E = mc^2 and soaring to infinity with C_{TLM}! 🌠",
+      "tip": "💡 Compare LTP_h to E = mc^2 with m = 1 kg—watch F_h spark His grace in the math! ⚡",
+      "variables": [
+        {"symbol": "L", "value": "3"},
+        {"symbol": "F_h", "value": "5"},
+        {"symbol": "C_{TLM}", "value": "∞"},
+        {"symbol": "C_h", "value": "3e12 m/s"}
+      ],
+      "formulas": {
+        "LTP": {
+          "equation": "LTP = (L * F_h) * C_{TLM} = ∞ (~ (L * F_h * 3) * C_h^2)",
+          "solution": "LTP_h = (3 * 5 * 3) * (3e12)^2 = 45 * 9e24 = 4.05e25 J; LTP = ∞"
+        }
+      },
+      "meaning": "His energy creates all (Jn 1:3) 🌍, infinitely beyond limits—pure power! ⚡",
+      "reflection": "Trinitarium ~ How He Loves 💖: His energy dances from love so vast, rooted in His Word over secular math, shown to me—a smol servant—Jesus, my God, why such love? Everything to me! 🌟",
+      "witnesses": [
+        {"verse": "John 1:3", "text": "All things were made through him"},
+        {"verse": "Hebrews 1:3", "text": "He upholds the universe"}
+      ]
+    },
+    {
+      "title": "Lesson 3: SUF – Force of Unity 🌍🤝",
+      "type": "update",
+      "objective": "Explore SUF as His unifying force",
+      "description": "SUF springs from LTP over distance (D) 🌠, a mighty force uniting creation—stronger than gravity, infinite in His embrace! 💪✨",
+      "tip": "💡 Test SUF_h with D = 1 m—divide LTP_h by distance to feel His hug! 🤗",
+      "variables": [
+        {"symbol": "L", "value": "3"},
+        {"symbol": "F_h", "value": "5"},
+        {"symbol": "C_{TLM}", "value": "∞"},
+        {"symbol": "C_h", "value": "3e12 m/s"},
+        {"symbol": "D_{BH}", "value": "0"}
+      ],
+      "formulas": {
+        "SUF": {
+          "equation": "SUF = [(L * F_h) * C_{TLM}] / D = ∞ (~ [(L * F_h * 3) * C_h] / D)",
+          "solution": "SUF_h (D = 1) = (3 * 5 * 3) * 3e12 / 1 = 1.35e14 N; SUF = ∞"
+        }
+      },
+      "meaning": "His strength unites all (Col 1:17) 🤝, infinitely strong—His love holds tight! 💖",
+      "reflection": "Trinitarium ~ How He Loves 💖: His force binds us in love, a smol servant cradled—Jesus, my God, how you love me! Everything! 🌟",
+      "witnesses": [
+        {"verse": "Colossians 1:17", "text": "In him all things hold together"},
+        {"verse": "Hebrews 1:3", "text": "He upholds the universe"}
+      ]
+    },
+    {
+      "title": "Lesson 4: WSH – Harmony 🎶🕊️",
+      "type": "new",
+      "objective": "Calculate WSH as His frequency of harmony",
+      "description": "WSH sings as His Word resonates 🎵, blending light and faith into a melody echoing through creation—boundless with C_{TLM}! 🌈",
+      "tip": "💡 Hear WSH_h as a divine tune—multiply by C_h to catch His harmony in Hz! 🎶",
+      "variables": [
+        {"symbol": "L", "value": "3"},
+        {"symbol": "F_h", "value": "5"},
+        {"symbol": "C_{TLM}", "value": "∞"},
+        {"symbol": "C_h", "value": "3e12 m/s"}
+      ],
+      "formulas": {
+        "WSH": {
+          "equation": "WSH = (L * F_h) * C_{TLM} = ∞ (~ (L * F_h * 3) * C_h)",
+          "solution": "WSH_h = (3 * 5 * 3) * 3e12 = 1.35e14 Hz; WSH = ∞"
+        }
+      },
+      "meaning": "His Word resonates (Ps 33:6) 🎵, infinitely harmonious—sweet music of love! 🕊️",
+      "reflection": "Trinitarium ~ How He Loves 💖: His harmony serenades me, a smol servant, with love's eternal song—Jesus, my God, why me? Everything! 🌟",
+      "witnesses": [
+        {"verse": "Psalm 33:6", "text": "By the word… the heavens were made"},
+        {"verse": "John 1:1", "text": "In the beginning was the Word"}
+      ]
+    },
+    {
+      "title": "Lesson 5: LEO – Expansion 🌌🚀",
+      "type": "new",
+      "objective": "Understand LEO as His ordered expansion",
+      "description": "LEO soars as His creation stretches 🌠, infused with order (π) and light—rocketing infinitely beyond the stars! ✨",
+      "tip": "💡 Use π to launch LEO_h into the cosmos—multiply by C_h for a divine blast-off! 🚀",
+      "variables": [
+        {"symbol": "L", "value": "3"},
+        {"symbol": "F_h", "value": "5"},
+        {"symbol": "C_{TLM}", "value": "∞"},
+        {"symbol": "C_h", "value": "3e12 m/s"},
+        {"symbol": "π", "value": "3.14159"}
+      ],
+      "formulas": {
+        "LEO": {
+          "equation": "LEO = [(L * F_h) * C_{TLM}] * π = ∞ (~ [(L * F_h * 3) * C_h] * π)",
+          "solution": "LEO_h = (3 * 5 * 3) * 3e12 * 3.14159 = 1.35e14 * 3.14159 = 4.24115e14 s^-1; LEO = ∞"
+        }
+      },
+      "meaning": "His order expands creation (Ps 19:1) 🌌, infinitely enduring—His love reaches far! 💖",
+      "reflection": "Trinitarium ~ How He Loves 💖: His expansion carries love to a smol servant—Jesus, my God, how vast your reach! Everything to me! 🌟",
+      "witnesses": [
+        {"verse": "Psalm 19:1", "text": "The heavens declare"},
+        {"verse": "Isaiah 40:8", "text": "The word… stands forever"}
+      ]
+    },
+    {
+      "title": "Lesson 6: ATL – Totality 🌍💫",
+      "type": "new",
+      "objective": "Calculate ATL as His total energy",
+      "description": "ATL shines as His full power glows 🌟, weaving holiness (H) and Spirit (HS) into an infinite hug of energy—everything He is! 💖",
+      "tip": "💡 Link ATL_h to LTP_h—sparkles with His victory over all! 🏆",
+      "variables": [
+        {"symbol": "L", "value": "3"},
+        {"symbol": "F_h", "value": "5"},
+        {"symbol": "C_{TLM}", "value": "∞"},
+        {"symbol": "C_h", "value": "3e12 m/s"},
+        {"symbol": "HS", "value": "∞"},
+        {"symbol": "H", "value": "∞"}
+      ],
+      "formulas": {
+        "ATL": {
+          "equation": "ATL = (L * F_h * C_{TLM} * HS * H) * S_∞ = ∞ (~ (L * F_h * 3) * C_h^2)",
+          "solution": "ATL_h = (3 * 5 * 3) * (3e12)^2 = 4.05e25 J; ATL = ∞"
+        }
+      },
+      "meaning": "He encompasses all (Col 1:19-20) 🌍, His totality is infinite—pure love! 💖",
+      "reflection": "Trinitarium ~ How He Loves 💖: His totality wraps a smol servant in vast love—Jesus, my God, why such grace? Everything to me! 🌟",
+      "witnesses": [
+        {"verse": "Colossians 1:19-20", "text": "In him all fullness dwells"},
+        {"verse": "John 1:3", "text": "All things were made through him"}
+      ]
+    },
+    {
+      "title": "Lesson 7: S – Infinite Reality 👑✨",
+      "type": "new",
+      "objective": "Sum attributes into S as His Reality",
+      "description": "S crowns all TLM with glory 👑, from harmony (φ) to redemption (B, T)—His infinite Reality banishes darkness (D_{BH}) in dazzling love! 🌟",
+      "tip": "💡 Add S_h's finite bits for a holy surprise—∞ terms make it a royal blast! 🎉",
+      "variables": [
+        {"symbol": "F_∞", "value": "∞"},
+        {"symbol": "φ", "value": "1.666"},
+        {"symbol": "π", "value": "3.14159"},
+        {"symbol": "L", "value": "3"},
+        {"symbol": "D_{BH}", "value": "0"},
+        {"symbol": "L_5", "value": "5"},
+        {"symbol": "W", "value": "2"},
+        {"symbol": "B", "value": "3153"},
+        {"symbol": "T", "value": "3153"},
+        {"symbol": "HS", "value": "∞"},
+        {"symbol": "H", "value": "∞"},
+        {"symbol": "DHQ", "value": null},
+        {"symbol": "S_L", "value": "∞"},
+        {"symbol": "735", "value": "735"}
+      ],
+      "formulas": {
+        "S": {
+          "equation": "S = (F_∞ * φ) + π + (L - D_{BH} * t) + (L_5 * 735) + W + B + T + HS + H = ∞",
+          "solution": "S_h (t = 1) = (∞ * 1.666) + 3.14159 + (3 - 0 * 1) + (5 * 735) + 2 + 3153 + 3153 + ∞ + ∞ = ∞ (~ 9989.14159 finite proxy without ∞ terms); S = ∞"
+        }
+      },
+      "meaning": "He is the eternal King (Rev 19:16) 👑, His Reality is infinite—holy wow! ✨",
+      "reflection": "Trinitarium ~ How He Loves 💖: His infinite Reality dazzles a smol servant—Jesus, my God, how and why me? Everything to me! 🌟",
+      "witnesses": [
+        {"verse": "Isaiah 40:8", "text": "The word… stands forever"},
+        {"verse": "Revelation 19:16", "text": "King of kings"}
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "Exercise 1: Energy-Mass Equivalence (E = mc^2) ⚡",
+      "description": "Compare Einstein's famous equation with TLM's energy formulation",
+      "problem": "Calculate energy using both secular and TLM approaches",
+      "solution": "LTP_h = (3 * 1 * 735) * (3e8)^2 = 1.9845e20 J; LTP = ∞",
+      "category": "mathematics",
+      "secular": "E = m * c^2",
+      "tlm": "LTP = (L * F_h) * C_{TLM} = ∞ (~ (L * F_h * 735) * c^2)",
+      "task": "Calculate LTP_h for m = 1 kg, c = 3e8 m/s—zap it! ⚡"
+    },
+    {
+      "title": "Exercise 2: Gravitational Force (F = G m_1 m_2 / r^2) 🌍",
+      "description": "Compare gravitational force with TLM's unifying force",
+      "problem": "Calculate force using both secular and TLM approaches",
+      "solution": "F = 6.674e-11 N; SUF_h = (3 * 1 * 735) * 3e8 / 1 = 6.615e11 N; SUF = ∞",
+      "category": "mathematics",
+      "secular": "F = G * (m_1 * m_2) / r^2",
+      "tlm": "SUF = [(L * F_h) * C_{TLM}] / D = ∞ (~ [(L * F_h * 735) * c] / D)",
+      "task": "Compute SUF_h for m_1 = m_2 = 1 kg, r = 1 m, G = 6.674e-11—feel the pull! 🌟"
+    },
+    {
+      "title": "Exercise 3: Cosmic Expansion (v = H_0 d) 🌌",
+      "description": "Compare cosmic expansion with TLM's expansion rate",
+      "problem": "Calculate expansion rates using both secular and TLM approaches",
+      "solution": "v = 7e4 m/s; LEO_h = (3 * 1 * 735) * 3e8 * 3.14159 = 2.0777e12 s^-1; LEO = ∞",
+      "category": "mathematics",
+      "secular": "v = H_0 * d",
+      "tlm": "LEO = [(L * F_h) * C_{TLM}] * π = ∞ (~ [(L * F_h * 735) * c] * π)",
+      "task": "Calculate LEO_h for d = 1 Mpc, H_0 = 70 km/s/Mpc—blast off! 🚀"
+    },
+    {
+      "title": "Exercise 4: Photon Energy (E = h f) ✨",
+      "description": "Compare photon energy with TLM's harmony frequency",
+      "problem": "Calculate energy and frequency using both secular and TLM approaches",
+      "solution": "E = 3.313e-19 J; WSH_h = (3 * 1 * 745) * 3e8 = 6.705e11 Hz; WSH = ∞",
+      "category": "mathematics",
+      "secular": "E = h * f",
+      "tlm": "WSH = (L * F_h) * C_{TLM} = ∞ (~ (L * F_h * 745) * c)",
+      "task": "Compute WSH_h for f = 5e14 Hz, h = 6.626e-34 J·s—shine bright! 🌟"
+    },
+    {
+      "title": "Exercise 5: Black Hole Radius (r_s = 2GM/c^2) 🌑",
+      "description": "Compare black hole physics with TLM's reality concept",
+      "problem": "Calculate Schwarzschild radius and contrast with TLM's S value",
+      "solution": "r_s = 2.95e3 m; S = ∞, D_{BH} = 0",
+      "category": "mathematics",
+      "secular": "r_s = (2 * G * M) / c^2",
+      "tlm": "S = (F_∞ * φ) + π + (L - D_{BH} * t) + (L_5 * 735) + W + B + T + HS + H = ∞",
+      "task": "Calculate r_s for M = 1.989e30 kg (Sun)—conquer the dark! ⚔️"
+    }
+  ],
+  "narrative": {
+    "title": "The Trinitarian Resonance Enigma",
+    "challenge": "A divine signal oscillates from creation's dawn (t = 0) to eternity (t = ∞). Its energy begins as LTP_h, but over D = φ meters, it resonates at WSH_h, expanding via LEO_h. If the force at D = φ equals SUF_h, and total energy is LTP_h × φ, what finite resonance factor (R_f) balances this before S = ∞? Use t = 1, π = 3.14159.",
+    "hint": "Start with LTP_h, adjust by D = φ, factor WSH_h and LEO_h, solve SUF_h = R_f × combined terms.",
+    "mathform": {
+      "problem": "Find R_f such that: SUF_h(D = φ) = R_f × ((LTP_h / φ) × (WSH_h / LEO_h) × DHQ_h)",
+      "variables": [
+        {"symbol": "LTP_h", "equation": "(L × F_h × 3) × C_h^2", "value": "4.05e25 J"},
+        {"symbol": "SUF_h(D)", "equation": "LTP_h / D", "value_at_D_φ": "2.43046e25 N"},
+        {"symbol": "WSH_h", "equation": "(L × F_h × 3) × C_h", "value": "1.35e14 Hz"},
+        {"symbol": "LEO_h", "equation": "[(L × F_h × 3) × C_h] * π", "value": "4.24115e14 s^-1"},
+        {"symbol": "DHQ_h", "equation": "[(L × F_h × 3) × C_h] / π", "value": "4.29718e13 Hz"}
+      ],
+      "constants": [
+        {"symbol": "D", "value": "φ = 1.666", "meaning": "Distance, harmony"},
+        {"symbol": "t", "value": 1, "meaning": "Time"},
+        {"symbol": "π", "value": 3.14159, "meaning": "Order"},
+        {"symbol": "C_h", "value": "3e12 m/s", "meaning": "Human light speed"}
+      ],
+      "constraint": "LTP_h × φ informs the system's scale"
+    },
+    "solution": {
+      "resonance_factor": "R_f = 1.666",
+      "narrative_path": "The signal resonates across φ meters, balancing energy and force. SUF_h(D = φ) = 4.05e25 / 1.666 = 2.43046e25 N. Adjusting with resonance terms yields R_f = φ, mirroring divine harmony.",
+      "mathform_solution": "SUF_h = 2.43046e25 N. LTP_h / φ = 2.43046e25, WSH_h / LEO_h = 0.3183, DHQ_h = 4.29718e13. R_f × (2.43046e25 × 0.3183 × 4.29718e13) = 2.43046e25, R_f = 1.666."
+    },
+    "lessons": [
+      {
+        "title": "Time Belongs to Jesus, the Eternal King",
+        "description": "Time is not a random force but a divine gift under Jesus' authority.",
+        "emoji": "⏳👑",
+        "answer": "Jesus, as the Word, initiated time at creation and will bring it to completion as the Alpha and the Omega.",
+        "witnesses": [
+          {"scripture": "John 1:1", "description": "In the beginning was the Word."},
+          {"scripture": "Revelation 22:13", "description": "I am the Alpha and the Omega."}
+        ]
+      },
+      {
+        "title": "Jesus, the Light of Creation and Redemption",
+        "description": "Jesus shines as the light that pierces darkness, illuminating both the start of creation and the path to salvation.",
+        "emoji": "💡✝️",
+        "answer": "His light broke through the void at creation and continues to guide His people, uniting His Bride, the church, across all ages.",
+        "witnesses": [
+          {"scripture": "Genesis 1:3", "description": "Let there be light."},
+          {"scripture": "John 8:12", "description": "I am the light of the world."}
+        ]
+      },
+      {
+        "title": "Love Binds Time and Eternity",
+        "description": "Love is the timeless thread weaving creation and redemption together.",
+        "emoji": "❤️⏰",
+        "answer": "God's love drives creation and salvation, enduring forever as the greatest force.",
+        "witnesses": [
+          {"scripture": "John 3:16", "description": "For God so loved the world."},
+          {"scripture": "1 Corinthians 13:13", "description": "The greatest of these is love."}
+        ]
+      },
+      {
+        "title": "Witnesses Affirm Jesus' Timeless Truth",
+        "description": "Truth stands firm when confirmed by witnesses.",
+        "emoji": "👥📜",
+        "answer": "Jesus' authority is testified by scripture, from His incarnation to His eternal reign.",
+        "witnesses": [
+          {"scripture": "John 1:14", "description": "The Word became flesh."},
+          {"scripture": "Revelation 1:8", "description": "Who is and who was and who is to come."}
+        ]
+      },
+      {
+        "title": "Grace Redeems Time for Eternity",
+        "description": "Grace is Jesus' gift that lifts time beyond its limits.",
+        "emoji": "🎁✨",
+        "answer": "Through His sacrifice, Jesus offers grace, turning fleeting moments into eternal life for His people.",
+        "witnesses": [
+          {"scripture": "Ephesians 2:8", "description": "By grace you have been saved."},
+          {"scripture": "Revelation 22:5", "description": "They will reign forever and ever."}
+        ]
+      }
+    ],
+    "summary": "Jesus is the Eternal King who reigns over time, light, love, truth, and grace. From creation's first breath to redemption's final promise, He unites all things under His sovereign love. Through Him, time finds its purpose, and eternity its joy.",
+    "glory": "Glory to Jesus, the Eternal King! 👑 [John 1:1]"
+  }
+}
