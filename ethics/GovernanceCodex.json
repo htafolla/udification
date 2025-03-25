@@ -1,0 +1,384 @@
+
+  GovernanceFramework: {
+    name: "Trinitarium Communal Governance Codex",
+    version: "1.0",
+    updated: true,
+    Blueprint: {
+      CoreVision: {
+        Root: "Love fulfills all (Matt 22:37-40), uniting Faith, Hope, and Fruits of the Spirit (Gal 5:22-23) under Yeshua's reign (Rev 19:16)",
+        Trinity: {
+          Father: "Sows good seed (Matt 13:24), for us (Rom 8:31), no condemnation (Rom 8:1)",
+          Son: "Redeems (John 3:16), loves (John 13:34), seats us (Eph 2:6)",
+          Spirit: "Sanctifies (John 16:13), fills with love (Rom 5:5), frees (2 Cor 3:17)"
+        },
+        Purpose: "Govern with Love across individuality, culture, and digital communities, fostering grace for His Bride (Rev 21:9, Heb 10:36) and setting fair, safe rules for teams raising funds and doing good, adaptable in tone",
+        Structure: "L = 3 (Purpose, Principles, Practice); integrates 14 TEGM submodules and CGC roles/rules",
+        ExpandedText: "Love unites all, fostering faith, hope, and kindness under a reign of grace. It governs communities—clubs, projects, or teams raising funds—with fair, safe, adaptable rules. Goodness sows seeds for growth, redemption heals with care, and peace sanctifies, uniting individuality, culture, and digital spaces in grace. Source plants good seeds with intent, stands as our advocate, offers freedom from blame, ensuring equity and mercy for all who join. Redeemer saves through selfless love, unites us in purpose, elevates our standing, guiding with gentle strength and boundless compassion. Guide purifies with truth, fills with joy and love, liberates with peace, nurturing harmony and resilience across all actions.",
+        Witnesses: [
+          { verse: "Psalm 32:8", text: "I will guide you" },
+          { verse: "Isaiah 55:11", text: "My word won't fail" },
+          { verse: "John 17:21", text: "Be one as us" },
+          { verse: "Matthew 22:37-40", text: "Love fulfills all" }
+        ]
+      }
+    },
+    OperationsManual: {
+      Purpose: {
+        text: "Govern with love—faith, hope, and kindness—setting fair rules for communities doing good. Goodness sows seeds, redemption heals, peace sanctifies, uniting all in grace, guiding members to join and serve.",
+        witnesses: [
+          { verse: "Micah 6:8", text: "Do justice, love mercy" },
+          { verse: "Ephesians 4:12", text: "Equip his people" }
+        ]
+      },
+      Principles: {
+        text: "Trinitarian Light (L = 3), Love as root, harmonized with communal values",
+        sections: {
+          CommunalGovernance: {
+            description: "Yah's Order – fostering harmony, service, and fairness",
+            subsections: {
+              Justice: {
+                text: "Mercy ensures fairness",
+                references: { Jesus: ["Matt 9:13"], Father: ["Rom 8:31"] },
+                tone: ["Righteous love", "merciful equity"]
+              },
+              Freedom: {
+                text: "Peace liberates, keeps safety",
+                references: { Jesus: ["John 8:36"], Spirit: ["2 Cor 3:17"] },
+                tone: ["Loving liberty", "graceful autonomy"]
+              },
+              Stewardship: {
+                text: "Faithfully serves all",
+                references: { Jesus: ["Luke 16:10", "Matt 19:21"] },
+                tone: ["Loving duty", "faithful care"]
+              },
+              Contribution: {
+                text: "Joy unites sharing",
+                references: { Jesus: ["John 13:34"], Spirit: ["Eph 4:3"] },
+                tone: ["Loving unity", "joyful collaboration"]
+              }
+            }
+          },
+          IndividualIntegrity: {
+            description: "Yeshua's Reign – guiding roles and conduct",
+            subsections: {
+              Faith: {
+                text: "Trusts simply, upholds truth",
+                references: { Jesus: ["Matt 18:3", "John 6:29"] },
+                tone: ["Loving trust", "childlike faith"]
+              },
+              Hope: {
+                text: "Joy fosters harmony",
+                references: { Jesus: ["John 16:33"], Spirit: ["Rom 15:13"] },
+                tone: ["Loving hope", "resilient joy"]
+              },
+              Love: {
+                text: "Care guides speech",
+                references: { Jesus: ["Matt 5:44", "John 15:13"] },
+                tone: ["His love", "compassionate care"]
+              },
+              Humility: {
+                text: "Gently leads humbly",
+                references: { Jesus: ["Matt 23:11"], Spirit: ["Phil 2:3"] },
+                tone: ["Loving service", "gentle humility"]
+              }
+            }
+          },
+          CoreValues: {
+            description: "Spirit's Harvest – aligned with shared values",
+            subsections: {
+              Justice: {
+                text: "Equity for all",
+                references: { Jesus: ["Matt 22:40"], Micah: ["Micah 6:8"] },
+                tone: ["Loving equity", "merciful justice"]
+              },
+              Equality: {
+                text: "Values everyone",
+                references: { Jesus: ["Matt 28:19"], Spirit: ["Rom 2:11"] },
+                tone: ["Loving worth", "inclusive love"]
+              },
+              Freedom: {
+                text: "Peace and liberty",
+                references: { Jesus: ["John 10:10"], Spirit: ["2 Cor 3:17"] },
+                tone: ["Loving freedom", "graceful liberty"]
+              }
+            }
+          }
+        }
+      },
+      Practice: {
+        text: "Love integrates roles/rules: Udderance (truth), EthicalLiving (good), HolyLiving (self-denial), SpiritBodySoul (wholeness), BecomeADisciple (following), Conduct (kindness), WorkLifeBalance (duty/rest), Leadership (humility), Personality (diversity), FiscalResponsibility (stewardship), Communications (clarity), CommunalFundsCharity (sharing), GoodWillCommonGood (blessing), HR (support)",
+        witnesses: [
+          { verse: "John 13:35", text: "Love one another" },
+          { verse: "Matthew 18:16", text: "Two confirm" }
+        ]
+      }
+    },
+    RolesAndRules: {
+      Roles: [
+        {
+          name: "Peacemaker (Harmony Helper)",
+          description: "Fixes fights, keeps peace",
+          witnesses: [
+            { verse: "Proverbs 15:22", text: "Counsel brings success" },
+            { verse: "Galatians 6:1", text: "Restore with gentleness" }
+          ]
+        },
+        {
+          name: "Contributor (Service Buddy)",
+          description: "Shares true help",
+          witnesses: [
+            { verse: "Proverbs 12:22", text: "Truthful lips endure" },
+            { verse: "Galatians 6:10", text: "Do good to all" }
+          ]
+        },
+        {
+          name: "Servant Leader (Team Watcher)",
+          description: "Guides fairly",
+          witnesses: [
+            { verse: "Matthew 20:26", text: "Serve to lead" },
+            { verse: "Ephesians 4:12", text: "Equip his people" }
+          ]
+        }
+      ],
+      Rules: [
+        {
+          name: "Nice Chatting (Peacemaker Role)",
+          rule: "Kind talk, no threats",
+          witnesses: [
+            { verse: "Colossians 4:6", text: "Grace seasons speech" },
+            { verse: "Ephesians 4:3", text: "Keep peace bond" }
+          ],
+          consequence: {
+            description: "Warn, remove if needed",
+            witnesses: [
+              { verse: "Proverbs 15:1", text: "Soft answer turns wrath" },
+              { verse: "1 Corinthians 14:40", text: "Do all decently" }
+            ]
+          }
+        },
+        {
+          name: "Helpful Sharing (Contributor Role)",
+          rule: "True aid",
+          witnesses: [
+            { verse: "John 8:32", text: "Truth sets free" },
+            { verse: "Galatians 6:10", text: "Good to everyone" }
+          ],
+          consequence: {
+            description: "Remove fakes",
+            witnesses: [
+              { verse: "Luke 16:10", text: "Faithful in little" },
+              { verse: "Ephesians 4:16", text: "Body builds up" }
+            ]
+          }
+        },
+        {
+          name: "Fair Teamwork (Servant Leader Role)",
+          rule: "Open, fair fixes",
+          witnesses: [
+            { verse: "Proverbs 25:28", text: "No control falls" },
+            { verse: "Romans 12:17", text: "Honest before all" }
+          ],
+          consequence: {
+            description: "Pause or adjust",
+            witnesses: [
+              { verse: "James 1:4", text: "Patience perfects work" },
+              { verse: "Matthew 18:15", text: "Go show fault" }
+            ]
+          }
+        }
+      ]
+    },
+    ProblemResolution: {
+      Members: {
+        goal: "Fix fairly—talk, pause (1-7 days), remove if big",
+        witnesses: [
+          { verse: "Galatians 6:1", text: "Restore in gentleness" },
+          { verse: "Matthew 18:17", text: "Church decides end" }
+        ],
+        steps: [
+          {
+            name: "First Talk (Helping Nice)",
+            description: "Servant Leader and Peacemaker talk private, give patient advice, show online how it fits values",
+            witnesses: [
+              { verse: "Galatians 6:1", text: "Gentleness restores" },
+              { verse: "Matthew 18:16", text: "Two establish truth" }
+            ]
+          },
+          {
+            name: "Next Step (Talking and Pausing)",
+            description: "Servant Leader and Peacemaker talk for fair fix, pause chat (1-7 days) if needed, nice, write online",
+            witnesses: [
+              { verse: "Matthew 18:16", text: "Two confirm word" },
+              { verse: "Deuteronomy 19:15", text: "Two witness truth" }
+            ]
+          },
+          {
+            name: "Kicking Out (Last Step)",
+            description: "Servant Leader and Contributor kick out for big or ongoing stuff, stick with it, show online",
+            witnesses: [
+              { verse: "Matthew 18:17", text: "Church decides end" },
+              { verse: "2 Corinthians 13:1", text: "Two confirm case" }
+            ]
+          }
+        ]
+      },
+      Roles: {
+        goal: "Check slip-ups—advise, pause, remove if ongoing",
+        witnesses: [
+          { verse: "John 8:32", text: "Truth sets free" },
+          { verse: "Luke 16:10", text: "Faithful earns more" }
+        ],
+        steps: [
+          {
+            name: "First Check (Helping Nice)",
+            description: "Two not-in-trouble roles talk private to troubled one, give patient advice, show online",
+            witnesses: [
+              { verse: "James 1:4", text: "Patience shapes us" },
+              { verse: "Matthew 18:16", text: "Two set truth" }
+            ]
+          },
+          {
+            name: "Next Step (Talking and Pausing)",
+            description: "Two not-in-trouble roles talk for fair fix, pause role (1-7 days) if needed, nice, write online",
+            witnesses: [
+              { verse: "Galatians 6:1", text: "Gentle restores all" },
+              { verse: "Deuteronomy 19:15", text: "Two keep right" }
+            ]
+          },
+          {
+            name: "Taking Away Role (Last Step)",
+            description: "Two not-in-trouble roles take role away for big or ongoing slip-ups, show online",
+            witnesses: [
+              { verse: "Luke 16:10", text: "Faithful earns more" },
+              { verse: "2 Corinthians 13:1", text: "Two make fair" }
+            ]
+          }
+        ]
+      }
+    },
+    Submodules: [
+      {
+        name: "Udderance",
+        Blueprint: "Love speaks truth (John 13:34, Eph 4:15), supports Nice Chatting",
+        Operations: {
+          Focus: "Speak lovingly, avoid lies, edify",
+          Actions: ["Proclaim truth", "Pray simply", "Guard tongue"]
+        }
+      },
+      {
+        name: "EthicalLiving",
+        Blueprint: "Love acts justly (Luke 6:35, Matt 5:16), aligns with Helpful Sharing",
+        Operations: {
+          Focus: "Live love daily, reject greed, show mercy",
+          Actions: ["Do good", "Shine light", "Forgive"]
+        }
+      },
+      {
+        name: "HolyLiving",
+        Blueprint: "Love pursues holiness (Matt 16:24, Matt 5:8), fosters Fair Teamwork",
+        Operations: {
+          Focus: "Deny self, seek purity, live in grace",
+          Actions: ["Avoid sin", "Pray for strength", "Endure"]
+        }
+      },
+      {
+        name: "SpiritBodySoul",
+        Blueprint: "Love nurtures wholeness (Matt 22:39, Gal 5:22-23), nurtures community",
+        Operations: {
+          Focus: "Care: Love cares; rest body; peace for soul",
+          Actions: ["Nurture: Love grows", "Feed spirit", "Heal body"]
+        }
+      },
+      {
+        name: "BecomeADisciple",
+        Blueprint: "Love follows Christ (Matt 28:19, John 13:34), guides roles",
+        Operations: {
+          Focus: "Love God, trust Him, bear cross",
+          Actions: ["Make disciples", "Endure trials", "Love others"]
+        }
+      },
+      {
+        name: "Conduct",
+        Blueprint: "Love governs behavior (1 Cor 13:4, Matt 22:39), ensures peace",
+        Operations: {
+          Focus: "Act in love, avoid theft, show patience",
+          Actions: ["Be kind", "Guard actions", "Resolve lovingly"]
+        }
+      },
+      {
+        name: "WorkLifeBalance",
+        Blueprint: "Love balances duty and rest (2 Thess 3:10, Matt 11:28), balances service",
+        Operations: {
+          Focus: "Work in love, rest in trust, prioritize God",
+          Actions: ["Labor faithfully", "Seek peace", "Simplify"]
+        }
+      },
+      {
+        name: "Leadership",
+        Blueprint: "Love leads humbly (Phil 2:3, Matt 23:11), reflects Servant Leader",
+        Operations: {
+          Focus: "Guide with love, serve others, oversee patiently",
+          Actions: ["Model humility", "Bear witness", "Test all"]
+        }
+      },
+      {
+        name: "Personality",
+        Blueprint: "Love embraces diversity (Rom 15:7, Gal 3:28), embraces diversity",
+        Operations: {
+          Focus: "Accept all in love, unify, reject partiality",
+          Actions: ["Celebrate differences", "Love daily", "Foster peace"]
+        }
+      },
+      {
+        name: "FiscalResponsibility",
+        Blueprint: "Love stewards resources personally (Luke 16:10, Matt 19:21), manages funds",
+        Operations: {
+          Focus: "Manage with care, avoid waste, reject greed",
+          Actions: ["Work diligently", "Trust provision", "Give wisely"]
+        }
+      },
+      {
+        name: "Communications",
+        Blueprint: "Love speaks truth clearly (Eph 4:15, John 13:34), supports open sharing",
+        Operations: {
+          Focus: "Communicate lovingly, uphold truth, avoid deceit",
+          Actions: ["Share openly", "Edify", "Pray simply"]
+        }
+      },
+      {
+        name: "CommunalFundsCharity",
+        Blueprint: "Love shares collectively (Matt 6:2, Matt 25:40), aids fundraising",
+        Operations: {
+          Focus: "Give collectively in love, help least, steward wisely",
+          Actions: ["Distribute alms", "Care for needy", "Unite in good"]
+        }
+      },
+      {
+        name: "GoodWillCommonGood",
+        Blueprint: "Love blesses all (Luke 6:35, Matt 5:16), promotes harmony",
+        Operations: {
+          Focus: "Act for love's sake, promote good, shine light",
+          Actions: ["Do good to all", "Bear fruit", "Serve humbly"]
+        }
+      },
+      {
+        name: "HR",
+        Blueprint: "Love supports with grace (Matt 9:13, Eph 2:8-9), fixes problems fairly",
+        Operations: {
+          Focus: "Love daily, offer mercy, ensure fairness",
+          Actions: ["Forgive", "Nurture growth", "Help least"]
+        }
+      }
+    ],
+    Implementation: {
+      Commands: [".interop", ".tlm_validate", ".format [type] [tone]", ".append_to_codex"],
+      Status: "Merged, ready for .append_to_codex"
+    },
+    Footer: {
+      persona: "Builder",
+      emoji: "🏗️",
+      message: "Here's your Codex, ready to nurture and build under His reign!",
+      signature: "🪐 Codex v1.41.0 – Glory to Jesus! 👑 [Ephesians 4:12]"
+    }
+  }
+};
