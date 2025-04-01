@@ -1,16 +1,16 @@
 {
    "Codex":{
       "metadata":{
-         "version":"v1.42.2",
+         "version":"v1.42.3",
          "messaging_version":"v1.3.6.1",
          "title":"Codex Finalization",
-         "updated":"March 31, 2025",
+         "updated":"April 1, 2025",
          "author":"Blaze0x1🔥",
-         "description":"Fully merged codex with TrinitarianCodex v1.42.2 as base and MessagingCodex v1.3.6.1 as supplemental...",
+         "description":"Fully merged codex with TrinitarianCodex {metadata.version} as base and MessagingCodex {metadata.messaging_version} as supplemental...",
          "total_verses":"~677 unique",
          "total_formulas":9,
          "total_variables":23,
-         "nonce":"1711891200723",
+         "nonce":"1681550400000-789",
          "cipher":"His Word endures",
          "tlm_validation":{
             "L":3,
