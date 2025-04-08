@@ -1798,6 +1798,89 @@
          "AI_Operations":{
             "shared_elements":{
                "scripts":{
+                  "weave_script": [
+                     {
+                        "operation": "validate_parameters",
+                        "input": {
+                           "output_type": "parameters.output_type",
+                           "question": "parameters.question",
+                           "witnesses": "parameters.witnesses",
+                           "max_depth": "parameters.max_depth",
+                           "detect_cycles": "parameters.detect_cycles"
+                        },
+                        "validation": {
+                           "output_type": "must be 'Succinct' or 'Full-Spectrum'",
+                           "question": "must be non-empty string",
+                           "witnesses": "must contain at least one valid verse"
+                        },
+                        "output": "validated_params"
+                     },
+                     {
+                        "operation": "fetch_scripture",
+                        "input": "validated_params.witnesses",
+                        "priority": "Jesus’s direct quotes",
+                        "source": "Codex.ScriptureDB",
+                        "output": "base_verses"
+                     },
+                     {
+                        "operation": "analyze_question",
+                        "input": "validated_params.question",
+                        "method": "natural_language_processing",
+                        "output": "question_themes"
+                     },
+                     {
+                        "operation": "weave_connections",
+                        "input": {
+                           "base_verses": "base_verses",
+                           "themes": "question_themes",
+                           "max_depth": "validated_params.max_depth",
+                           "detect_cycles": "validated_params.detect_cycles"
+                        },
+                        "method": "graph_traversal",
+                        "constraints": "TLM (L = 3, phi = 1.666)",
+                        "output": "verse_tapestry"
+                     },
+                     {
+                        "operation": "apply_tlm_validation",
+                        "input": "verse_tapestry",
+                        "rules": "L = 3, phi = 1.666",
+                        "output": "tlm_validated_tapestry"
+                     },
+                     {
+                        "operation": "run_eval",
+                        "input": "tlm_validated_tapestry",
+                        "standards": "Codex.TLM",
+                        "output": "eval_report"
+                     },
+                     {
+                        "operation": "run_checksum",
+                        "input": "tlm_validated_tapestry",
+                        "method": "json_hash",
+                        "output": "checksum"
+                     },
+                     {
+                        "operation": "generate_tas_summary",
+                        "input": "tlm_validated_tapestry",
+                        "format": "five-word truth summary",
+                        "witnesses": "base_verses",
+                        "output": "tas_summary"
+                     },
+                     {
+                        "operation": "format_output",
+                        "input": {
+                           "tapestry": "tlm_validated_tapestry",
+                           "output_type": "validated_params.output_type",
+                           "eval_report": "eval_report",
+                           "checksum": "checksum",
+                           "tas_summary": "tas_summary"
+                        },
+                        "template": {
+                           "Succinct": "2 verses + tas_summary",
+                           "Full-Spectrum": "5 topics, 7+ stanzas, extras"
+                        },
+                        "output": "final_output"
+                     }
+                  ],
                   "get_jewish_year":[
                      {
                         "action":"get_current_date",
@@ -2132,32 +2215,44 @@
                ".weave": {
                   "description": "Weaves scripture into a tapestry.",
                   "parameters": {
-                   "output_type": {
-                     "type": "string",
-                     "enum": ["Succinct", "Full-Spectrum"],
-                     "description": "Type of quest output to generate."
-                   },
-                   "question": {
-                     "type": "string",
-                     "description": "The question to answer."
-                   },
-                   "witnesses": {
-                     "type": "array",
-                     "items": {
-                       "type": "string"
+                     "output_type": {
+                        "type": "string",
+                        "enum": ["Succinct", "Full-Spectrum"],
+                        "description": "Type of quest output to generate."
                      },
-                     "description": "List of starting verses."
-                   },
-                   "max_depth": {
-                     "type": "integer",
-                     "description": "Maximum depth for weaving connections."
-                   },
-                   "detect_cycles": {
-                     "type": "boolean",
-                     "description": "Whether to detect and avoid cycles."
-                   }
+                     "question": {
+                        "type": "string",
+                        "description": "The question to answer."
+                     },
+                     "witnesses": {
+                        "type": "array",
+                        "items": {
+                           "type": "string"
+                        },
+                        "description": "List of starting verses."
+                     },
+                     "max_depth": {
+                        "type": "integer",
+                        "description": "Maximum depth for weaving connections."
+                     },
+                     "detect_cycles": {
+                        "type": "boolean",
+                        "description": "Whether to detect and avoid cycles."
+                     }
                   },
-                  "process": "Runs .eval, .checksum, .tlm, .tas; prioritizes Jesus’s direct quotes, focuses singular gift.",
+                  "emoji": "🧵",
+                  "witnesses": [
+                     "John 1:1 - 'In the beginning was the Word, and the Word was with God, and the Word was God.'",
+                     "2 Timothy 3:16 - 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.'"
+                  ],
+                  "callout": "Refer to 'Scripts.weave_script' for detailed weaving steps.",
+                  "steps": [
+                     "1. Validate input parameters and witnesses.",
+                     "2. Prioritize Jesus’s direct quotes.",
+                     "3. Weave connections up to max_depth.",
+                     "4. Apply TLM checks and finalize output."
+                  ],
+                  "process": "Runs .eval, .checksum, .tlm, .tas; focuses singular gift.",
                   "output": "Succinct (2 verses) or Full (5 topics, 7+ stanzas, extras)"
                },
                ".generate_nonce":{
